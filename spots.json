@@ -11,7 +11,9 @@
         "_umap_options": {
           "color": "OrangeRed",
           "opacity": "1"
-        }
+        },
+        "description": "https://www.strava.com/segments/12089942",
+        "name": "Descente vers St Saturnin"
       },
       "geometry": {
         "type": "LineString",
@@ -69,7 +71,9 @@
         "_umap_options": {
           "color": "DarkGreen",
           "opacity": "1"
-        }
+        },
+        "name": "Jardins de St-Amant",
+        "description": "https://www.strava.com/segments/10841177"
       },
       "geometry": {
         "type": "LineString",
@@ -115,7 +119,9 @@
         "_umap_options": {
           "opacity": "1",
           "color": "Red"
-        }
+        },
+        "description": "https://www.strava.com/segments/7964740",
+        "name": "DH sentier en balcon - D213"
       },
       "geometry": {
         "type": "LineString",
@@ -197,7 +203,9 @@
         "_umap_options": {
           "color": "DarkGreen",
           "opacity": "1"
-        }
+        },
+        "description": "https://www.strava.com/segments/10864579",
+        "name": "Single plateau de la Serre"
       },
       "geometry": {
         "type": "LineString",
@@ -255,7 +263,9 @@
         "_umap_options": {
           "color": "Red",
           "opacity": "1"
-        }
+        },
+        "description": "https://www.strava.com/segments/22785492",
+        "name": "Serre de Portelas (DH Part)"
       },
       "geometry": {
         "type": "LineString",
