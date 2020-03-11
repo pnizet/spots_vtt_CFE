@@ -256,14 +256,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/22785492",
         "name": "Serre de Portelas (DH Part)"
       },
@@ -753,7 +750,8 @@
         "_umap_options": {
           "color": "OrangeRed",
           "opacity": "1"
-        }
+        },
+        "description": ""
       },
       "geometry": {
         "type": "LineString",
@@ -834,14 +832,12 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "DarkGreen",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "DarkGreen",
-          "opacity": "1"
-        }
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}",
+        "name": "le long de l'allier ?"
       },
       "geometry": {
         "type": "LineString",
