@@ -12,7 +12,7 @@
         "description": "https://www.strava.com/segments/12089942",
         "name": "Descente vers St Saturnin"
       },
-        "geometry": {
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -106,14 +106,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "opacity": "1",
-          "color": "Red"
-        },
-        "_umap_options": {
-          "opacity": "1",
-          "color": "Red"
-        },
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"opacity\":\"1\",\"color\":\"Red\"}",
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"Red\"}",
         "description": "https://www.strava.com/segments/7964740",
         "name": "DH sentier en balcon - D213"
       },
@@ -247,9 +244,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -299,14 +293,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "opacity": "1",
-          "color": "Red"
-        },
-        "_umap_options": {
-          "opacity": "1",
-          "color": "Red"
-        }
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"opacity\":\"1\",\"color\":\"Red\"}",
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"Red\"}"
       },
       "geometry": {
         "type": "LineString",
@@ -361,9 +352,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff0000",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -444,7 +432,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -514,7 +503,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -620,7 +610,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -770,7 +761,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -880,7 +872,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1013,7 +1006,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1181,7 +1175,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1341,7 +1336,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1529,7 +1525,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1587,7 +1584,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1633,16 +1631,12 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "dashArray": "5",
-          "opacity": "1",
-          "color": "Green"
-        },
-        "_umap_options": {
-          "dashArray": "5",
-          "opacity": "1",
-          "color": "Green"
-        }
+        "stroke": "#008000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"dashArray\":\"5\",\"opacity\":\"1\",\"color\":\"Green\"}",
+        "_umap_options": "{\"dashArray\":\"5\",\"opacity\":\"1\",\"color\":\"Green\"}",
+        "dashArray": 5
       },
       "geometry": {
         "type": "LineString",
@@ -1685,7 +1679,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1743,7 +1738,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1829,7 +1825,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1947,7 +1944,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -1993,7 +1991,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2067,7 +2066,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2157,7 +2157,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2295,7 +2296,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2361,7 +2363,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2407,7 +2410,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2571,7 +2575,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2665,14 +2670,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "opacity": "1",
-          "color": "Red"
-        },
-        "_umap_options": {
-          "opacity": "1",
-          "color": "Red"
-        }
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"opacity\":\"1\",\"color\":\"Red\"}",
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"Red\"}"
       },
       "geometry": {
         "type": "LineString",
@@ -2711,7 +2713,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2769,7 +2772,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3002,7 +3006,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3068,7 +3073,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3201,7 +3207,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3235,7 +3242,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3396,7 +3404,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3510,7 +3519,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3560,7 +3570,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -3606,7 +3617,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4101,7 +4113,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4278,7 +4291,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4328,7 +4342,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "MultiLineString",
         "coordinates": [
@@ -4364,7 +4379,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4410,7 +4426,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4515,8 +4532,12 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4537,7 +4558,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4555,7 +4578,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4597,7 +4621,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4643,7 +4668,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4713,7 +4739,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4759,7 +4786,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -4833,7 +4861,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -5049,7 +5078,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -5115,7 +5145,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -5438,16 +5469,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "opacity": "1",
-          "color": "Red",
-          "dashArray": "5"
-        },
-        "_umap_options": {
-          "opacity": "1",
-          "color": "Red",
-          "dashArray": "5"
-        }
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"opacity\":\"1\",\"color\":\"Red\",\"dashArray\":\"5\"}",
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"Red\",\"dashArray\":\"5\"}"
       },
       "geometry": {
         "type": "LineString",
@@ -5753,7 +5779,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -5830,7 +5857,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -5868,7 +5896,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -5918,7 +5947,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6068,7 +6098,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6142,7 +6173,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6196,7 +6228,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6238,7 +6271,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6300,7 +6334,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6334,7 +6369,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6368,7 +6404,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6784,7 +6821,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6822,7 +6860,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6868,7 +6907,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -6914,7 +6954,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7004,7 +7045,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7054,7 +7096,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7144,7 +7187,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7230,7 +7274,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7336,7 +7381,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7477,7 +7523,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -7634,8 +7681,12 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -8906,16 +8957,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "opacity": "1",
-          "color": "OrangeRed",
-          "dashArray": "5"
-        },
-        "_umap_options": {
-          "opacity": "1",
-          "color": "OrangeRed",
-          "dashArray": "5"
-        }
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"opacity\":\"1\",\"color\":\"OrangeRed\",\"dashArray\":\"5\"}",
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"OrangeRed\",\"dashArray\":\"5\"}"
       },
       "geometry": {
         "type": "LineString",
@@ -8950,16 +8996,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "opacity": "1",
-          "color": "OrangeRed",
-          "dashArray": "5"
-        },
-        "_umap_options": {
-          "opacity": "1",
-          "color": "OrangeRed",
-          "dashArray": "5"
-        }
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"opacity\":\"1\",\"color\":\"OrangeRed\",\"dashArray\":\"5\"}",
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"OrangeRed\",\"dashArray\":\"5\"}"
       },
       "geometry": {
         "type": "LineString",
@@ -9097,7 +9138,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9171,16 +9213,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "opacity": "1",
-          "color": "Red",
-          "dashArray": "5"
-        },
-        "_umap_options": {
-          "opacity": "1",
-          "color": "Red",
-          "dashArray": "5"
-        }
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"opacity\":\"1\",\"color\":\"Red\",\"dashArray\":\"5\"}",
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"Red\",\"dashArray\":\"5\"}"
       },
       "geometry": {
         "type": "LineString",
@@ -9227,16 +9264,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "opacity": "1",
-          "color": "Red",
-          "dashArray": "5"
-        },
-        "_umap_options": {
-          "opacity": "1",
-          "color": "Red",
-          "dashArray": "5"
-        },
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"opacity\":\"1\",\"color\":\"Red\",\"dashArray\":\"5\"}",
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"Red\",\"dashArray\":\"5\"}",
         "name": "descente villars",
         "description": "https://www.strava.com/segments/9049947"
       },
@@ -9289,14 +9321,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "opacity": "1",
-          "color": "Black"
-        },
-        "_umap_options": {
-          "opacity": "1",
-          "color": "Black"
-        }
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"opacity\":\"1\",\"color\":\"Black\"}",
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"Black\"}"
       },
       "geometry": {
         "type": "LineString",
@@ -9347,7 +9376,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9507,14 +9537,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "OrangeRed",
-          "opacity": "0.9"
-        },
-        "_umap_options": {
-          "color": "OrangeRed",
-          "opacity": "0.9"
-        }
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"0.9\"}",
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"0.9\"}"
       },
       "geometry": {
         "type": "LineString",
@@ -9782,7 +9809,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9880,7 +9908,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -9942,7 +9971,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10216,6 +10246,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Red\",\"dashArray\":\"5\",\"opacity\":\"1\"}"
       },
       "geometry": {
@@ -10259,6 +10292,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\",,\"dashArray\":\"5\"}",
         "description": "https://www.strava.com/segments/11282920",
         "name": "ça part !"
@@ -10300,6 +10336,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\",,\"dashArray\":\"5\"}"
       },
       "geometry": {
@@ -10355,6 +10394,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\",,\"dashArray\":\"5\"}"
       },
       "geometry": {
@@ -10390,7 +10432,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"      },
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10536,6 +10582,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\",\"dashArray\": \"10\"}"
       },
       "geometry": {
@@ -10623,6 +10672,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\",  \"dashArray\":\"10\"}"
       },
       "geometry": {
@@ -10662,7 +10714,9 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
+        "stroke": ""
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10716,7 +10770,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"      },
+        "stroke": "#008000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -10758,113 +10816,15 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": " MiniSection ",
         "time": "2017-10-08T14:42:39Z",
-        "coordTimes": [
-          "2017-10-08T14:42:39Z",
-          "2017-10-08T14:42:41Z",
-          "2017-10-08T14:42:42Z",
-          "2017-10-08T14:42:43Z",
-          "2017-10-08T14:42:44Z",
-          "2017-10-08T14:42:45Z",
-          "2017-10-08T14:42:46Z",
-          "2017-10-08T14:42:47Z",
-          "2017-10-08T14:42:48Z",
-          "2017-10-08T14:42:49Z",
-          "2017-10-08T14:42:50Z",
-          "2017-10-08T14:42:51Z",
-          "2017-10-08T14:42:52Z",
-          "2017-10-08T14:42:53Z",
-          "2017-10-08T14:42:54Z",
-          "2017-10-08T14:42:55Z",
-          "2017-10-08T14:42:56Z",
-          "2017-10-08T14:42:57Z",
-          "2017-10-08T14:42:58Z",
-          "2017-10-08T14:42:59Z",
-          "2017-10-08T14:43:00Z",
-          "2017-10-08T14:43:02Z",
-          "2017-10-08T14:43:03Z",
-          "2017-10-08T14:43:04Z",
-          "2017-10-08T14:43:05Z",
-          "2017-10-08T14:43:07Z",
-          "2017-10-08T14:43:08Z",
-          "2017-10-08T14:43:09Z",
-          "2017-10-08T14:43:10Z",
-          "2017-10-08T14:43:11Z",
-          "2017-10-08T14:43:12Z",
-          "2017-10-08T14:43:13Z",
-          "2017-10-08T14:43:14Z",
-          "2017-10-08T14:43:15Z",
-          "2017-10-08T14:43:16Z",
-          "2017-10-08T14:43:17Z",
-          "2017-10-08T14:43:18Z",
-          "2017-10-08T14:43:19Z",
-          "2017-10-08T14:43:20Z",
-          "2017-10-08T14:43:21Z",
-          "2017-10-08T14:43:22Z",
-          "2017-10-08T14:43:23Z",
-          "2017-10-08T14:43:24Z",
-          "2017-10-08T14:43:25Z",
-          "2017-10-08T14:43:26Z",
-          "2017-10-08T14:43:27Z",
-          "2017-10-08T14:43:28Z",
-          "2017-10-08T14:43:29Z",
-          "2017-10-08T14:43:31Z",
-          "2017-10-08T14:43:32Z",
-          "2017-10-08T14:43:33Z",
-          "2017-10-08T14:43:34Z",
-          "2017-10-08T14:43:35Z",
-          "2017-10-08T14:43:36Z",
-          "2017-10-08T14:43:37Z",
-          "2017-10-08T14:43:38Z",
-          "2017-10-08T14:43:39Z",
-          "2017-10-08T14:43:40Z",
-          "2017-10-08T14:43:42Z",
-          "2017-10-08T14:43:44Z",
-          "2017-10-08T14:43:46Z",
-          "2017-10-08T14:43:47Z",
-          "2017-10-08T14:43:49Z",
-          "2017-10-08T14:43:51Z",
-          "2017-10-08T14:43:53Z",
-          "2017-10-08T14:43:55Z",
-          "2017-10-08T14:43:57Z",
-          "2017-10-08T14:43:59Z",
-          "2017-10-08T14:44:00Z",
-          "2017-10-08T14:44:01Z",
-          "2017-10-08T14:44:02Z",
-          "2017-10-08T14:44:03Z",
-          "2017-10-08T14:44:04Z",
-          "2017-10-08T14:44:05Z",
-          "2017-10-08T14:44:06Z",
-          "2017-10-08T14:44:07Z",
-          "2017-10-08T14:44:08Z",
-          "2017-10-08T14:44:09Z",
-          "2017-10-08T14:44:10Z",
-          "2017-10-08T14:44:11Z",
-          "2017-10-08T14:44:12Z",
-          "2017-10-08T14:44:13Z",
-          "2017-10-08T14:44:14Z",
-          "2017-10-08T14:44:15Z",
-          "2017-10-08T14:44:16Z",
-          "2017-10-08T14:44:17Z",
-          "2017-10-08T14:44:18Z",
-          "2017-10-08T14:44:19Z",
-          "2017-10-08T14:44:20Z",
-          "2017-10-08T14:44:21Z",
-          "2017-10-08T14:44:22Z",
-          "2017-10-08T14:44:23Z",
-          "2017-10-08T14:44:24Z",
-          "2017-10-08T14:44:25Z"
-        ],
-        "_storage_options": {
-          "opacity": "1",
-          "color": "Black"
-        },
-        "description": "https://www.strava.com/segments/7948698?filter=overall\nAttention à l'arbre couché (à sauter)",
-        "_umap_options": {
-          "opacity": "1",
-          "color": "Black"
-        }
+        "coordTimes": "[\"2017-10-08T14:42:39Z\",\"2017-10-08T14:42:41Z\",\"2017-10-08T14:42:42Z\",\"2017-10-08T14:42:43Z\",\"2017-10-08T14:42:44Z\",\"2017-10-08T14:42:45Z\",\"2017-10-08T14:42:46Z\",\"2017-10-08T14:42:47Z\",\"2017-10-08T14:42:48Z\",\"2017-10-08T14:42:49Z\",\"2017-10-08T14:42:50Z\",\"2017-10-08T14:42:51Z\",\"2017-10-08T14:42:52Z\",\"2017-10-08T14:42:53Z\",\"2017-10-08T14:42:54Z\",\"2017-10-08T14:42:55Z\",\"2017-10-08T14:42:56Z\",\"2017-10-08T14:42:57Z\",\"2017-10-08T14:42:58Z\",\"2017-10-08T14:42:59Z\",\"2017-10-08T14:43:00Z\",\"2017-10-08T14:43:02Z\",\"2017-10-08T14:43:03Z\",\"2017-10-08T14:43:04Z\",\"2017-10-08T14:43:05Z\",\"2017-10-08T14:43:07Z\",\"2017-10-08T14:43:08Z\",\"2017-10-08T14:43:09Z\",\"2017-10-08T14:43:10Z\",\"2017-10-08T14:43:11Z\",\"2017-10-08T14:43:12Z\",\"2017-10-08T14:43:13Z\",\"2017-10-08T14:43:14Z\",\"2017-10-08T14:43:15Z\",\"2017-10-08T14:43:16Z\",\"2017-10-08T14:43:17Z\",\"2017-10-08T14:43:18Z\",\"2017-10-08T14:43:19Z\",\"2017-10-08T14:43:20Z\",\"2017-10-08T14:43:21Z\",\"2017-10-08T14:43:22Z\",\"2017-10-08T14:43:23Z\",\"2017-10-08T14:43:24Z\",\"2017-10-08T14:43:25Z\",\"2017-10-08T14:43:26Z\",\"2017-10-08T14:43:27Z\",\"2017-10-08T14:43:28Z\",\"2017-10-08T14:43:29Z\",\"2017-10-08T14:43:31Z\",\"2017-10-08T14:43:32Z\",\"2017-10-08T14:43:33Z\",\"2017-10-08T14:43:34Z\",\"2017-10-08T14:43:35Z\",\"2017-10-08T14:43:36Z\",\"2017-10-08T14:43:37Z\",\"2017-10-08T14:43:38Z\",\"2017-10-08T14:43:39Z\",\"2017-10-08T14:43:40Z\",\"2017-10-08T14:43:42Z\",\"2017-10-08T14:43:44Z\",\"2017-10-08T14:43:46Z\",\"2017-10-08T14:43:47Z\",\"2017-10-08T14:43:49Z\",\"2017-10-08T14:43:51Z\",\"2017-10-08T14:43:53Z\",\"2017-10-08T14:43:55Z\",\"2017-10-08T14:43:57Z\",\"2017-10-08T14:43:59Z\",\"2017-10-08T14:44:00Z\",\"2017-10-08T14:44:01Z\",\"2017-10-08T14:44:02Z\",\"2017-10-08T14:44:03Z\",\"2017-10-08T14:44:04Z\",\"2017-10-08T14:44:05Z\",\"2017-10-08T14:44:06Z\",\"2017-10-08T14:44:07Z\",\"2017-10-08T14:44:08Z\",\"2017-10-08T14:44:09Z\",\"2017-10-08T14:44:10Z\",\"2017-10-08T14:44:11Z\",\"2017-10-08T14:44:12Z\",\"2017-10-08T14:44:13Z\",\"2017-10-08T14:44:14Z\",\"2017-10-08T14:44:15Z\",\"2017-10-08T14:44:16Z\",\"2017-10-08T14:44:17Z\",\"2017-10-08T14:44:18Z\",\"2017-10-08T14:44:19Z\",\"2017-10-08T14:44:20Z\",\"2017-10-08T14:44:21Z\",\"2017-10-08T14:44:22Z\",\"2017-10-08T14:44:23Z\",\"2017-10-08T14:44:24Z\",\"2017-10-08T14:44:25Z\"]",
+        "_storage_options": "{\"opacity\":\"1\",\"color\":\"Black\"}",
+        "description": "https://www.strava.com/segments/7948698?filter=overallAttention à l'arbre couché (à sauter)",
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"Black\"}"
       },
       "geometry": {
         "type": "LineString",
@@ -11251,6 +11211,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "name": "Bien caché",
         "description": "https://www.strava.com/segments/19609793"
@@ -11533,7 +11496,8 @@
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/11680290",
         "name": "Descente de la tour de Rognon",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -11779,7 +11743,8 @@
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
         "name": "descente des marches",
         "description": "https://www.strava.com/segments/10279107",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -11813,6 +11778,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\",,\"dashArray\":\"5\"}",
         "name": "Descente du chemin des Crêtes",
         "description": "https://www.strava.com/segments/4869219"
@@ -11972,7 +11940,8 @@
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "name": "Descente du ravin de Vazilhat",
         "description": "https://www.strava.com/segments/7964276",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -12024,7 +11993,8 @@
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "name": "Descente du single de l'escargot",
         "description": "https://www.strava.com/segments/16403982",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -12228,6 +12198,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#008000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/17846867",
         "name": "Descente Le Crest"
@@ -12362,6 +12335,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\",,\"dashArray\":\"5\"}",
         "name": "Descente petite carrière",
         "description": "https://www.strava.com/segments/18918317"
@@ -12630,7 +12606,8 @@
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/9033560",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -13563,10 +13540,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Dh Air soft",
         "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
-        "description": "https://www.strava.com/segments/16705535\n\nAttention : il y a quelques arbres à couper ",
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"      },
+        "description": "https://www.strava.com/segments/16705535Attention : il y a quelques arbres à couper ",
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -13740,7 +13721,8 @@
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "name": "DH Le mas > Ponteix",
         "description": "https://www.strava.com/segments/12709535",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -13894,7 +13876,8 @@
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/8580874?filter=overall",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -14172,6 +14155,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\",,\"dashArray\":\"5\"}",
         "description": "https://www.strava.com/segments/6492236",
         "name": "foie ferrée bas"
@@ -14221,10 +14207,10 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "opacity": "1",
-          "color": "Black"
-        },
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"Black\"}",
         "name": "Into The Wild",
         "description": "https://www.strava.com/segments/19420702"
       },
@@ -14322,109 +14308,12 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "La Faucheuse",
         "time": "2019-02-26T12:33:08.209Z",
-        "coordTimes": [
-          "2019-02-26T12:33:08.209Z",
-          "2019-02-26T12:33:09.209Z",
-          "2019-02-26T12:33:10.209Z",
-          "2019-02-26T12:33:11.209Z",
-          "2019-02-26T12:33:12.209Z",
-          "2019-02-26T12:33:13.209Z",
-          "2019-02-26T12:33:14.209Z",
-          "2019-02-26T12:33:15.209Z",
-          "2019-02-26T12:33:16.209Z",
-          "2019-02-26T12:33:17.209Z",
-          "2019-02-26T12:33:18.209Z",
-          "2019-02-26T12:33:19.209Z",
-          "2019-02-26T12:33:20.209Z",
-          "2019-02-26T12:33:21.209Z",
-          "2019-02-26T12:33:22.209Z",
-          "2019-02-26T12:33:23.209Z",
-          "2019-02-26T12:33:24.209Z",
-          "2019-02-26T12:33:25.209Z",
-          "2019-02-26T12:33:26.209Z",
-          "2019-02-26T12:33:27.209Z",
-          "2019-02-26T12:33:28.209Z",
-          "2019-02-26T12:33:29.209Z",
-          "2019-02-26T12:33:30.209Z",
-          "2019-02-26T12:33:31.209Z",
-          "2019-02-26T12:33:32.209Z",
-          "2019-02-26T12:33:33.209Z",
-          "2019-02-26T12:33:34.209Z",
-          "2019-02-26T12:33:35.209Z",
-          "2019-02-26T12:33:36.209Z",
-          "2019-02-26T12:33:37.209Z",
-          "2019-02-26T12:33:38.209Z",
-          "2019-02-26T12:33:39.209Z",
-          "2019-02-26T12:33:40.209Z",
-          "2019-02-26T12:33:41.209Z",
-          "2019-02-26T12:33:42.209Z",
-          "2019-02-26T12:33:43.209Z",
-          "2019-02-26T12:33:44.209Z",
-          "2019-02-26T12:33:45.209Z",
-          "2019-02-26T12:33:46.209Z",
-          "2019-02-26T12:33:47.209Z",
-          "2019-02-26T12:33:48.209Z",
-          "2019-02-26T12:33:49.209Z",
-          "2019-02-26T12:33:50.209Z",
-          "2019-02-26T12:33:51.209Z",
-          "2019-02-26T12:33:52.209Z",
-          "2019-02-26T12:33:53.209Z",
-          "2019-02-26T12:33:54.209Z",
-          "2019-02-26T12:33:55.209Z",
-          "2019-02-26T12:33:56.209Z",
-          "2019-02-26T12:33:57.209Z",
-          "2019-02-26T12:33:58.209Z",
-          "2019-02-26T12:33:59.209Z",
-          "2019-02-26T12:34:00.209Z",
-          "2019-02-26T12:34:01.209Z",
-          "2019-02-26T12:34:02.209Z",
-          "2019-02-26T12:34:03.209Z",
-          "2019-02-26T12:34:04.209Z",
-          "2019-02-26T12:34:05.209Z",
-          "2019-02-26T12:34:06.209Z",
-          "2019-02-26T12:34:07.209Z",
-          "2019-02-26T12:34:08.209Z",
-          "2019-02-26T12:34:09.209Z",
-          "2019-02-26T12:34:10.209Z",
-          "2019-02-26T12:34:11.209Z",
-          "2019-02-26T12:34:12.209Z",
-          "2019-02-26T12:34:13.209Z",
-          "2019-02-26T12:34:14.209Z",
-          "2019-02-26T12:34:15.209Z",
-          "2019-02-26T12:34:16.209Z",
-          "2019-02-26T12:34:17.209Z",
-          "2019-02-26T12:34:18.209Z",
-          "2019-02-26T12:34:19.209Z",
-          "2019-02-26T12:34:20.209Z",
-          "2019-02-26T12:34:21.209Z",
-          "2019-02-26T12:34:22.209Z",
-          "2019-02-26T12:34:23.209Z",
-          "2019-02-26T12:34:24.209Z",
-          "2019-02-26T12:34:25.209Z",
-          "2019-02-26T12:34:26.209Z",
-          "2019-02-26T12:34:27.209Z",
-          "2019-02-26T12:34:28.209Z",
-          "2019-02-26T12:34:29.209Z",
-          "2019-02-26T12:34:30.209Z",
-          "2019-02-26T12:34:31.209Z",
-          "2019-02-26T12:34:32.209Z",
-          "2019-02-26T12:34:33.209Z",
-          "2019-02-26T12:34:34.209Z",
-          "2019-02-26T12:34:35.209Z",
-          "2019-02-26T12:34:36.209Z",
-          "2019-02-26T12:34:37.209Z",
-          "2019-02-26T12:34:38.209Z",
-          "2019-02-26T12:34:39.209Z",
-          "2019-02-26T12:34:40.209Z",
-          "2019-02-26T12:34:41.209Z",
-          "2019-02-26T12:34:42.209Z",
-          "2019-02-26T12:34:43.209Z",
-          "2019-02-26T12:34:44.209Z",
-          "2019-02-26T12:34:45.209Z",
-          "2019-02-26T12:34:46.209Z"
-        ],
+        "coordTimes": "[\"2019-02-26T12:33:08.209Z\",\"2019-02-26T12:33:09.209Z\",\"2019-02-26T12:33:10.209Z\",\"2019-02-26T12:33:11.209Z\",\"2019-02-26T12:33:12.209Z\",\"2019-02-26T12:33:13.209Z\",\"2019-02-26T12:33:14.209Z\",\"2019-02-26T12:33:15.209Z\",\"2019-02-26T12:33:16.209Z\",\"2019-02-26T12:33:17.209Z\",\"2019-02-26T12:33:18.209Z\",\"2019-02-26T12:33:19.209Z\",\"2019-02-26T12:33:20.209Z\",\"2019-02-26T12:33:21.209Z\",\"2019-02-26T12:33:22.209Z\",\"2019-02-26T12:33:23.209Z\",\"2019-02-26T12:33:24.209Z\",\"2019-02-26T12:33:25.209Z\",\"2019-02-26T12:33:26.209Z\",\"2019-02-26T12:33:27.209Z\",\"2019-02-26T12:33:28.209Z\",\"2019-02-26T12:33:29.209Z\",\"2019-02-26T12:33:30.209Z\",\"2019-02-26T12:33:31.209Z\",\"2019-02-26T12:33:32.209Z\",\"2019-02-26T12:33:33.209Z\",\"2019-02-26T12:33:34.209Z\",\"2019-02-26T12:33:35.209Z\",\"2019-02-26T12:33:36.209Z\",\"2019-02-26T12:33:37.209Z\",\"2019-02-26T12:33:38.209Z\",\"2019-02-26T12:33:39.209Z\",\"2019-02-26T12:33:40.209Z\",\"2019-02-26T12:33:41.209Z\",\"2019-02-26T12:33:42.209Z\",\"2019-02-26T12:33:43.209Z\",\"2019-02-26T12:33:44.209Z\",\"2019-02-26T12:33:45.209Z\",\"2019-02-26T12:33:46.209Z\",\"2019-02-26T12:33:47.209Z\",\"2019-02-26T12:33:48.209Z\",\"2019-02-26T12:33:49.209Z\",\"2019-02-26T12:33:50.209Z\",\"2019-02-26T12:33:51.209Z\",\"2019-02-26T12:33:52.209Z\",\"2019-02-26T12:33:53.209Z\",\"2019-02-26T12:33:54.209Z\",\"2019-02-26T12:33:55.209Z\",\"2019-02-26T12:33:56.209Z\",\"2019-02-26T12:33:57.209Z\",\"2019-02-26T12:33:58.209Z\",\"2019-02-26T12:33:59.209Z\",\"2019-02-26T12:34:00.209Z\",\"2019-02-26T12:34:01.209Z\",\"2019-02-26T12:34:02.209Z\",\"2019-02-26T12:34:03.209Z\",\"2019-02-26T12:34:04.209Z\",\"2019-02-26T12:34:05.209Z\",\"2019-02-26T12:34:06.209Z\",\"2019-02-26T12:34:07.209Z\",\"2019-02-26T12:34:08.209Z\",\"2019-02-26T12:34:09.209Z\",\"2019-02-26T12:34:10.209Z\",\"2019-02-26T12:34:11.209Z\",\"2019-02-26T12:34:12.209Z\",\"2019-02-26T12:34:13.209Z\",\"2019-02-26T12:34:14.209Z\",\"2019-02-26T12:34:15.209Z\",\"2019-02-26T12:34:16.209Z\",\"2019-02-26T12:34:17.209Z\",\"2019-02-26T12:34:18.209Z\",\"2019-02-26T12:34:19.209Z\",\"2019-02-26T12:34:20.209Z\",\"2019-02-26T12:34:21.209Z\",\"2019-02-26T12:34:22.209Z\",\"2019-02-26T12:34:23.209Z\",\"2019-02-26T12:34:24.209Z\",\"2019-02-26T12:34:25.209Z\",\"2019-02-26T12:34:26.209Z\",\"2019-02-26T12:34:27.209Z\",\"2019-02-26T12:34:28.209Z\",\"2019-02-26T12:34:29.209Z\",\"2019-02-26T12:34:30.209Z\",\"2019-02-26T12:34:31.209Z\",\"2019-02-26T12:34:32.209Z\",\"2019-02-26T12:34:33.209Z\",\"2019-02-26T12:34:34.209Z\",\"2019-02-26T12:34:35.209Z\",\"2019-02-26T12:34:36.209Z\",\"2019-02-26T12:34:37.209Z\",\"2019-02-26T12:34:38.209Z\",\"2019-02-26T12:34:39.209Z\",\"2019-02-26T12:34:40.209Z\",\"2019-02-26T12:34:41.209Z\",\"2019-02-26T12:34:42.209Z\",\"2019-02-26T12:34:43.209Z\",\"2019-02-26T12:34:44.209Z\",\"2019-02-26T12:34:45.209Z\",\"2019-02-26T12:34:46.209Z\"]",
         "description": "https://www.strava.com/segments/15973481"
       },
       "geometry": {
@@ -14937,7 +14826,8 @@
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "name": "La Souche",
         "description": "https://www.strava.com/segments/17206313",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -15032,6 +14922,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#008000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/17724912",
         "name": "Little Single"
@@ -15089,6 +14982,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
         "name": "Ne tombe pas dans le fossé",
         "description": "https://www.strava.com/segments/19342537"
@@ -15134,6 +15030,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
         "name": "Parallele au single de l'escargot",
         "description": "https://www.strava.com/segments/15503597"
@@ -15314,7 +15213,8 @@
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/10190534\nPierreux",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -15854,7 +15754,8 @@
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/13468310",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -16258,7 +16159,8 @@
         "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}",
         "name": "Piste ďentrainement",
         "description": "https://www.strava.com/segments/17124459",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -16504,40 +16406,12 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Segment de vélo de 0,3 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "time": "2019-02-26T12:47:06.252Z",
-        "coordTimes": [
-          "2019-02-26T12:47:06.252Z",
-          "2019-02-26T12:47:07.252Z",
-          "2019-02-26T12:47:08.252Z",
-          "2019-02-26T12:47:09.252Z",
-          "2019-02-26T12:47:10.252Z",
-          "2019-02-26T12:47:11.252Z",
-          "2019-02-26T12:47:12.252Z",
-          "2019-02-26T12:47:13.252Z",
-          "2019-02-26T12:47:14.252Z",
-          "2019-02-26T12:47:15.252Z",
-          "2019-02-26T12:47:16.252Z",
-          "2019-02-26T12:47:17.252Z",
-          "2019-02-26T12:47:18.252Z",
-          "2019-02-26T12:47:19.252Z",
-          "2019-02-26T12:47:20.252Z",
-          "2019-02-26T12:47:21.252Z",
-          "2019-02-26T12:47:22.252Z",
-          "2019-02-26T12:47:23.252Z",
-          "2019-02-26T12:47:24.252Z",
-          "2019-02-26T12:47:25.252Z",
-          "2019-02-26T12:47:26.252Z",
-          "2019-02-26T12:47:27.252Z",
-          "2019-02-26T12:47:28.252Z",
-          "2019-02-26T12:47:29.252Z",
-          "2019-02-26T12:47:30.252Z",
-          "2019-02-26T12:47:31.252Z",
-          "2019-02-26T12:47:32.252Z",
-          "2019-02-26T12:47:33.252Z",
-          "2019-02-26T12:47:34.252Z",
-          "2019-02-26T12:47:35.252Z"
-        ]
+        "coordTimes": "[\"2019-02-26T12:47:06.252Z\",\"2019-02-26T12:47:07.252Z\",\"2019-02-26T12:47:08.252Z\",\"2019-02-26T12:47:09.252Z\",\"2019-02-26T12:47:10.252Z\",\"2019-02-26T12:47:11.252Z\",\"2019-02-26T12:47:12.252Z\",\"2019-02-26T12:47:13.252Z\",\"2019-02-26T12:47:14.252Z\",\"2019-02-26T12:47:15.252Z\",\"2019-02-26T12:47:16.252Z\",\"2019-02-26T12:47:17.252Z\",\"2019-02-26T12:47:18.252Z\",\"2019-02-26T12:47:19.252Z\",\"2019-02-26T12:47:20.252Z\",\"2019-02-26T12:47:21.252Z\",\"2019-02-26T12:47:22.252Z\",\"2019-02-26T12:47:23.252Z\",\"2019-02-26T12:47:24.252Z\",\"2019-02-26T12:47:25.252Z\",\"2019-02-26T12:47:26.252Z\",\"2019-02-26T12:47:27.252Z\",\"2019-02-26T12:47:28.252Z\",\"2019-02-26T12:47:29.252Z\",\"2019-02-26T12:47:30.252Z\",\"2019-02-26T12:47:31.252Z\",\"2019-02-26T12:47:32.252Z\",\"2019-02-26T12:47:33.252Z\",\"2019-02-26T12:47:34.252Z\",\"2019-02-26T12:47:35.252Z\"]"
       },
       "geometry": {
         "type": "LineString",
@@ -16698,66 +16572,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Segment de vélo de 0,6 km à Cournols, Auvergne, France sur Strava",
         "time": "2019-02-26T12:56:38.442Z",
-        "coordTimes": [
-          "2019-02-26T12:56:38.442Z",
-          "2019-02-26T12:56:39.442Z",
-          "2019-02-26T12:56:40.442Z",
-          "2019-02-26T12:56:41.442Z",
-          "2019-02-26T12:56:42.442Z",
-          "2019-02-26T12:56:43.442Z",
-          "2019-02-26T12:56:44.442Z",
-          "2019-02-26T12:56:45.442Z",
-          "2019-02-26T12:56:46.442Z",
-          "2019-02-26T12:56:47.442Z",
-          "2019-02-26T12:56:48.442Z",
-          "2019-02-26T12:56:49.442Z",
-          "2019-02-26T12:56:50.442Z",
-          "2019-02-26T12:56:51.442Z",
-          "2019-02-26T12:56:52.442Z",
-          "2019-02-26T12:56:53.442Z",
-          "2019-02-26T12:56:54.442Z",
-          "2019-02-26T12:56:55.442Z",
-          "2019-02-26T12:56:56.442Z",
-          "2019-02-26T12:56:57.442Z",
-          "2019-02-26T12:56:58.442Z",
-          "2019-02-26T12:56:59.442Z",
-          "2019-02-26T12:57:00.442Z",
-          "2019-02-26T12:57:01.442Z",
-          "2019-02-26T12:57:02.442Z",
-          "2019-02-26T12:57:03.442Z",
-          "2019-02-26T12:57:04.442Z",
-          "2019-02-26T12:57:05.442Z",
-          "2019-02-26T12:57:06.442Z",
-          "2019-02-26T12:57:07.442Z",
-          "2019-02-26T12:57:08.442Z",
-          "2019-02-26T12:57:09.442Z",
-          "2019-02-26T12:57:10.442Z",
-          "2019-02-26T12:57:11.442Z",
-          "2019-02-26T12:57:12.442Z",
-          "2019-02-26T12:57:13.442Z",
-          "2019-02-26T12:57:14.442Z",
-          "2019-02-26T12:57:15.442Z",
-          "2019-02-26T12:57:16.442Z",
-          "2019-02-26T12:57:17.442Z",
-          "2019-02-26T12:57:18.442Z",
-          "2019-02-26T12:57:19.442Z",
-          "2019-02-26T12:57:20.442Z",
-          "2019-02-26T12:57:21.442Z",
-          "2019-02-26T12:57:22.442Z",
-          "2019-02-26T12:57:23.442Z",
-          "2019-02-26T12:57:24.442Z",
-          "2019-02-26T12:57:25.442Z",
-          "2019-02-26T12:57:26.442Z",
-          "2019-02-26T12:57:27.442Z",
-          "2019-02-26T12:57:28.442Z",
-          "2019-02-26T12:57:29.442Z",
-          "2019-02-26T12:57:30.442Z",
-          "2019-02-26T12:57:31.442Z",
-          "2019-02-26T12:57:32.442Z"
-        ],
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"      },
+        "coordTimes": "[\"2019-02-26T12:56:38.442Z\",\"2019-02-26T12:56:39.442Z\",\"2019-02-26T12:56:40.442Z\",\"2019-02-26T12:56:41.442Z\",\"2019-02-26T12:56:42.442Z\",\"2019-02-26T12:56:43.442Z\",\"2019-02-26T12:56:44.442Z\",\"2019-02-26T12:56:45.442Z\",\"2019-02-26T12:56:46.442Z\",\"2019-02-26T12:56:47.442Z\",\"2019-02-26T12:56:48.442Z\",\"2019-02-26T12:56:49.442Z\",\"2019-02-26T12:56:50.442Z\",\"2019-02-26T12:56:51.442Z\",\"2019-02-26T12:56:52.442Z\",\"2019-02-26T12:56:53.442Z\",\"2019-02-26T12:56:54.442Z\",\"2019-02-26T12:56:55.442Z\",\"2019-02-26T12:56:56.442Z\",\"2019-02-26T12:56:57.442Z\",\"2019-02-26T12:56:58.442Z\",\"2019-02-26T12:56:59.442Z\",\"2019-02-26T12:57:00.442Z\",\"2019-02-26T12:57:01.442Z\",\"2019-02-26T12:57:02.442Z\",\"2019-02-26T12:57:03.442Z\",\"2019-02-26T12:57:04.442Z\",\"2019-02-26T12:57:05.442Z\",\"2019-02-26T12:57:06.442Z\",\"2019-02-26T12:57:07.442Z\",\"2019-02-26T12:57:08.442Z\",\"2019-02-26T12:57:09.442Z\",\"2019-02-26T12:57:10.442Z\",\"2019-02-26T12:57:11.442Z\",\"2019-02-26T12:57:12.442Z\",\"2019-02-26T12:57:13.442Z\",\"2019-02-26T12:57:14.442Z\",\"2019-02-26T12:57:15.442Z\",\"2019-02-26T12:57:16.442Z\",\"2019-02-26T12:57:17.442Z\",\"2019-02-26T12:57:18.442Z\",\"2019-02-26T12:57:19.442Z\",\"2019-02-26T12:57:20.442Z\",\"2019-02-26T12:57:21.442Z\",\"2019-02-26T12:57:22.442Z\",\"2019-02-26T12:57:23.442Z\",\"2019-02-26T12:57:24.442Z\",\"2019-02-26T12:57:25.442Z\",\"2019-02-26T12:57:26.442Z\",\"2019-02-26T12:57:27.442Z\",\"2019-02-26T12:57:28.442Z\",\"2019-02-26T12:57:29.442Z\",\"2019-02-26T12:57:30.442Z\",\"2019-02-26T12:57:31.442Z\",\"2019-02-26T12:57:32.442Z\"]",
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17042,51 +16864,12 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Segment de vélo de 0,6 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "time": "2019-02-26T12:45:44.691Z",
-        "coordTimes": [
-          "2019-02-26T12:45:44.691Z",
-          "2019-02-26T12:45:45.691Z",
-          "2019-02-26T12:45:46.691Z",
-          "2019-02-26T12:45:47.691Z",
-          "2019-02-26T12:45:48.691Z",
-          "2019-02-26T12:45:49.691Z",
-          "2019-02-26T12:45:50.691Z",
-          "2019-02-26T12:45:51.691Z",
-          "2019-02-26T12:45:52.691Z",
-          "2019-02-26T12:45:53.691Z",
-          "2019-02-26T12:45:54.691Z",
-          "2019-02-26T12:45:55.691Z",
-          "2019-02-26T12:45:56.691Z",
-          "2019-02-26T12:45:57.691Z",
-          "2019-02-26T12:45:58.691Z",
-          "2019-02-26T12:45:59.691Z",
-          "2019-02-26T12:46:00.691Z",
-          "2019-02-26T12:46:01.691Z",
-          "2019-02-26T12:46:02.691Z",
-          "2019-02-26T12:46:03.691Z",
-          "2019-02-26T12:46:04.691Z",
-          "2019-02-26T12:46:05.691Z",
-          "2019-02-26T12:46:06.691Z",
-          "2019-02-26T12:46:07.691Z",
-          "2019-02-26T12:46:08.691Z",
-          "2019-02-26T12:46:09.691Z",
-          "2019-02-26T12:46:10.691Z",
-          "2019-02-26T12:46:11.691Z",
-          "2019-02-26T12:46:12.691Z",
-          "2019-02-26T12:46:13.691Z",
-          "2019-02-26T12:46:14.691Z",
-          "2019-02-26T12:46:15.691Z",
-          "2019-02-26T12:46:16.691Z",
-          "2019-02-26T12:46:17.691Z",
-          "2019-02-26T12:46:18.691Z",
-          "2019-02-26T12:46:19.691Z",
-          "2019-02-26T12:46:20.691Z",
-          "2019-02-26T12:46:21.691Z",
-          "2019-02-26T12:46:22.691Z",
-          "2019-02-26T12:46:23.691Z",
-          "2019-02-26T12:46:24.691Z"
-        ]
+        "coordTimes": "[\"2019-02-26T12:45:44.691Z\",\"2019-02-26T12:45:45.691Z\",\"2019-02-26T12:45:46.691Z\",\"2019-02-26T12:45:47.691Z\",\"2019-02-26T12:45:48.691Z\",\"2019-02-26T12:45:49.691Z\",\"2019-02-26T12:45:50.691Z\",\"2019-02-26T12:45:51.691Z\",\"2019-02-26T12:45:52.691Z\",\"2019-02-26T12:45:53.691Z\",\"2019-02-26T12:45:54.691Z\",\"2019-02-26T12:45:55.691Z\",\"2019-02-26T12:45:56.691Z\",\"2019-02-26T12:45:57.691Z\",\"2019-02-26T12:45:58.691Z\",\"2019-02-26T12:45:59.691Z\",\"2019-02-26T12:46:00.691Z\",\"2019-02-26T12:46:01.691Z\",\"2019-02-26T12:46:02.691Z\",\"2019-02-26T12:46:03.691Z\",\"2019-02-26T12:46:04.691Z\",\"2019-02-26T12:46:05.691Z\",\"2019-02-26T12:46:06.691Z\",\"2019-02-26T12:46:07.691Z\",\"2019-02-26T12:46:08.691Z\",\"2019-02-26T12:46:09.691Z\",\"2019-02-26T12:46:10.691Z\",\"2019-02-26T12:46:11.691Z\",\"2019-02-26T12:46:12.691Z\",\"2019-02-26T12:46:13.691Z\",\"2019-02-26T12:46:14.691Z\",\"2019-02-26T12:46:15.691Z\",\"2019-02-26T12:46:16.691Z\",\"2019-02-26T12:46:17.691Z\",\"2019-02-26T12:46:18.691Z\",\"2019-02-26T12:46:19.691Z\",\"2019-02-26T12:46:20.691Z\",\"2019-02-26T12:46:21.691Z\",\"2019-02-26T12:46:22.691Z\",\"2019-02-26T12:46:23.691Z\",\"2019-02-26T12:46:24.691Z\"]"
       },
       "geometry": {
         "type": "LineString",
@@ -17302,72 +17085,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Segment de vélo de 0,7 km à Saint Saturnin, Puy De Dôme, Auvergne, France sur Strava",
         "time": "2019-02-26T12:53:36.689Z",
-        "coordTimes": [
-          "2019-02-26T12:53:36.689Z",
-          "2019-02-26T12:53:37.689Z",
-          "2019-02-26T12:53:38.689Z",
-          "2019-02-26T12:53:39.689Z",
-          "2019-02-26T12:53:40.689Z",
-          "2019-02-26T12:53:41.689Z",
-          "2019-02-26T12:53:42.689Z",
-          "2019-02-26T12:53:43.689Z",
-          "2019-02-26T12:53:44.689Z",
-          "2019-02-26T12:53:45.689Z",
-          "2019-02-26T12:53:46.689Z",
-          "2019-02-26T12:53:47.689Z",
-          "2019-02-26T12:53:48.689Z",
-          "2019-02-26T12:53:49.689Z",
-          "2019-02-26T12:53:50.689Z",
-          "2019-02-26T12:53:51.689Z",
-          "2019-02-26T12:53:52.689Z",
-          "2019-02-26T12:53:53.689Z",
-          "2019-02-26T12:53:54.689Z",
-          "2019-02-26T12:53:55.689Z",
-          "2019-02-26T12:53:56.689Z",
-          "2019-02-26T12:53:57.689Z",
-          "2019-02-26T12:53:58.689Z",
-          "2019-02-26T12:53:59.689Z",
-          "2019-02-26T12:54:00.689Z",
-          "2019-02-26T12:54:01.689Z",
-          "2019-02-26T12:54:02.689Z",
-          "2019-02-26T12:54:03.689Z",
-          "2019-02-26T12:54:04.689Z",
-          "2019-02-26T12:54:05.689Z",
-          "2019-02-26T12:54:06.689Z",
-          "2019-02-26T12:54:07.689Z",
-          "2019-02-26T12:54:08.689Z",
-          "2019-02-26T12:54:09.689Z",
-          "2019-02-26T12:54:10.689Z",
-          "2019-02-26T12:54:11.689Z",
-          "2019-02-26T12:54:12.689Z",
-          "2019-02-26T12:54:13.689Z",
-          "2019-02-26T12:54:14.689Z",
-          "2019-02-26T12:54:15.689Z",
-          "2019-02-26T12:54:16.689Z",
-          "2019-02-26T12:54:17.689Z",
-          "2019-02-26T12:54:18.689Z",
-          "2019-02-26T12:54:19.689Z",
-          "2019-02-26T12:54:20.689Z",
-          "2019-02-26T12:54:21.689Z",
-          "2019-02-26T12:54:22.689Z",
-          "2019-02-26T12:54:23.689Z",
-          "2019-02-26T12:54:24.689Z",
-          "2019-02-26T12:54:25.689Z",
-          "2019-02-26T12:54:26.689Z",
-          "2019-02-26T12:54:27.689Z",
-          "2019-02-26T12:54:28.689Z",
-          "2019-02-26T12:54:29.689Z",
-          "2019-02-26T12:54:30.689Z",
-          "2019-02-26T12:54:31.689Z",
-          "2019-02-26T12:54:32.689Z",
-          "2019-02-26T12:54:33.689Z",
-          "2019-02-26T12:54:34.689Z",
-          "2019-02-26T12:54:35.689Z",
-          "2019-02-26T12:54:36.689Z"
-        ],
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "coordTimes": "[\"2019-02-26T12:53:36.689Z\",\"2019-02-26T12:53:37.689Z\",\"2019-02-26T12:53:38.689Z\",\"2019-02-26T12:53:39.689Z\",\"2019-02-26T12:53:40.689Z\",\"2019-02-26T12:53:41.689Z\",\"2019-02-26T12:53:42.689Z\",\"2019-02-26T12:53:43.689Z\",\"2019-02-26T12:53:44.689Z\",\"2019-02-26T12:53:45.689Z\",\"2019-02-26T12:53:46.689Z\",\"2019-02-26T12:53:47.689Z\",\"2019-02-26T12:53:48.689Z\",\"2019-02-26T12:53:49.689Z\",\"2019-02-26T12:53:50.689Z\",\"2019-02-26T12:53:51.689Z\",\"2019-02-26T12:53:52.689Z\",\"2019-02-26T12:53:53.689Z\",\"2019-02-26T12:53:54.689Z\",\"2019-02-26T12:53:55.689Z\",\"2019-02-26T12:53:56.689Z\",\"2019-02-26T12:53:57.689Z\",\"2019-02-26T12:53:58.689Z\",\"2019-02-26T12:53:59.689Z\",\"2019-02-26T12:54:00.689Z\",\"2019-02-26T12:54:01.689Z\",\"2019-02-26T12:54:02.689Z\",\"2019-02-26T12:54:03.689Z\",\"2019-02-26T12:54:04.689Z\",\"2019-02-26T12:54:05.689Z\",\"2019-02-26T12:54:06.689Z\",\"2019-02-26T12:54:07.689Z\",\"2019-02-26T12:54:08.689Z\",\"2019-02-26T12:54:09.689Z\",\"2019-02-26T12:54:10.689Z\",\"2019-02-26T12:54:11.689Z\",\"2019-02-26T12:54:12.689Z\",\"2019-02-26T12:54:13.689Z\",\"2019-02-26T12:54:14.689Z\",\"2019-02-26T12:54:15.689Z\",\"2019-02-26T12:54:16.689Z\",\"2019-02-26T12:54:17.689Z\",\"2019-02-26T12:54:18.689Z\",\"2019-02-26T12:54:19.689Z\",\"2019-02-26T12:54:20.689Z\",\"2019-02-26T12:54:21.689Z\",\"2019-02-26T12:54:22.689Z\",\"2019-02-26T12:54:23.689Z\",\"2019-02-26T12:54:24.689Z\",\"2019-02-26T12:54:25.689Z\",\"2019-02-26T12:54:26.689Z\",\"2019-02-26T12:54:27.689Z\",\"2019-02-26T12:54:28.689Z\",\"2019-02-26T12:54:29.689Z\",\"2019-02-26T12:54:30.689Z\",\"2019-02-26T12:54:31.689Z\",\"2019-02-26T12:54:32.689Z\",\"2019-02-26T12:54:33.689Z\",\"2019-02-26T12:54:34.689Z\",\"2019-02-26T12:54:35.689Z\",\"2019-02-26T12:54:36.689Z\"]",
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -17682,168 +17407,12 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Segment de vélo de 0,8 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "time": "2019-02-26T12:44:46.135Z",
-        "coordTimes": [
-          "2019-02-26T12:44:46.135Z",
-          "2019-02-26T12:44:47.135Z",
-          "2019-02-26T12:44:48.135Z",
-          "2019-02-26T12:44:49.135Z",
-          "2019-02-26T12:44:50.135Z",
-          "2019-02-26T12:44:51.135Z",
-          "2019-02-26T12:44:52.135Z",
-          "2019-02-26T12:44:53.135Z",
-          "2019-02-26T12:44:54.135Z",
-          "2019-02-26T12:44:55.135Z",
-          "2019-02-26T12:44:56.135Z",
-          "2019-02-26T12:44:57.135Z",
-          "2019-02-26T12:44:58.135Z",
-          "2019-02-26T12:44:59.135Z",
-          "2019-02-26T12:45:00.135Z",
-          "2019-02-26T12:45:01.135Z",
-          "2019-02-26T12:45:02.135Z",
-          "2019-02-26T12:45:03.135Z",
-          "2019-02-26T12:45:04.135Z",
-          "2019-02-26T12:45:05.135Z",
-          "2019-02-26T12:45:06.135Z",
-          "2019-02-26T12:45:07.135Z",
-          "2019-02-26T12:45:08.135Z",
-          "2019-02-26T12:45:09.135Z",
-          "2019-02-26T12:45:10.135Z",
-          "2019-02-26T12:45:11.135Z",
-          "2019-02-26T12:45:12.135Z",
-          "2019-02-26T12:45:13.135Z",
-          "2019-02-26T12:45:14.135Z",
-          "2019-02-26T12:45:15.135Z",
-          "2019-02-26T12:45:16.135Z",
-          "2019-02-26T12:45:17.135Z",
-          "2019-02-26T12:45:18.135Z",
-          "2019-02-26T12:45:19.135Z",
-          "2019-02-26T12:45:20.135Z",
-          "2019-02-26T12:45:21.135Z",
-          "2019-02-26T12:45:22.135Z",
-          "2019-02-26T12:45:23.135Z",
-          "2019-02-26T12:45:24.135Z",
-          "2019-02-26T12:45:25.135Z",
-          "2019-02-26T12:45:26.135Z",
-          "2019-02-26T12:45:27.135Z",
-          "2019-02-26T12:45:28.135Z",
-          "2019-02-26T12:45:29.135Z",
-          "2019-02-26T12:45:30.135Z",
-          "2019-02-26T12:45:31.135Z",
-          "2019-02-26T12:45:32.135Z",
-          "2019-02-26T12:45:33.135Z",
-          "2019-02-26T12:45:34.135Z",
-          "2019-02-26T12:45:35.135Z",
-          "2019-02-26T12:45:36.135Z",
-          "2019-02-26T12:45:37.135Z",
-          "2019-02-26T12:45:38.135Z",
-          "2019-02-26T12:45:39.135Z",
-          "2019-02-26T12:45:40.135Z",
-          "2019-02-26T12:45:41.135Z",
-          "2019-02-26T12:45:42.135Z",
-          "2019-02-26T12:45:43.135Z",
-          "2019-02-26T12:45:44.135Z",
-          "2019-02-26T12:45:45.135Z",
-          "2019-02-26T12:45:46.135Z",
-          "2019-02-26T12:45:47.135Z",
-          "2019-02-26T12:45:48.135Z",
-          "2019-02-26T12:45:49.135Z",
-          "2019-02-26T12:45:50.135Z",
-          "2019-02-26T12:45:51.135Z",
-          "2019-02-26T12:45:52.135Z",
-          "2019-02-26T12:45:53.135Z",
-          "2019-02-26T12:45:54.135Z",
-          "2019-02-26T12:45:55.135Z",
-          "2019-02-26T12:45:56.135Z",
-          "2019-02-26T12:45:57.135Z",
-          "2019-02-26T12:45:58.135Z",
-          "2019-02-26T12:45:59.135Z",
-          "2019-02-26T12:46:00.135Z",
-          "2019-02-26T12:46:01.135Z",
-          "2019-02-26T12:46:02.135Z",
-          "2019-02-26T12:46:03.135Z",
-          "2019-02-26T12:46:04.135Z",
-          "2019-02-26T12:46:05.135Z",
-          "2019-02-26T12:46:06.135Z",
-          "2019-02-26T12:46:07.135Z",
-          "2019-02-26T12:46:08.135Z",
-          "2019-02-26T12:46:09.135Z",
-          "2019-02-26T12:46:10.135Z",
-          "2019-02-26T12:46:11.135Z",
-          "2019-02-26T12:46:12.135Z",
-          "2019-02-26T12:46:13.135Z",
-          "2019-02-26T12:46:14.135Z",
-          "2019-02-26T12:46:15.135Z",
-          "2019-02-26T12:46:16.135Z",
-          "2019-02-26T12:46:17.135Z",
-          "2019-02-26T12:46:18.135Z",
-          "2019-02-26T12:46:19.135Z",
-          "2019-02-26T12:46:20.135Z",
-          "2019-02-26T12:46:21.135Z",
-          "2019-02-26T12:46:22.135Z",
-          "2019-02-26T12:46:23.135Z",
-          "2019-02-26T12:46:24.135Z",
-          "2019-02-26T12:46:25.135Z",
-          "2019-02-26T12:46:26.135Z",
-          "2019-02-26T12:46:27.135Z",
-          "2019-02-26T12:46:28.135Z",
-          "2019-02-26T12:46:29.135Z",
-          "2019-02-26T12:46:30.135Z",
-          "2019-02-26T12:46:31.135Z",
-          "2019-02-26T12:46:32.135Z",
-          "2019-02-26T12:46:33.135Z",
-          "2019-02-26T12:46:34.135Z",
-          "2019-02-26T12:46:35.135Z",
-          "2019-02-26T12:46:36.135Z",
-          "2019-02-26T12:46:37.135Z",
-          "2019-02-26T12:46:38.135Z",
-          "2019-02-26T12:46:39.135Z",
-          "2019-02-26T12:46:40.135Z",
-          "2019-02-26T12:46:41.135Z",
-          "2019-02-26T12:46:42.135Z",
-          "2019-02-26T12:46:43.135Z",
-          "2019-02-26T12:46:44.135Z",
-          "2019-02-26T12:46:45.135Z",
-          "2019-02-26T12:46:46.135Z",
-          "2019-02-26T12:46:47.135Z",
-          "2019-02-26T12:46:48.135Z",
-          "2019-02-26T12:46:49.135Z",
-          "2019-02-26T12:46:50.135Z",
-          "2019-02-26T12:46:51.135Z",
-          "2019-02-26T12:46:52.135Z",
-          "2019-02-26T12:46:53.135Z",
-          "2019-02-26T12:46:54.135Z",
-          "2019-02-26T12:46:55.135Z",
-          "2019-02-26T12:46:56.135Z",
-          "2019-02-26T12:46:57.135Z",
-          "2019-02-26T12:46:58.135Z",
-          "2019-02-26T12:46:59.135Z",
-          "2019-02-26T12:47:00.135Z",
-          "2019-02-26T12:47:01.135Z",
-          "2019-02-26T12:47:02.135Z",
-          "2019-02-26T12:47:03.135Z",
-          "2019-02-26T12:47:04.135Z",
-          "2019-02-26T12:47:05.135Z",
-          "2019-02-26T12:47:06.135Z",
-          "2019-02-26T12:47:07.135Z",
-          "2019-02-26T12:47:08.135Z",
-          "2019-02-26T12:47:09.135Z",
-          "2019-02-26T12:47:10.135Z",
-          "2019-02-26T12:47:11.135Z",
-          "2019-02-26T12:47:12.135Z",
-          "2019-02-26T12:47:13.135Z",
-          "2019-02-26T12:47:14.135Z",
-          "2019-02-26T12:47:15.135Z",
-          "2019-02-26T12:47:16.135Z",
-          "2019-02-26T12:47:17.135Z",
-          "2019-02-26T12:47:18.135Z",
-          "2019-02-26T12:47:19.135Z",
-          "2019-02-26T12:47:20.135Z",
-          "2019-02-26T12:47:21.135Z",
-          "2019-02-26T12:47:22.135Z",
-          "2019-02-26T12:47:23.135Z"
-        ]
+        "coordTimes": "[\"2019-02-26T12:44:46.135Z\",\"2019-02-26T12:44:47.135Z\",\"2019-02-26T12:44:48.135Z\",\"2019-02-26T12:44:49.135Z\",\"2019-02-26T12:44:50.135Z\",\"2019-02-26T12:44:51.135Z\",\"2019-02-26T12:44:52.135Z\",\"2019-02-26T12:44:53.135Z\",\"2019-02-26T12:44:54.135Z\",\"2019-02-26T12:44:55.135Z\",\"2019-02-26T12:44:56.135Z\",\"2019-02-26T12:44:57.135Z\",\"2019-02-26T12:44:58.135Z\",\"2019-02-26T12:44:59.135Z\",\"2019-02-26T12:45:00.135Z\",\"2019-02-26T12:45:01.135Z\",\"2019-02-26T12:45:02.135Z\",\"2019-02-26T12:45:03.135Z\",\"2019-02-26T12:45:04.135Z\",\"2019-02-26T12:45:05.135Z\",\"2019-02-26T12:45:06.135Z\",\"2019-02-26T12:45:07.135Z\",\"2019-02-26T12:45:08.135Z\",\"2019-02-26T12:45:09.135Z\",\"2019-02-26T12:45:10.135Z\",\"2019-02-26T12:45:11.135Z\",\"2019-02-26T12:45:12.135Z\",\"2019-02-26T12:45:13.135Z\",\"2019-02-26T12:45:14.135Z\",\"2019-02-26T12:45:15.135Z\",\"2019-02-26T12:45:16.135Z\",\"2019-02-26T12:45:17.135Z\",\"2019-02-26T12:45:18.135Z\",\"2019-02-26T12:45:19.135Z\",\"2019-02-26T12:45:20.135Z\",\"2019-02-26T12:45:21.135Z\",\"2019-02-26T12:45:22.135Z\",\"2019-02-26T12:45:23.135Z\",\"2019-02-26T12:45:24.135Z\",\"2019-02-26T12:45:25.135Z\",\"2019-02-26T12:45:26.135Z\",\"2019-02-26T12:45:27.135Z\",\"2019-02-26T12:45:28.135Z\",\"2019-02-26T12:45:29.135Z\",\"2019-02-26T12:45:30.135Z\",\"2019-02-26T12:45:31.135Z\",\"2019-02-26T12:45:32.135Z\",\"2019-02-26T12:45:33.135Z\",\"2019-02-26T12:45:34.135Z\",\"2019-02-26T12:45:35.135Z\",\"2019-02-26T12:45:36.135Z\",\"2019-02-26T12:45:37.135Z\",\"2019-02-26T12:45:38.135Z\",\"2019-02-26T12:45:39.135Z\",\"2019-02-26T12:45:40.135Z\",\"2019-02-26T12:45:41.135Z\",\"2019-02-26T12:45:42.135Z\",\"2019-02-26T12:45:43.135Z\",\"2019-02-26T12:45:44.135Z\",\"2019-02-26T12:45:45.135Z\",\"2019-02-26T12:45:46.135Z\",\"2019-02-26T12:45:47.135Z\",\"2019-02-26T12:45:48.135Z\",\"2019-02-26T12:45:49.135Z\",\"2019-02-26T12:45:50.135Z\",\"2019-02-26T12:45:51.135Z\",\"2019-02-26T12:45:52.135Z\",\"2019-02-26T12:45:53.135Z\",\"2019-02-26T12:45:54.135Z\",\"2019-02-26T12:45:55.135Z\",\"2019-02-26T12:45:56.135Z\",\"2019-02-26T12:45:57.135Z\",\"2019-02-26T12:45:58.135Z\",\"2019-02-26T12:45:59.135Z\",\"2019-02-26T12:46:00.135Z\",\"2019-02-26T12:46:01.135Z\",\"2019-02-26T12:46:02.135Z\",\"2019-02-26T12:46:03.135Z\",\"2019-02-26T12:46:04.135Z\",\"2019-02-26T12:46:05.135Z\",\"2019-02-26T12:46:06.135Z\",\"2019-02-26T12:46:07.135Z\",\"2019-02-26T12:46:08.135Z\",\"2019-02-26T12:46:09.135Z\",\"2019-02-26T12:46:10.135Z\",\"2019-02-26T12:46:11.135Z\",\"2019-02-26T12:46:12.135Z\",\"2019-02-26T12:46:13.135Z\",\"2019-02-26T12:46:14.135Z\",\"2019-02-26T12:46:15.135Z\",\"2019-02-26T12:46:16.135Z\",\"2019-02-26T12:46:17.135Z\",\"2019-02-26T12:46:18.135Z\",\"2019-02-26T12:46:19.135Z\",\"2019-02-26T12:46:20.135Z\",\"2019-02-26T12:46:21.135Z\",\"2019-02-26T12:46:22.135Z\",\"2019-02-26T12:46:23.135Z\",\"2019-02-26T12:46:24.135Z\",\"2019-02-26T12:46:25.135Z\",\"2019-02-26T12:46:26.135Z\",\"2019-02-26T12:46:27.135Z\",\"2019-02-26T12:46:28.135Z\",\"2019-02-26T12:46:29.135Z\",\"2019-02-26T12:46:30.135Z\",\"2019-02-26T12:46:31.135Z\",\"2019-02-26T12:46:32.135Z\",\"2019-02-26T12:46:33.135Z\",\"2019-02-26T12:46:34.135Z\",\"2019-02-26T12:46:35.135Z\",\"2019-02-26T12:46:36.135Z\",\"2019-02-26T12:46:37.135Z\",\"2019-02-26T12:46:38.135Z\",\"2019-02-26T12:46:39.135Z\",\"2019-02-26T12:46:40.135Z\",\"2019-02-26T12:46:41.135Z\",\"2019-02-26T12:46:42.135Z\",\"2019-02-26T12:46:43.135Z\",\"2019-02-26T12:46:44.135Z\",\"2019-02-26T12:46:45.135Z\",\"2019-02-26T12:46:46.135Z\",\"2019-02-26T12:46:47.135Z\",\"2019-02-26T12:46:48.135Z\",\"2019-02-26T12:46:49.135Z\",\"2019-02-26T12:46:50.135Z\",\"2019-02-26T12:46:51.135Z\",\"2019-02-26T12:46:52.135Z\",\"2019-02-26T12:46:53.135Z\",\"2019-02-26T12:46:54.135Z\",\"2019-02-26T12:46:55.135Z\",\"2019-02-26T12:46:56.135Z\",\"2019-02-26T12:46:57.135Z\",\"2019-02-26T12:46:58.135Z\",\"2019-02-26T12:46:59.135Z\",\"2019-02-26T12:47:00.135Z\",\"2019-02-26T12:47:01.135Z\",\"2019-02-26T12:47:02.135Z\",\"2019-02-26T12:47:03.135Z\",\"2019-02-26T12:47:04.135Z\",\"2019-02-26T12:47:05.135Z\",\"2019-02-26T12:47:06.135Z\",\"2019-02-26T12:47:07.135Z\",\"2019-02-26T12:47:08.135Z\",\"2019-02-26T12:47:09.135Z\",\"2019-02-26T12:47:10.135Z\",\"2019-02-26T12:47:11.135Z\",\"2019-02-26T12:47:12.135Z\",\"2019-02-26T12:47:13.135Z\",\"2019-02-26T12:47:14.135Z\",\"2019-02-26T12:47:15.135Z\",\"2019-02-26T12:47:16.135Z\",\"2019-02-26T12:47:17.135Z\",\"2019-02-26T12:47:18.135Z\",\"2019-02-26T12:47:19.135Z\",\"2019-02-26T12:47:20.135Z\",\"2019-02-26T12:47:21.135Z\",\"2019-02-26T12:47:22.135Z\",\"2019-02-26T12:47:23.135Z\"]"
       },
       "geometry": {
         "type": "LineString",
@@ -18644,212 +18213,12 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Segment de vélo de 0,9 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "time": "2019-02-26T12:47:39.446Z",
-        "coordTimes": [
-          "2019-02-26T12:47:39.446Z",
-          "2019-02-26T12:47:40.446Z",
-          "2019-02-26T12:47:41.446Z",
-          "2019-02-26T12:47:42.446Z",
-          "2019-02-26T12:47:43.446Z",
-          "2019-02-26T12:47:44.446Z",
-          "2019-02-26T12:47:45.446Z",
-          "2019-02-26T12:47:46.446Z",
-          "2019-02-26T12:47:47.446Z",
-          "2019-02-26T12:47:48.446Z",
-          "2019-02-26T12:47:49.446Z",
-          "2019-02-26T12:47:50.446Z",
-          "2019-02-26T12:47:51.446Z",
-          "2019-02-26T12:47:52.446Z",
-          "2019-02-26T12:47:53.446Z",
-          "2019-02-26T12:47:54.446Z",
-          "2019-02-26T12:47:55.446Z",
-          "2019-02-26T12:47:56.446Z",
-          "2019-02-26T12:47:57.446Z",
-          "2019-02-26T12:47:58.446Z",
-          "2019-02-26T12:47:59.446Z",
-          "2019-02-26T12:48:00.446Z",
-          "2019-02-26T12:48:01.446Z",
-          "2019-02-26T12:48:02.446Z",
-          "2019-02-26T12:48:03.446Z",
-          "2019-02-26T12:48:04.446Z",
-          "2019-02-26T12:48:05.446Z",
-          "2019-02-26T12:48:06.446Z",
-          "2019-02-26T12:48:07.446Z",
-          "2019-02-26T12:48:08.446Z",
-          "2019-02-26T12:48:09.446Z",
-          "2019-02-26T12:48:10.446Z",
-          "2019-02-26T12:48:11.446Z",
-          "2019-02-26T12:48:12.446Z",
-          "2019-02-26T12:48:13.446Z",
-          "2019-02-26T12:48:14.446Z",
-          "2019-02-26T12:48:15.446Z",
-          "2019-02-26T12:48:16.446Z",
-          "2019-02-26T12:48:17.446Z",
-          "2019-02-26T12:48:18.446Z",
-          "2019-02-26T12:48:19.446Z",
-          "2019-02-26T12:48:20.446Z",
-          "2019-02-26T12:48:21.446Z",
-          "2019-02-26T12:48:22.446Z",
-          "2019-02-26T12:48:23.446Z",
-          "2019-02-26T12:48:24.446Z",
-          "2019-02-26T12:48:25.446Z",
-          "2019-02-26T12:48:26.446Z",
-          "2019-02-26T12:48:27.446Z",
-          "2019-02-26T12:48:28.446Z",
-          "2019-02-26T12:48:29.446Z",
-          "2019-02-26T12:48:30.446Z",
-          "2019-02-26T12:48:31.446Z",
-          "2019-02-26T12:48:32.446Z",
-          "2019-02-26T12:48:33.446Z",
-          "2019-02-26T12:48:34.446Z",
-          "2019-02-26T12:48:35.446Z",
-          "2019-02-26T12:48:36.446Z",
-          "2019-02-26T12:48:37.446Z",
-          "2019-02-26T12:48:38.446Z",
-          "2019-02-26T12:48:39.446Z",
-          "2019-02-26T12:48:40.446Z",
-          "2019-02-26T12:48:41.446Z",
-          "2019-02-26T12:48:42.446Z",
-          "2019-02-26T12:48:43.446Z",
-          "2019-02-26T12:48:44.446Z",
-          "2019-02-26T12:48:45.446Z",
-          "2019-02-26T12:48:46.446Z",
-          "2019-02-26T12:48:47.446Z",
-          "2019-02-26T12:48:48.446Z",
-          "2019-02-26T12:48:49.446Z",
-          "2019-02-26T12:48:50.446Z",
-          "2019-02-26T12:48:51.446Z",
-          "2019-02-26T12:48:52.446Z",
-          "2019-02-26T12:48:53.446Z",
-          "2019-02-26T12:48:54.446Z",
-          "2019-02-26T12:48:55.446Z",
-          "2019-02-26T12:48:56.446Z",
-          "2019-02-26T12:48:57.446Z",
-          "2019-02-26T12:48:58.446Z",
-          "2019-02-26T12:48:59.446Z",
-          "2019-02-26T12:49:00.446Z",
-          "2019-02-26T12:49:01.446Z",
-          "2019-02-26T12:49:02.446Z",
-          "2019-02-26T12:49:03.446Z",
-          "2019-02-26T12:49:04.446Z",
-          "2019-02-26T12:49:05.446Z",
-          "2019-02-26T12:49:06.446Z",
-          "2019-02-26T12:49:07.446Z",
-          "2019-02-26T12:49:08.446Z",
-          "2019-02-26T12:49:09.446Z",
-          "2019-02-26T12:49:10.446Z",
-          "2019-02-26T12:49:11.446Z",
-          "2019-02-26T12:49:12.446Z",
-          "2019-02-26T12:49:13.446Z",
-          "2019-02-26T12:49:14.446Z",
-          "2019-02-26T12:49:15.446Z",
-          "2019-02-26T12:49:16.446Z",
-          "2019-02-26T12:49:17.446Z",
-          "2019-02-26T12:49:18.446Z",
-          "2019-02-26T12:49:19.446Z",
-          "2019-02-26T12:49:20.446Z",
-          "2019-02-26T12:49:21.446Z",
-          "2019-02-26T12:49:22.446Z",
-          "2019-02-26T12:49:23.446Z",
-          "2019-02-26T12:49:24.446Z",
-          "2019-02-26T12:49:25.446Z",
-          "2019-02-26T12:49:26.446Z",
-          "2019-02-26T12:49:27.446Z",
-          "2019-02-26T12:49:28.446Z",
-          "2019-02-26T12:49:29.446Z",
-          "2019-02-26T12:49:30.446Z",
-          "2019-02-26T12:49:31.446Z",
-          "2019-02-26T12:49:32.446Z",
-          "2019-02-26T12:49:33.446Z",
-          "2019-02-26T12:49:34.446Z",
-          "2019-02-26T12:49:35.446Z",
-          "2019-02-26T12:49:36.446Z",
-          "2019-02-26T12:49:37.446Z",
-          "2019-02-26T12:49:38.446Z",
-          "2019-02-26T12:49:39.446Z",
-          "2019-02-26T12:49:40.446Z",
-          "2019-02-26T12:49:41.446Z",
-          "2019-02-26T12:49:42.446Z",
-          "2019-02-26T12:49:43.446Z",
-          "2019-02-26T12:49:44.446Z",
-          "2019-02-26T12:49:45.446Z",
-          "2019-02-26T12:49:46.446Z",
-          "2019-02-26T12:49:47.446Z",
-          "2019-02-26T12:49:48.446Z",
-          "2019-02-26T12:49:49.446Z",
-          "2019-02-26T12:49:50.446Z",
-          "2019-02-26T12:49:51.446Z",
-          "2019-02-26T12:49:52.446Z",
-          "2019-02-26T12:49:53.446Z",
-          "2019-02-26T12:49:54.446Z",
-          "2019-02-26T12:49:55.446Z",
-          "2019-02-26T12:49:56.446Z",
-          "2019-02-26T12:49:57.446Z",
-          "2019-02-26T12:49:58.446Z",
-          "2019-02-26T12:49:59.446Z",
-          "2019-02-26T12:50:00.446Z",
-          "2019-02-26T12:50:01.446Z",
-          "2019-02-26T12:50:02.446Z",
-          "2019-02-26T12:50:03.446Z",
-          "2019-02-26T12:50:04.446Z",
-          "2019-02-26T12:50:05.446Z",
-          "2019-02-26T12:50:06.446Z",
-          "2019-02-26T12:50:07.446Z",
-          "2019-02-26T12:50:08.446Z",
-          "2019-02-26T12:50:09.446Z",
-          "2019-02-26T12:50:10.446Z",
-          "2019-02-26T12:50:11.446Z",
-          "2019-02-26T12:50:12.446Z",
-          "2019-02-26T12:50:13.446Z",
-          "2019-02-26T12:50:14.446Z",
-          "2019-02-26T12:50:15.446Z",
-          "2019-02-26T12:50:16.446Z",
-          "2019-02-26T12:50:17.446Z",
-          "2019-02-26T12:50:18.446Z",
-          "2019-02-26T12:50:19.446Z",
-          "2019-02-26T12:50:20.446Z",
-          "2019-02-26T12:50:21.446Z",
-          "2019-02-26T12:50:22.446Z",
-          "2019-02-26T12:50:23.446Z",
-          "2019-02-26T12:50:24.446Z",
-          "2019-02-26T12:50:25.446Z",
-          "2019-02-26T12:50:26.446Z",
-          "2019-02-26T12:50:27.446Z",
-          "2019-02-26T12:50:28.446Z",
-          "2019-02-26T12:50:29.446Z",
-          "2019-02-26T12:50:30.446Z",
-          "2019-02-26T12:50:31.446Z",
-          "2019-02-26T12:50:32.446Z",
-          "2019-02-26T12:50:33.446Z",
-          "2019-02-26T12:50:34.446Z",
-          "2019-02-26T12:50:35.446Z",
-          "2019-02-26T12:50:36.446Z",
-          "2019-02-26T12:50:37.446Z",
-          "2019-02-26T12:50:38.446Z",
-          "2019-02-26T12:50:39.446Z",
-          "2019-02-26T12:50:40.446Z",
-          "2019-02-26T12:50:41.446Z",
-          "2019-02-26T12:50:42.446Z",
-          "2019-02-26T12:50:43.446Z",
-          "2019-02-26T12:50:44.446Z",
-          "2019-02-26T12:50:45.446Z",
-          "2019-02-26T12:50:46.446Z",
-          "2019-02-26T12:50:47.446Z",
-          "2019-02-26T12:50:48.446Z",
-          "2019-02-26T12:50:49.446Z",
-          "2019-02-26T12:50:50.446Z",
-          "2019-02-26T12:50:51.446Z",
-          "2019-02-26T12:50:52.446Z",
-          "2019-02-26T12:50:53.446Z",
-          "2019-02-26T12:50:54.446Z",
-          "2019-02-26T12:50:55.446Z",
-          "2019-02-26T12:50:56.446Z",
-          "2019-02-26T12:50:57.446Z",
-          "2019-02-26T12:50:58.446Z",
-          "2019-02-26T12:50:59.446Z",
-          "2019-02-26T12:51:00.446Z"
-        ]
+        "coordTimes": "[\"2019-02-26T12:47:39.446Z\",\"2019-02-26T12:47:40.446Z\",\"2019-02-26T12:47:41.446Z\",\"2019-02-26T12:47:42.446Z\",\"2019-02-26T12:47:43.446Z\",\"2019-02-26T12:47:44.446Z\",\"2019-02-26T12:47:45.446Z\",\"2019-02-26T12:47:46.446Z\",\"2019-02-26T12:47:47.446Z\",\"2019-02-26T12:47:48.446Z\",\"2019-02-26T12:47:49.446Z\",\"2019-02-26T12:47:50.446Z\",\"2019-02-26T12:47:51.446Z\",\"2019-02-26T12:47:52.446Z\",\"2019-02-26T12:47:53.446Z\",\"2019-02-26T12:47:54.446Z\",\"2019-02-26T12:47:55.446Z\",\"2019-02-26T12:47:56.446Z\",\"2019-02-26T12:47:57.446Z\",\"2019-02-26T12:47:58.446Z\",\"2019-02-26T12:47:59.446Z\",\"2019-02-26T12:48:00.446Z\",\"2019-02-26T12:48:01.446Z\",\"2019-02-26T12:48:02.446Z\",\"2019-02-26T12:48:03.446Z\",\"2019-02-26T12:48:04.446Z\",\"2019-02-26T12:48:05.446Z\",\"2019-02-26T12:48:06.446Z\",\"2019-02-26T12:48:07.446Z\",\"2019-02-26T12:48:08.446Z\",\"2019-02-26T12:48:09.446Z\",\"2019-02-26T12:48:10.446Z\",\"2019-02-26T12:48:11.446Z\",\"2019-02-26T12:48:12.446Z\",\"2019-02-26T12:48:13.446Z\",\"2019-02-26T12:48:14.446Z\",\"2019-02-26T12:48:15.446Z\",\"2019-02-26T12:48:16.446Z\",\"2019-02-26T12:48:17.446Z\",\"2019-02-26T12:48:18.446Z\",\"2019-02-26T12:48:19.446Z\",\"2019-02-26T12:48:20.446Z\",\"2019-02-26T12:48:21.446Z\",\"2019-02-26T12:48:22.446Z\",\"2019-02-26T12:48:23.446Z\",\"2019-02-26T12:48:24.446Z\",\"2019-02-26T12:48:25.446Z\",\"2019-02-26T12:48:26.446Z\",\"2019-02-26T12:48:27.446Z\",\"2019-02-26T12:48:28.446Z\",\"2019-02-26T12:48:29.446Z\",\"2019-02-26T12:48:30.446Z\",\"2019-02-26T12:48:31.446Z\",\"2019-02-26T12:48:32.446Z\",\"2019-02-26T12:48:33.446Z\",\"2019-02-26T12:48:34.446Z\",\"2019-02-26T12:48:35.446Z\",\"2019-02-26T12:48:36.446Z\",\"2019-02-26T12:48:37.446Z\",\"2019-02-26T12:48:38.446Z\",\"2019-02-26T12:48:39.446Z\",\"2019-02-26T12:48:40.446Z\",\"2019-02-26T12:48:41.446Z\",\"2019-02-26T12:48:42.446Z\",\"2019-02-26T12:48:43.446Z\",\"2019-02-26T12:48:44.446Z\",\"2019-02-26T12:48:45.446Z\",\"2019-02-26T12:48:46.446Z\",\"2019-02-26T12:48:47.446Z\",\"2019-02-26T12:48:48.446Z\",\"2019-02-26T12:48:49.446Z\",\"2019-02-26T12:48:50.446Z\",\"2019-02-26T12:48:51.446Z\",\"2019-02-26T12:48:52.446Z\",\"2019-02-26T12:48:53.446Z\",\"2019-02-26T12:48:54.446Z\",\"2019-02-26T12:48:55.446Z\",\"2019-02-26T12:48:56.446Z\",\"2019-02-26T12:48:57.446Z\",\"2019-02-26T12:48:58.446Z\",\"2019-02-26T12:48:59.446Z\",\"2019-02-26T12:49:00.446Z\",\"2019-02-26T12:49:01.446Z\",\"2019-02-26T12:49:02.446Z\",\"2019-02-26T12:49:03.446Z\",\"2019-02-26T12:49:04.446Z\",\"2019-02-26T12:49:05.446Z\",\"2019-02-26T12:49:06.446Z\",\"2019-02-26T12:49:07.446Z\",\"2019-02-26T12:49:08.446Z\",\"2019-02-26T12:49:09.446Z\",\"2019-02-26T12:49:10.446Z\",\"2019-02-26T12:49:11.446Z\",\"2019-02-26T12:49:12.446Z\",\"2019-02-26T12:49:13.446Z\",\"2019-02-26T12:49:14.446Z\",\"2019-02-26T12:49:15.446Z\",\"2019-02-26T12:49:16.446Z\",\"2019-02-26T12:49:17.446Z\",\"2019-02-26T12:49:18.446Z\",\"2019-02-26T12:49:19.446Z\",\"2019-02-26T12:49:20.446Z\",\"2019-02-26T12:49:21.446Z\",\"2019-02-26T12:49:22.446Z\",\"2019-02-26T12:49:23.446Z\",\"2019-02-26T12:49:24.446Z\",\"2019-02-26T12:49:25.446Z\",\"2019-02-26T12:49:26.446Z\",\"2019-02-26T12:49:27.446Z\",\"2019-02-26T12:49:28.446Z\",\"2019-02-26T12:49:29.446Z\",\"2019-02-26T12:49:30.446Z\",\"2019-02-26T12:49:31.446Z\",\"2019-02-26T12:49:32.446Z\",\"2019-02-26T12:49:33.446Z\",\"2019-02-26T12:49:34.446Z\",\"2019-02-26T12:49:35.446Z\",\"2019-02-26T12:49:36.446Z\",\"2019-02-26T12:49:37.446Z\",\"2019-02-26T12:49:38.446Z\",\"2019-02-26T12:49:39.446Z\",\"2019-02-26T12:49:40.446Z\",\"2019-02-26T12:49:41.446Z\",\"2019-02-26T12:49:42.446Z\",\"2019-02-26T12:49:43.446Z\",\"2019-02-26T12:49:44.446Z\",\"2019-02-26T12:49:45.446Z\",\"2019-02-26T12:49:46.446Z\",\"2019-02-26T12:49:47.446Z\",\"2019-02-26T12:49:48.446Z\",\"2019-02-26T12:49:49.446Z\",\"2019-02-26T12:49:50.446Z\",\"2019-02-26T12:49:51.446Z\",\"2019-02-26T12:49:52.446Z\",\"2019-02-26T12:49:53.446Z\",\"2019-02-26T12:49:54.446Z\",\"2019-02-26T12:49:55.446Z\",\"2019-02-26T12:49:56.446Z\",\"2019-02-26T12:49:57.446Z\",\"2019-02-26T12:49:58.446Z\",\"2019-02-26T12:49:59.446Z\",\"2019-02-26T12:50:00.446Z\",\"2019-02-26T12:50:01.446Z\",\"2019-02-26T12:50:02.446Z\",\"2019-02-26T12:50:03.446Z\",\"2019-02-26T12:50:04.446Z\",\"2019-02-26T12:50:05.446Z\",\"2019-02-26T12:50:06.446Z\",\"2019-02-26T12:50:07.446Z\",\"2019-02-26T12:50:08.446Z\",\"2019-02-26T12:50:09.446Z\",\"2019-02-26T12:50:10.446Z\",\"2019-02-26T12:50:11.446Z\",\"2019-02-26T12:50:12.446Z\",\"2019-02-26T12:50:13.446Z\",\"2019-02-26T12:50:14.446Z\",\"2019-02-26T12:50:15.446Z\",\"2019-02-26T12:50:16.446Z\",\"2019-02-26T12:50:17.446Z\",\"2019-02-26T12:50:18.446Z\",\"2019-02-26T12:50:19.446Z\",\"2019-02-26T12:50:20.446Z\",\"2019-02-26T12:50:21.446Z\",\"2019-02-26T12:50:22.446Z\",\"2019-02-26T12:50:23.446Z\",\"2019-02-26T12:50:24.446Z\",\"2019-02-26T12:50:25.446Z\",\"2019-02-26T12:50:26.446Z\",\"2019-02-26T12:50:27.446Z\",\"2019-02-26T12:50:28.446Z\",\"2019-02-26T12:50:29.446Z\",\"2019-02-26T12:50:30.446Z\",\"2019-02-26T12:50:31.446Z\",\"2019-02-26T12:50:32.446Z\",\"2019-02-26T12:50:33.446Z\",\"2019-02-26T12:50:34.446Z\",\"2019-02-26T12:50:35.446Z\",\"2019-02-26T12:50:36.446Z\",\"2019-02-26T12:50:37.446Z\",\"2019-02-26T12:50:38.446Z\",\"2019-02-26T12:50:39.446Z\",\"2019-02-26T12:50:40.446Z\",\"2019-02-26T12:50:41.446Z\",\"2019-02-26T12:50:42.446Z\",\"2019-02-26T12:50:43.446Z\",\"2019-02-26T12:50:44.446Z\",\"2019-02-26T12:50:45.446Z\",\"2019-02-26T12:50:46.446Z\",\"2019-02-26T12:50:47.446Z\",\"2019-02-26T12:50:48.446Z\",\"2019-02-26T12:50:49.446Z\",\"2019-02-26T12:50:50.446Z\",\"2019-02-26T12:50:51.446Z\",\"2019-02-26T12:50:52.446Z\",\"2019-02-26T12:50:53.446Z\",\"2019-02-26T12:50:54.446Z\",\"2019-02-26T12:50:55.446Z\",\"2019-02-26T12:50:56.446Z\",\"2019-02-26T12:50:57.446Z\",\"2019-02-26T12:50:58.446Z\",\"2019-02-26T12:50:59.446Z\",\"2019-02-26T12:51:00.446Z\"]"
       },
       "geometry": {
         "type": "LineString",
@@ -19870,251 +19239,13 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#008000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Segment de vélo de 1,0 km à Aydat, Auvergne, France sur Strava",
         "time": "2019-02-26T12:54:39.190Z",
-        "coordTimes": [
-          "2019-02-26T12:54:39.190Z",
-          "2019-02-26T12:54:40.190Z",
-          "2019-02-26T12:54:41.190Z",
-          "2019-02-26T12:54:42.190Z",
-          "2019-02-26T12:54:43.190Z",
-          "2019-02-26T12:54:44.190Z",
-          "2019-02-26T12:54:45.190Z",
-          "2019-02-26T12:54:46.190Z",
-          "2019-02-26T12:54:47.190Z",
-          "2019-02-26T12:54:48.190Z",
-          "2019-02-26T12:54:49.190Z",
-          "2019-02-26T12:54:50.190Z",
-          "2019-02-26T12:54:51.190Z",
-          "2019-02-26T12:54:52.190Z",
-          "2019-02-26T12:54:53.190Z",
-          "2019-02-26T12:54:54.190Z",
-          "2019-02-26T12:54:55.190Z",
-          "2019-02-26T12:54:56.190Z",
-          "2019-02-26T12:54:57.190Z",
-          "2019-02-26T12:54:58.190Z",
-          "2019-02-26T12:54:59.190Z",
-          "2019-02-26T12:55:00.190Z",
-          "2019-02-26T12:55:01.190Z",
-          "2019-02-26T12:55:02.190Z",
-          "2019-02-26T12:55:03.190Z",
-          "2019-02-26T12:55:04.190Z",
-          "2019-02-26T12:55:05.190Z",
-          "2019-02-26T12:55:06.190Z",
-          "2019-02-26T12:55:07.190Z",
-          "2019-02-26T12:55:08.190Z",
-          "2019-02-26T12:55:09.190Z",
-          "2019-02-26T12:55:10.190Z",
-          "2019-02-26T12:55:11.190Z",
-          "2019-02-26T12:55:12.190Z",
-          "2019-02-26T12:55:13.190Z",
-          "2019-02-26T12:55:14.190Z",
-          "2019-02-26T12:55:15.190Z",
-          "2019-02-26T12:55:16.190Z",
-          "2019-02-26T12:55:17.190Z",
-          "2019-02-26T12:55:18.190Z",
-          "2019-02-26T12:55:19.190Z",
-          "2019-02-26T12:55:20.190Z",
-          "2019-02-26T12:55:21.190Z",
-          "2019-02-26T12:55:22.190Z",
-          "2019-02-26T12:55:23.190Z",
-          "2019-02-26T12:55:24.190Z",
-          "2019-02-26T12:55:25.190Z",
-          "2019-02-26T12:55:26.190Z",
-          "2019-02-26T12:55:27.190Z",
-          "2019-02-26T12:55:28.190Z",
-          "2019-02-26T12:55:29.190Z",
-          "2019-02-26T12:55:30.190Z",
-          "2019-02-26T12:55:31.190Z",
-          "2019-02-26T12:55:32.190Z",
-          "2019-02-26T12:55:33.190Z",
-          "2019-02-26T12:55:34.190Z",
-          "2019-02-26T12:55:35.190Z",
-          "2019-02-26T12:55:36.190Z",
-          "2019-02-26T12:55:37.190Z",
-          "2019-02-26T12:55:38.190Z",
-          "2019-02-26T12:55:39.190Z",
-          "2019-02-26T12:55:40.190Z",
-          "2019-02-26T12:55:41.190Z",
-          "2019-02-26T12:55:42.190Z",
-          "2019-02-26T12:55:43.190Z",
-          "2019-02-26T12:55:44.190Z",
-          "2019-02-26T12:55:45.190Z",
-          "2019-02-26T12:55:46.190Z",
-          "2019-02-26T12:55:47.190Z",
-          "2019-02-26T12:55:48.190Z",
-          "2019-02-26T12:55:49.190Z",
-          "2019-02-26T12:55:50.190Z",
-          "2019-02-26T12:55:51.190Z",
-          "2019-02-26T12:55:52.190Z",
-          "2019-02-26T12:55:53.190Z",
-          "2019-02-26T12:55:54.190Z",
-          "2019-02-26T12:55:55.190Z",
-          "2019-02-26T12:55:56.190Z",
-          "2019-02-26T12:55:57.190Z",
-          "2019-02-26T12:55:58.190Z",
-          "2019-02-26T12:55:59.190Z",
-          "2019-02-26T12:56:00.190Z",
-          "2019-02-26T12:56:01.190Z",
-          "2019-02-26T12:56:02.190Z",
-          "2019-02-26T12:56:03.190Z",
-          "2019-02-26T12:56:04.190Z",
-          "2019-02-26T12:56:05.190Z",
-          "2019-02-26T12:56:06.190Z",
-          "2019-02-26T12:56:07.190Z",
-          "2019-02-26T12:56:08.190Z",
-          "2019-02-26T12:56:09.190Z",
-          "2019-02-26T12:56:10.190Z",
-          "2019-02-26T12:56:11.190Z",
-          "2019-02-26T12:56:12.190Z",
-          "2019-02-26T12:56:13.190Z",
-          "2019-02-26T12:56:14.190Z",
-          "2019-02-26T12:56:15.190Z",
-          "2019-02-26T12:56:16.190Z",
-          "2019-02-26T12:56:17.190Z",
-          "2019-02-26T12:56:18.190Z",
-          "2019-02-26T12:56:19.190Z",
-          "2019-02-26T12:56:20.190Z",
-          "2019-02-26T12:56:21.190Z",
-          "2019-02-26T12:56:22.190Z",
-          "2019-02-26T12:56:23.190Z",
-          "2019-02-26T12:56:24.190Z",
-          "2019-02-26T12:56:25.190Z",
-          "2019-02-26T12:56:26.190Z",
-          "2019-02-26T12:56:27.190Z",
-          "2019-02-26T12:56:28.190Z",
-          "2019-02-26T12:56:29.190Z",
-          "2019-02-26T12:56:30.190Z",
-          "2019-02-26T12:56:31.190Z",
-          "2019-02-26T12:56:32.190Z",
-          "2019-02-26T12:56:33.190Z",
-          "2019-02-26T12:56:34.190Z",
-          "2019-02-26T12:56:35.190Z",
-          "2019-02-26T12:56:36.190Z",
-          "2019-02-26T12:56:37.190Z",
-          "2019-02-26T12:56:38.190Z",
-          "2019-02-26T12:56:39.190Z",
-          "2019-02-26T12:56:40.190Z",
-          "2019-02-26T12:56:41.190Z",
-          "2019-02-26T12:56:42.190Z",
-          "2019-02-26T12:56:43.190Z",
-          "2019-02-26T12:56:44.190Z",
-          "2019-02-26T12:56:45.190Z",
-          "2019-02-26T12:56:46.190Z",
-          "2019-02-26T12:56:47.190Z",
-          "2019-02-26T12:56:48.190Z",
-          "2019-02-26T12:56:49.190Z",
-          "2019-02-26T12:56:50.190Z",
-          "2019-02-26T12:56:51.190Z",
-          "2019-02-26T12:56:52.190Z",
-          "2019-02-26T12:56:53.190Z",
-          "2019-02-26T12:56:54.190Z",
-          "2019-02-26T12:56:55.190Z",
-          "2019-02-26T12:56:56.190Z",
-          "2019-02-26T12:56:57.190Z",
-          "2019-02-26T12:56:58.190Z",
-          "2019-02-26T12:56:59.190Z",
-          "2019-02-26T12:57:00.190Z",
-          "2019-02-26T12:57:01.190Z",
-          "2019-02-26T12:57:02.190Z",
-          "2019-02-26T12:57:03.190Z",
-          "2019-02-26T12:57:04.190Z",
-          "2019-02-26T12:57:05.190Z",
-          "2019-02-26T12:57:06.190Z",
-          "2019-02-26T12:57:07.190Z",
-          "2019-02-26T12:57:08.190Z",
-          "2019-02-26T12:57:09.190Z",
-          "2019-02-26T12:57:10.190Z",
-          "2019-02-26T12:57:11.190Z",
-          "2019-02-26T12:57:12.190Z",
-          "2019-02-26T12:57:13.190Z",
-          "2019-02-26T12:57:14.190Z",
-          "2019-02-26T12:57:15.190Z",
-          "2019-02-26T12:57:16.190Z",
-          "2019-02-26T12:57:17.190Z",
-          "2019-02-26T12:57:18.190Z",
-          "2019-02-26T12:57:19.190Z",
-          "2019-02-26T12:57:20.190Z",
-          "2019-02-26T12:57:21.190Z",
-          "2019-02-26T12:57:22.190Z",
-          "2019-02-26T12:57:23.190Z",
-          "2019-02-26T12:57:24.190Z",
-          "2019-02-26T12:57:25.190Z",
-          "2019-02-26T12:57:26.190Z",
-          "2019-02-26T12:57:27.190Z",
-          "2019-02-26T12:57:28.190Z",
-          "2019-02-26T12:57:29.190Z",
-          "2019-02-26T12:57:30.190Z",
-          "2019-02-26T12:57:31.190Z",
-          "2019-02-26T12:57:32.190Z",
-          "2019-02-26T12:57:33.190Z",
-          "2019-02-26T12:57:34.190Z",
-          "2019-02-26T12:57:35.190Z",
-          "2019-02-26T12:57:36.190Z",
-          "2019-02-26T12:57:37.190Z",
-          "2019-02-26T12:57:38.190Z",
-          "2019-02-26T12:57:39.190Z",
-          "2019-02-26T12:57:40.190Z",
-          "2019-02-26T12:57:41.190Z",
-          "2019-02-26T12:57:42.190Z",
-          "2019-02-26T12:57:43.190Z",
-          "2019-02-26T12:57:44.190Z",
-          "2019-02-26T12:57:45.190Z",
-          "2019-02-26T12:57:46.190Z",
-          "2019-02-26T12:57:47.190Z",
-          "2019-02-26T12:57:48.190Z",
-          "2019-02-26T12:57:49.190Z",
-          "2019-02-26T12:57:50.190Z",
-          "2019-02-26T12:57:51.190Z",
-          "2019-02-26T12:57:52.190Z",
-          "2019-02-26T12:57:53.190Z",
-          "2019-02-26T12:57:54.190Z",
-          "2019-02-26T12:57:55.190Z",
-          "2019-02-26T12:57:56.190Z",
-          "2019-02-26T12:57:57.190Z",
-          "2019-02-26T12:57:58.190Z",
-          "2019-02-26T12:57:59.190Z",
-          "2019-02-26T12:58:00.190Z",
-          "2019-02-26T12:58:01.190Z",
-          "2019-02-26T12:58:02.190Z",
-          "2019-02-26T12:58:03.190Z",
-          "2019-02-26T12:58:04.190Z",
-          "2019-02-26T12:58:05.190Z",
-          "2019-02-26T12:58:06.190Z",
-          "2019-02-26T12:58:07.190Z",
-          "2019-02-26T12:58:08.190Z",
-          "2019-02-26T12:58:09.190Z",
-          "2019-02-26T12:58:10.190Z",
-          "2019-02-26T12:58:11.190Z",
-          "2019-02-26T12:58:12.190Z",
-          "2019-02-26T12:58:13.190Z",
-          "2019-02-26T12:58:14.190Z",
-          "2019-02-26T12:58:15.190Z",
-          "2019-02-26T12:58:16.190Z",
-          "2019-02-26T12:58:17.190Z",
-          "2019-02-26T12:58:18.190Z",
-          "2019-02-26T12:58:19.190Z",
-          "2019-02-26T12:58:20.190Z",
-          "2019-02-26T12:58:21.190Z",
-          "2019-02-26T12:58:22.190Z",
-          "2019-02-26T12:58:23.190Z",
-          "2019-02-26T12:58:24.190Z",
-          "2019-02-26T12:58:25.190Z",
-          "2019-02-26T12:58:26.190Z",
-          "2019-02-26T12:58:27.190Z",
-          "2019-02-26T12:58:28.190Z",
-          "2019-02-26T12:58:29.190Z",
-          "2019-02-26T12:58:30.190Z",
-          "2019-02-26T12:58:31.190Z",
-          "2019-02-26T12:58:32.190Z",
-          "2019-02-26T12:58:33.190Z",
-          "2019-02-26T12:58:34.190Z",
-          "2019-02-26T12:58:35.190Z",
-          "2019-02-26T12:58:36.190Z"
-        ],
-        "_umap_options": {
-          "color": "DarkGreen"
-        }
+        "coordTimes": "[\"2019-02-26T12:54:39.190Z\",\"2019-02-26T12:54:40.190Z\",\"2019-02-26T12:54:41.190Z\",\"2019-02-26T12:54:42.190Z\",\"2019-02-26T12:54:43.190Z\",\"2019-02-26T12:54:44.190Z\",\"2019-02-26T12:54:45.190Z\",\"2019-02-26T12:54:46.190Z\",\"2019-02-26T12:54:47.190Z\",\"2019-02-26T12:54:48.190Z\",\"2019-02-26T12:54:49.190Z\",\"2019-02-26T12:54:50.190Z\",\"2019-02-26T12:54:51.190Z\",\"2019-02-26T12:54:52.190Z\",\"2019-02-26T12:54:53.190Z\",\"2019-02-26T12:54:54.190Z\",\"2019-02-26T12:54:55.190Z\",\"2019-02-26T12:54:56.190Z\",\"2019-02-26T12:54:57.190Z\",\"2019-02-26T12:54:58.190Z\",\"2019-02-26T12:54:59.190Z\",\"2019-02-26T12:55:00.190Z\",\"2019-02-26T12:55:01.190Z\",\"2019-02-26T12:55:02.190Z\",\"2019-02-26T12:55:03.190Z\",\"2019-02-26T12:55:04.190Z\",\"2019-02-26T12:55:05.190Z\",\"2019-02-26T12:55:06.190Z\",\"2019-02-26T12:55:07.190Z\",\"2019-02-26T12:55:08.190Z\",\"2019-02-26T12:55:09.190Z\",\"2019-02-26T12:55:10.190Z\",\"2019-02-26T12:55:11.190Z\",\"2019-02-26T12:55:12.190Z\",\"2019-02-26T12:55:13.190Z\",\"2019-02-26T12:55:14.190Z\",\"2019-02-26T12:55:15.190Z\",\"2019-02-26T12:55:16.190Z\",\"2019-02-26T12:55:17.190Z\",\"2019-02-26T12:55:18.190Z\",\"2019-02-26T12:55:19.190Z\",\"2019-02-26T12:55:20.190Z\",\"2019-02-26T12:55:21.190Z\",\"2019-02-26T12:55:22.190Z\",\"2019-02-26T12:55:23.190Z\",\"2019-02-26T12:55:24.190Z\",\"2019-02-26T12:55:25.190Z\",\"2019-02-26T12:55:26.190Z\",\"2019-02-26T12:55:27.190Z\",\"2019-02-26T12:55:28.190Z\",\"2019-02-26T12:55:29.190Z\",\"2019-02-26T12:55:30.190Z\",\"2019-02-26T12:55:31.190Z\",\"2019-02-26T12:55:32.190Z\",\"2019-02-26T12:55:33.190Z\",\"2019-02-26T12:55:34.190Z\",\"2019-02-26T12:55:35.190Z\",\"2019-02-26T12:55:36.190Z\",\"2019-02-26T12:55:37.190Z\",\"2019-02-26T12:55:38.190Z\",\"2019-02-26T12:55:39.190Z\",\"2019-02-26T12:55:40.190Z\",\"2019-02-26T12:55:41.190Z\",\"2019-02-26T12:55:42.190Z\",\"2019-02-26T12:55:43.190Z\",\"2019-02-26T12:55:44.190Z\",\"2019-02-26T12:55:45.190Z\",\"2019-02-26T12:55:46.190Z\",\"2019-02-26T12:55:47.190Z\",\"2019-02-26T12:55:48.190Z\",\"2019-02-26T12:55:49.190Z\",\"2019-02-26T12:55:50.190Z\",\"2019-02-26T12:55:51.190Z\",\"2019-02-26T12:55:52.190Z\",\"2019-02-26T12:55:53.190Z\",\"2019-02-26T12:55:54.190Z\",\"2019-02-26T12:55:55.190Z\",\"2019-02-26T12:55:56.190Z\",\"2019-02-26T12:55:57.190Z\",\"2019-02-26T12:55:58.190Z\",\"2019-02-26T12:55:59.190Z\",\"2019-02-26T12:56:00.190Z\",\"2019-02-26T12:56:01.190Z\",\"2019-02-26T12:56:02.190Z\",\"2019-02-26T12:56:03.190Z\",\"2019-02-26T12:56:04.190Z\",\"2019-02-26T12:56:05.190Z\",\"2019-02-26T12:56:06.190Z\",\"2019-02-26T12:56:07.190Z\",\"2019-02-26T12:56:08.190Z\",\"2019-02-26T12:56:09.190Z\",\"2019-02-26T12:56:10.190Z\",\"2019-02-26T12:56:11.190Z\",\"2019-02-26T12:56:12.190Z\",\"2019-02-26T12:56:13.190Z\",\"2019-02-26T12:56:14.190Z\",\"2019-02-26T12:56:15.190Z\",\"2019-02-26T12:56:16.190Z\",\"2019-02-26T12:56:17.190Z\",\"2019-02-26T12:56:18.190Z\",\"2019-02-26T12:56:19.190Z\",\"2019-02-26T12:56:20.190Z\",\"2019-02-26T12:56:21.190Z\",\"2019-02-26T12:56:22.190Z\",\"2019-02-26T12:56:23.190Z\",\"2019-02-26T12:56:24.190Z\",\"2019-02-26T12:56:25.190Z\",\"2019-02-26T12:56:26.190Z\",\"2019-02-26T12:56:27.190Z\",\"2019-02-26T12:56:28.190Z\",\"2019-02-26T12:56:29.190Z\",\"2019-02-26T12:56:30.190Z\",\"2019-02-26T12:56:31.190Z\",\"2019-02-26T12:56:32.190Z\",\"2019-02-26T12:56:33.190Z\",\"2019-02-26T12:56:34.190Z\",\"2019-02-26T12:56:35.190Z\",\"2019-02-26T12:56:36.190Z\",\"2019-02-26T12:56:37.190Z\",\"2019-02-26T12:56:38.190Z\",\"2019-02-26T12:56:39.190Z\",\"2019-02-26T12:56:40.190Z\",\"2019-02-26T12:56:41.190Z\",\"2019-02-26T12:56:42.190Z\",\"2019-02-26T12:56:43.190Z\",\"2019-02-26T12:56:44.190Z\",\"2019-02-26T12:56:45.190Z\",\"2019-02-26T12:56:46.190Z\",\"2019-02-26T12:56:47.190Z\",\"2019-02-26T12:56:48.190Z\",\"2019-02-26T12:56:49.190Z\",\"2019-02-26T12:56:50.190Z\",\"2019-02-26T12:56:51.190Z\",\"2019-02-26T12:56:52.190Z\",\"2019-02-26T12:56:53.190Z\",\"2019-02-26T12:56:54.190Z\",\"2019-02-26T12:56:55.190Z\",\"2019-02-26T12:56:56.190Z\",\"2019-02-26T12:56:57.190Z\",\"2019-02-26T12:56:58.190Z\",\"2019-02-26T12:56:59.190Z\",\"2019-02-26T12:57:00.190Z\",\"2019-02-26T12:57:01.190Z\",\"2019-02-26T12:57:02.190Z\",\"2019-02-26T12:57:03.190Z\",\"2019-02-26T12:57:04.190Z\",\"2019-02-26T12:57:05.190Z\",\"2019-02-26T12:57:06.190Z\",\"2019-02-26T12:57:07.190Z\",\"2019-02-26T12:57:08.190Z\",\"2019-02-26T12:57:09.190Z\",\"2019-02-26T12:57:10.190Z\",\"2019-02-26T12:57:11.190Z\",\"2019-02-26T12:57:12.190Z\",\"2019-02-26T12:57:13.190Z\",\"2019-02-26T12:57:14.190Z\",\"2019-02-26T12:57:15.190Z\",\"2019-02-26T12:57:16.190Z\",\"2019-02-26T12:57:17.190Z\",\"2019-02-26T12:57:18.190Z\",\"2019-02-26T12:57:19.190Z\",\"2019-02-26T12:57:20.190Z\",\"2019-02-26T12:57:21.190Z\",\"2019-02-26T12:57:22.190Z\",\"2019-02-26T12:57:23.190Z\",\"2019-02-26T12:57:24.190Z\",\"2019-02-26T12:57:25.190Z\",\"2019-02-26T12:57:26.190Z\",\"2019-02-26T12:57:27.190Z\",\"2019-02-26T12:57:28.190Z\",\"2019-02-26T12:57:29.190Z\",\"2019-02-26T12:57:30.190Z\",\"2019-02-26T12:57:31.190Z\",\"2019-02-26T12:57:32.190Z\",\"2019-02-26T12:57:33.190Z\",\"2019-02-26T12:57:34.190Z\",\"2019-02-26T12:57:35.190Z\",\"2019-02-26T12:57:36.190Z\",\"2019-02-26T12:57:37.190Z\",\"2019-02-26T12:57:38.190Z\",\"2019-02-26T12:57:39.190Z\",\"2019-02-26T12:57:40.190Z\",\"2019-02-26T12:57:41.190Z\",\"2019-02-26T12:57:42.190Z\",\"2019-02-26T12:57:43.190Z\",\"2019-02-26T12:57:44.190Z\",\"2019-02-26T12:57:45.190Z\",\"2019-02-26T12:57:46.190Z\",\"2019-02-26T12:57:47.190Z\",\"2019-02-26T12:57:48.190Z\",\"2019-02-26T12:57:49.190Z\",\"2019-02-26T12:57:50.190Z\",\"2019-02-26T12:57:51.190Z\",\"2019-02-26T12:57:52.190Z\",\"2019-02-26T12:57:53.190Z\",\"2019-02-26T12:57:54.190Z\",\"2019-02-26T12:57:55.190Z\",\"2019-02-26T12:57:56.190Z\",\"2019-02-26T12:57:57.190Z\",\"2019-02-26T12:57:58.190Z\",\"2019-02-26T12:57:59.190Z\",\"2019-02-26T12:58:00.190Z\",\"2019-02-26T12:58:01.190Z\",\"2019-02-26T12:58:02.190Z\",\"2019-02-26T12:58:03.190Z\",\"2019-02-26T12:58:04.190Z\",\"2019-02-26T12:58:05.190Z\",\"2019-02-26T12:58:06.190Z\",\"2019-02-26T12:58:07.190Z\",\"2019-02-26T12:58:08.190Z\",\"2019-02-26T12:58:09.190Z\",\"2019-02-26T12:58:10.190Z\",\"2019-02-26T12:58:11.190Z\",\"2019-02-26T12:58:12.190Z\",\"2019-02-26T12:58:13.190Z\",\"2019-02-26T12:58:14.190Z\",\"2019-02-26T12:58:15.190Z\",\"2019-02-26T12:58:16.190Z\",\"2019-02-26T12:58:17.190Z\",\"2019-02-26T12:58:18.190Z\",\"2019-02-26T12:58:19.190Z\",\"2019-02-26T12:58:20.190Z\",\"2019-02-26T12:58:21.190Z\",\"2019-02-26T12:58:22.190Z\",\"2019-02-26T12:58:23.190Z\",\"2019-02-26T12:58:24.190Z\",\"2019-02-26T12:58:25.190Z\",\"2019-02-26T12:58:26.190Z\",\"2019-02-26T12:58:27.190Z\",\"2019-02-26T12:58:28.190Z\",\"2019-02-26T12:58:29.190Z\",\"2019-02-26T12:58:30.190Z\",\"2019-02-26T12:58:31.190Z\",\"2019-02-26T12:58:32.190Z\",\"2019-02-26T12:58:33.190Z\",\"2019-02-26T12:58:34.190Z\",\"2019-02-26T12:58:35.190Z\",\"2019-02-26T12:58:36.190Z\"]",
+        "_umap_options": "{\"color\":\"DarkGreen\"}"
       },
       "geometry": {
         "type": "LineString",
@@ -21315,277 +20446,12 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#f400ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Segment de vélo de 1,4 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "time": "2019-02-26T12:48:31.956Z",
-        "coordTimes": [
-          "2019-02-26T12:48:31.956Z",
-          "2019-02-26T12:48:32.956Z",
-          "2019-02-26T12:48:33.956Z",
-          "2019-02-26T12:48:34.956Z",
-          "2019-02-26T12:48:35.956Z",
-          "2019-02-26T12:48:36.956Z",
-          "2019-02-26T12:48:37.956Z",
-          "2019-02-26T12:48:38.956Z",
-          "2019-02-26T12:48:39.956Z",
-          "2019-02-26T12:48:40.956Z",
-          "2019-02-26T12:48:41.956Z",
-          "2019-02-26T12:48:42.956Z",
-          "2019-02-26T12:48:43.956Z",
-          "2019-02-26T12:48:44.956Z",
-          "2019-02-26T12:48:45.956Z",
-          "2019-02-26T12:48:46.956Z",
-          "2019-02-26T12:48:47.956Z",
-          "2019-02-26T12:48:48.956Z",
-          "2019-02-26T12:48:49.956Z",
-          "2019-02-26T12:48:50.956Z",
-          "2019-02-26T12:48:51.956Z",
-          "2019-02-26T12:48:52.956Z",
-          "2019-02-26T12:48:53.956Z",
-          "2019-02-26T12:48:54.956Z",
-          "2019-02-26T12:48:55.956Z",
-          "2019-02-26T12:48:56.956Z",
-          "2019-02-26T12:48:57.956Z",
-          "2019-02-26T12:48:58.956Z",
-          "2019-02-26T12:48:59.956Z",
-          "2019-02-26T12:49:00.956Z",
-          "2019-02-26T12:49:01.956Z",
-          "2019-02-26T12:49:02.956Z",
-          "2019-02-26T12:49:03.956Z",
-          "2019-02-26T12:49:04.956Z",
-          "2019-02-26T12:49:05.956Z",
-          "2019-02-26T12:49:06.956Z",
-          "2019-02-26T12:49:07.956Z",
-          "2019-02-26T12:49:08.956Z",
-          "2019-02-26T12:49:09.956Z",
-          "2019-02-26T12:49:10.956Z",
-          "2019-02-26T12:49:11.956Z",
-          "2019-02-26T12:49:12.956Z",
-          "2019-02-26T12:49:13.956Z",
-          "2019-02-26T12:49:14.956Z",
-          "2019-02-26T12:49:15.956Z",
-          "2019-02-26T12:49:16.956Z",
-          "2019-02-26T12:49:17.956Z",
-          "2019-02-26T12:49:18.956Z",
-          "2019-02-26T12:49:19.956Z",
-          "2019-02-26T12:49:20.956Z",
-          "2019-02-26T12:49:21.956Z",
-          "2019-02-26T12:49:22.956Z",
-          "2019-02-26T12:49:23.956Z",
-          "2019-02-26T12:49:24.956Z",
-          "2019-02-26T12:49:25.956Z",
-          "2019-02-26T12:49:26.956Z",
-          "2019-02-26T12:49:27.956Z",
-          "2019-02-26T12:49:28.956Z",
-          "2019-02-26T12:49:29.956Z",
-          "2019-02-26T12:49:30.956Z",
-          "2019-02-26T12:49:31.956Z",
-          "2019-02-26T12:49:32.956Z",
-          "2019-02-26T12:49:33.956Z",
-          "2019-02-26T12:49:34.956Z",
-          "2019-02-26T12:49:35.956Z",
-          "2019-02-26T12:49:36.956Z",
-          "2019-02-26T12:49:37.956Z",
-          "2019-02-26T12:49:38.956Z",
-          "2019-02-26T12:49:39.956Z",
-          "2019-02-26T12:49:40.956Z",
-          "2019-02-26T12:49:41.956Z",
-          "2019-02-26T12:49:42.956Z",
-          "2019-02-26T12:49:43.956Z",
-          "2019-02-26T12:49:44.956Z",
-          "2019-02-26T12:49:45.956Z",
-          "2019-02-26T12:49:46.956Z",
-          "2019-02-26T12:49:47.956Z",
-          "2019-02-26T12:49:48.956Z",
-          "2019-02-26T12:49:49.956Z",
-          "2019-02-26T12:49:50.956Z",
-          "2019-02-26T12:49:51.956Z",
-          "2019-02-26T12:49:52.956Z",
-          "2019-02-26T12:49:53.956Z",
-          "2019-02-26T12:49:54.956Z",
-          "2019-02-26T12:49:55.956Z",
-          "2019-02-26T12:49:56.956Z",
-          "2019-02-26T12:49:57.956Z",
-          "2019-02-26T12:49:58.956Z",
-          "2019-02-26T12:49:59.956Z",
-          "2019-02-26T12:50:00.956Z",
-          "2019-02-26T12:50:01.956Z",
-          "2019-02-26T12:50:02.956Z",
-          "2019-02-26T12:50:03.956Z",
-          "2019-02-26T12:50:04.956Z",
-          "2019-02-26T12:50:05.956Z",
-          "2019-02-26T12:50:06.956Z",
-          "2019-02-26T12:50:07.956Z",
-          "2019-02-26T12:50:08.956Z",
-          "2019-02-26T12:50:09.956Z",
-          "2019-02-26T12:50:10.956Z",
-          "2019-02-26T12:50:11.956Z",
-          "2019-02-26T12:50:12.956Z",
-          "2019-02-26T12:50:13.956Z",
-          "2019-02-26T12:50:14.956Z",
-          "2019-02-26T12:50:15.956Z",
-          "2019-02-26T12:50:16.956Z",
-          "2019-02-26T12:50:17.956Z",
-          "2019-02-26T12:50:18.956Z",
-          "2019-02-26T12:50:19.956Z",
-          "2019-02-26T12:50:20.956Z",
-          "2019-02-26T12:50:21.956Z",
-          "2019-02-26T12:50:22.956Z",
-          "2019-02-26T12:50:23.956Z",
-          "2019-02-26T12:50:24.956Z",
-          "2019-02-26T12:50:25.956Z",
-          "2019-02-26T12:50:26.956Z",
-          "2019-02-26T12:50:27.956Z",
-          "2019-02-26T12:50:28.956Z",
-          "2019-02-26T12:50:29.956Z",
-          "2019-02-26T12:50:30.956Z",
-          "2019-02-26T12:50:31.956Z",
-          "2019-02-26T12:50:32.956Z",
-          "2019-02-26T12:50:33.956Z",
-          "2019-02-26T12:50:34.956Z",
-          "2019-02-26T12:50:35.956Z",
-          "2019-02-26T12:50:36.956Z",
-          "2019-02-26T12:50:37.956Z",
-          "2019-02-26T12:50:38.956Z",
-          "2019-02-26T12:50:39.956Z",
-          "2019-02-26T12:50:40.956Z",
-          "2019-02-26T12:50:41.956Z",
-          "2019-02-26T12:50:42.956Z",
-          "2019-02-26T12:50:43.956Z",
-          "2019-02-26T12:50:44.956Z",
-          "2019-02-26T12:50:45.956Z",
-          "2019-02-26T12:50:46.956Z",
-          "2019-02-26T12:50:47.956Z",
-          "2019-02-26T12:50:48.956Z",
-          "2019-02-26T12:50:49.956Z",
-          "2019-02-26T12:50:50.956Z",
-          "2019-02-26T12:50:51.956Z",
-          "2019-02-26T12:50:52.956Z",
-          "2019-02-26T12:50:53.956Z",
-          "2019-02-26T12:50:54.956Z",
-          "2019-02-26T12:50:55.956Z",
-          "2019-02-26T12:50:56.956Z",
-          "2019-02-26T12:50:57.956Z",
-          "2019-02-26T12:50:58.956Z",
-          "2019-02-26T12:50:59.956Z",
-          "2019-02-26T12:51:00.956Z",
-          "2019-02-26T12:51:01.956Z",
-          "2019-02-26T12:51:02.956Z",
-          "2019-02-26T12:51:03.956Z",
-          "2019-02-26T12:51:04.956Z",
-          "2019-02-26T12:51:05.956Z",
-          "2019-02-26T12:51:06.956Z",
-          "2019-02-26T12:51:07.956Z",
-          "2019-02-26T12:51:08.956Z",
-          "2019-02-26T12:51:09.956Z",
-          "2019-02-26T12:51:10.956Z",
-          "2019-02-26T12:51:11.956Z",
-          "2019-02-26T12:51:12.956Z",
-          "2019-02-26T12:51:13.956Z",
-          "2019-02-26T12:51:14.956Z",
-          "2019-02-26T12:51:15.956Z",
-          "2019-02-26T12:51:16.956Z",
-          "2019-02-26T12:51:17.956Z",
-          "2019-02-26T12:51:18.956Z",
-          "2019-02-26T12:51:19.956Z",
-          "2019-02-26T12:51:20.956Z",
-          "2019-02-26T12:51:21.956Z",
-          "2019-02-26T12:51:22.956Z",
-          "2019-02-26T12:51:23.956Z",
-          "2019-02-26T12:51:24.956Z",
-          "2019-02-26T12:51:25.956Z",
-          "2019-02-26T12:51:26.956Z",
-          "2019-02-26T12:51:27.956Z",
-          "2019-02-26T12:51:28.956Z",
-          "2019-02-26T12:51:29.956Z",
-          "2019-02-26T12:51:30.956Z",
-          "2019-02-26T12:51:31.956Z",
-          "2019-02-26T12:51:32.956Z",
-          "2019-02-26T12:51:33.956Z",
-          "2019-02-26T12:51:34.956Z",
-          "2019-02-26T12:51:35.956Z",
-          "2019-02-26T12:51:36.956Z",
-          "2019-02-26T12:51:37.956Z",
-          "2019-02-26T12:51:38.956Z",
-          "2019-02-26T12:51:39.956Z",
-          "2019-02-26T12:51:40.956Z",
-          "2019-02-26T12:51:41.956Z",
-          "2019-02-26T12:51:42.956Z",
-          "2019-02-26T12:51:43.956Z",
-          "2019-02-26T12:51:44.956Z",
-          "2019-02-26T12:51:45.956Z",
-          "2019-02-26T12:51:46.956Z",
-          "2019-02-26T12:51:47.956Z",
-          "2019-02-26T12:51:48.956Z",
-          "2019-02-26T12:51:49.956Z",
-          "2019-02-26T12:51:50.956Z",
-          "2019-02-26T12:51:51.956Z",
-          "2019-02-26T12:51:52.956Z",
-          "2019-02-26T12:51:53.956Z",
-          "2019-02-26T12:51:54.956Z",
-          "2019-02-26T12:51:55.956Z",
-          "2019-02-26T12:51:56.956Z",
-          "2019-02-26T12:51:57.956Z",
-          "2019-02-26T12:51:58.956Z",
-          "2019-02-26T12:51:59.956Z",
-          "2019-02-26T12:52:00.956Z",
-          "2019-02-26T12:52:01.956Z",
-          "2019-02-26T12:52:02.956Z",
-          "2019-02-26T12:52:03.956Z",
-          "2019-02-26T12:52:04.956Z",
-          "2019-02-26T12:52:05.956Z",
-          "2019-02-26T12:52:06.956Z",
-          "2019-02-26T12:52:07.956Z",
-          "2019-02-26T12:52:08.956Z",
-          "2019-02-26T12:52:09.956Z",
-          "2019-02-26T12:52:10.956Z",
-          "2019-02-26T12:52:11.956Z",
-          "2019-02-26T12:52:12.956Z",
-          "2019-02-26T12:52:13.956Z",
-          "2019-02-26T12:52:14.956Z",
-          "2019-02-26T12:52:15.956Z",
-          "2019-02-26T12:52:16.956Z",
-          "2019-02-26T12:52:17.956Z",
-          "2019-02-26T12:52:18.956Z",
-          "2019-02-26T12:52:19.956Z",
-          "2019-02-26T12:52:20.956Z",
-          "2019-02-26T12:52:21.956Z",
-          "2019-02-26T12:52:22.956Z",
-          "2019-02-26T12:52:23.956Z",
-          "2019-02-26T12:52:24.956Z",
-          "2019-02-26T12:52:25.956Z",
-          "2019-02-26T12:52:26.956Z",
-          "2019-02-26T12:52:27.956Z",
-          "2019-02-26T12:52:28.956Z",
-          "2019-02-26T12:52:29.956Z",
-          "2019-02-26T12:52:30.956Z",
-          "2019-02-26T12:52:31.956Z",
-          "2019-02-26T12:52:32.956Z",
-          "2019-02-26T12:52:33.956Z",
-          "2019-02-26T12:52:34.956Z",
-          "2019-02-26T12:52:35.956Z",
-          "2019-02-26T12:52:36.956Z",
-          "2019-02-26T12:52:37.956Z",
-          "2019-02-26T12:52:38.956Z",
-          "2019-02-26T12:52:39.956Z",
-          "2019-02-26T12:52:40.956Z",
-          "2019-02-26T12:52:41.956Z",
-          "2019-02-26T12:52:42.956Z",
-          "2019-02-26T12:52:43.956Z",
-          "2019-02-26T12:52:44.956Z",
-          "2019-02-26T12:52:45.956Z",
-          "2019-02-26T12:52:46.956Z",
-          "2019-02-26T12:52:47.956Z",
-          "2019-02-26T12:52:48.956Z",
-          "2019-02-26T12:52:49.956Z",
-          "2019-02-26T12:52:50.956Z",
-          "2019-02-26T12:52:51.956Z",
-          "2019-02-26T12:52:52.956Z",
-          "2019-02-26T12:52:53.956Z",
-          "2019-02-26T12:52:54.956Z",
-          "2019-02-26T12:52:55.956Z",
-          "2019-02-26T12:52:56.956Z",
-          "2019-02-26T12:52:57.956Z"
-        ]
+        "coordTimes": "[\"2019-02-26T12:48:31.956Z\",\"2019-02-26T12:48:32.956Z\",\"2019-02-26T12:48:33.956Z\",\"2019-02-26T12:48:34.956Z\",\"2019-02-26T12:48:35.956Z\",\"2019-02-26T12:48:36.956Z\",\"2019-02-26T12:48:37.956Z\",\"2019-02-26T12:48:38.956Z\",\"2019-02-26T12:48:39.956Z\",\"2019-02-26T12:48:40.956Z\",\"2019-02-26T12:48:41.956Z\",\"2019-02-26T12:48:42.956Z\",\"2019-02-26T12:48:43.956Z\",\"2019-02-26T12:48:44.956Z\",\"2019-02-26T12:48:45.956Z\",\"2019-02-26T12:48:46.956Z\",\"2019-02-26T12:48:47.956Z\",\"2019-02-26T12:48:48.956Z\",\"2019-02-26T12:48:49.956Z\",\"2019-02-26T12:48:50.956Z\",\"2019-02-26T12:48:51.956Z\",\"2019-02-26T12:48:52.956Z\",\"2019-02-26T12:48:53.956Z\",\"2019-02-26T12:48:54.956Z\",\"2019-02-26T12:48:55.956Z\",\"2019-02-26T12:48:56.956Z\",\"2019-02-26T12:48:57.956Z\",\"2019-02-26T12:48:58.956Z\",\"2019-02-26T12:48:59.956Z\",\"2019-02-26T12:49:00.956Z\",\"2019-02-26T12:49:01.956Z\",\"2019-02-26T12:49:02.956Z\",\"2019-02-26T12:49:03.956Z\",\"2019-02-26T12:49:04.956Z\",\"2019-02-26T12:49:05.956Z\",\"2019-02-26T12:49:06.956Z\",\"2019-02-26T12:49:07.956Z\",\"2019-02-26T12:49:08.956Z\",\"2019-02-26T12:49:09.956Z\",\"2019-02-26T12:49:10.956Z\",\"2019-02-26T12:49:11.956Z\",\"2019-02-26T12:49:12.956Z\",\"2019-02-26T12:49:13.956Z\",\"2019-02-26T12:49:14.956Z\",\"2019-02-26T12:49:15.956Z\",\"2019-02-26T12:49:16.956Z\",\"2019-02-26T12:49:17.956Z\",\"2019-02-26T12:49:18.956Z\",\"2019-02-26T12:49:19.956Z\",\"2019-02-26T12:49:20.956Z\",\"2019-02-26T12:49:21.956Z\",\"2019-02-26T12:49:22.956Z\",\"2019-02-26T12:49:23.956Z\",\"2019-02-26T12:49:24.956Z\",\"2019-02-26T12:49:25.956Z\",\"2019-02-26T12:49:26.956Z\",\"2019-02-26T12:49:27.956Z\",\"2019-02-26T12:49:28.956Z\",\"2019-02-26T12:49:29.956Z\",\"2019-02-26T12:49:30.956Z\",\"2019-02-26T12:49:31.956Z\",\"2019-02-26T12:49:32.956Z\",\"2019-02-26T12:49:33.956Z\",\"2019-02-26T12:49:34.956Z\",\"2019-02-26T12:49:35.956Z\",\"2019-02-26T12:49:36.956Z\",\"2019-02-26T12:49:37.956Z\",\"2019-02-26T12:49:38.956Z\",\"2019-02-26T12:49:39.956Z\",\"2019-02-26T12:49:40.956Z\",\"2019-02-26T12:49:41.956Z\",\"2019-02-26T12:49:42.956Z\",\"2019-02-26T12:49:43.956Z\",\"2019-02-26T12:49:44.956Z\",\"2019-02-26T12:49:45.956Z\",\"2019-02-26T12:49:46.956Z\",\"2019-02-26T12:49:47.956Z\",\"2019-02-26T12:49:48.956Z\",\"2019-02-26T12:49:49.956Z\",\"2019-02-26T12:49:50.956Z\",\"2019-02-26T12:49:51.956Z\",\"2019-02-26T12:49:52.956Z\",\"2019-02-26T12:49:53.956Z\",\"2019-02-26T12:49:54.956Z\",\"2019-02-26T12:49:55.956Z\",\"2019-02-26T12:49:56.956Z\",\"2019-02-26T12:49:57.956Z\",\"2019-02-26T12:49:58.956Z\",\"2019-02-26T12:49:59.956Z\",\"2019-02-26T12:50:00.956Z\",\"2019-02-26T12:50:01.956Z\",\"2019-02-26T12:50:02.956Z\",\"2019-02-26T12:50:03.956Z\",\"2019-02-26T12:50:04.956Z\",\"2019-02-26T12:50:05.956Z\",\"2019-02-26T12:50:06.956Z\",\"2019-02-26T12:50:07.956Z\",\"2019-02-26T12:50:08.956Z\",\"2019-02-26T12:50:09.956Z\",\"2019-02-26T12:50:10.956Z\",\"2019-02-26T12:50:11.956Z\",\"2019-02-26T12:50:12.956Z\",\"2019-02-26T12:50:13.956Z\",\"2019-02-26T12:50:14.956Z\",\"2019-02-26T12:50:15.956Z\",\"2019-02-26T12:50:16.956Z\",\"2019-02-26T12:50:17.956Z\",\"2019-02-26T12:50:18.956Z\",\"2019-02-26T12:50:19.956Z\",\"2019-02-26T12:50:20.956Z\",\"2019-02-26T12:50:21.956Z\",\"2019-02-26T12:50:22.956Z\",\"2019-02-26T12:50:23.956Z\",\"2019-02-26T12:50:24.956Z\",\"2019-02-26T12:50:25.956Z\",\"2019-02-26T12:50:26.956Z\",\"2019-02-26T12:50:27.956Z\",\"2019-02-26T12:50:28.956Z\",\"2019-02-26T12:50:29.956Z\",\"2019-02-26T12:50:30.956Z\",\"2019-02-26T12:50:31.956Z\",\"2019-02-26T12:50:32.956Z\",\"2019-02-26T12:50:33.956Z\",\"2019-02-26T12:50:34.956Z\",\"2019-02-26T12:50:35.956Z\",\"2019-02-26T12:50:36.956Z\",\"2019-02-26T12:50:37.956Z\",\"2019-02-26T12:50:38.956Z\",\"2019-02-26T12:50:39.956Z\",\"2019-02-26T12:50:40.956Z\",\"2019-02-26T12:50:41.956Z\",\"2019-02-26T12:50:42.956Z\",\"2019-02-26T12:50:43.956Z\",\"2019-02-26T12:50:44.956Z\",\"2019-02-26T12:50:45.956Z\",\"2019-02-26T12:50:46.956Z\",\"2019-02-26T12:50:47.956Z\",\"2019-02-26T12:50:48.956Z\",\"2019-02-26T12:50:49.956Z\",\"2019-02-26T12:50:50.956Z\",\"2019-02-26T12:50:51.956Z\",\"2019-02-26T12:50:52.956Z\",\"2019-02-26T12:50:53.956Z\",\"2019-02-26T12:50:54.956Z\",\"2019-02-26T12:50:55.956Z\",\"2019-02-26T12:50:56.956Z\",\"2019-02-26T12:50:57.956Z\",\"2019-02-26T12:50:58.956Z\",\"2019-02-26T12:50:59.956Z\",\"2019-02-26T12:51:00.956Z\",\"2019-02-26T12:51:01.956Z\",\"2019-02-26T12:51:02.956Z\",\"2019-02-26T12:51:03.956Z\",\"2019-02-26T12:51:04.956Z\",\"2019-02-26T12:51:05.956Z\",\"2019-02-26T12:51:06.956Z\",\"2019-02-26T12:51:07.956Z\",\"2019-02-26T12:51:08.956Z\",\"2019-02-26T12:51:09.956Z\",\"2019-02-26T12:51:10.956Z\",\"2019-02-26T12:51:11.956Z\",\"2019-02-26T12:51:12.956Z\",\"2019-02-26T12:51:13.956Z\",\"2019-02-26T12:51:14.956Z\",\"2019-02-26T12:51:15.956Z\",\"2019-02-26T12:51:16.956Z\",\"2019-02-26T12:51:17.956Z\",\"2019-02-26T12:51:18.956Z\",\"2019-02-26T12:51:19.956Z\",\"2019-02-26T12:51:20.956Z\",\"2019-02-26T12:51:21.956Z\",\"2019-02-26T12:51:22.956Z\",\"2019-02-26T12:51:23.956Z\",\"2019-02-26T12:51:24.956Z\",\"2019-02-26T12:51:25.956Z\",\"2019-02-26T12:51:26.956Z\",\"2019-02-26T12:51:27.956Z\",\"2019-02-26T12:51:28.956Z\",\"2019-02-26T12:51:29.956Z\",\"2019-02-26T12:51:30.956Z\",\"2019-02-26T12:51:31.956Z\",\"2019-02-26T12:51:32.956Z\",\"2019-02-26T12:51:33.956Z\",\"2019-02-26T12:51:34.956Z\",\"2019-02-26T12:51:35.956Z\",\"2019-02-26T12:51:36.956Z\",\"2019-02-26T12:51:37.956Z\",\"2019-02-26T12:51:38.956Z\",\"2019-02-26T12:51:39.956Z\",\"2019-02-26T12:51:40.956Z\",\"2019-02-26T12:51:41.956Z\",\"2019-02-26T12:51:42.956Z\",\"2019-02-26T12:51:43.956Z\",\"2019-02-26T12:51:44.956Z\",\"2019-02-26T12:51:45.956Z\",\"2019-02-26T12:51:46.956Z\",\"2019-02-26T12:51:47.956Z\",\"2019-02-26T12:51:48.956Z\",\"2019-02-26T12:51:49.956Z\",\"2019-02-26T12:51:50.956Z\",\"2019-02-26T12:51:51.956Z\",\"2019-02-26T12:51:52.956Z\",\"2019-02-26T12:51:53.956Z\",\"2019-02-26T12:51:54.956Z\",\"2019-02-26T12:51:55.956Z\",\"2019-02-26T12:51:56.956Z\",\"2019-02-26T12:51:57.956Z\",\"2019-02-26T12:51:58.956Z\",\"2019-02-26T12:51:59.956Z\",\"2019-02-26T12:52:00.956Z\",\"2019-02-26T12:52:01.956Z\",\"2019-02-26T12:52:02.956Z\",\"2019-02-26T12:52:03.956Z\",\"2019-02-26T12:52:04.956Z\",\"2019-02-26T12:52:05.956Z\",\"2019-02-26T12:52:06.956Z\",\"2019-02-26T12:52:07.956Z\",\"2019-02-26T12:52:08.956Z\",\"2019-02-26T12:52:09.956Z\",\"2019-02-26T12:52:10.956Z\",\"2019-02-26T12:52:11.956Z\",\"2019-02-26T12:52:12.956Z\",\"2019-02-26T12:52:13.956Z\",\"2019-02-26T12:52:14.956Z\",\"2019-02-26T12:52:15.956Z\",\"2019-02-26T12:52:16.956Z\",\"2019-02-26T12:52:17.956Z\",\"2019-02-26T12:52:18.956Z\",\"2019-02-26T12:52:19.956Z\",\"2019-02-26T12:52:20.956Z\",\"2019-02-26T12:52:21.956Z\",\"2019-02-26T12:52:22.956Z\",\"2019-02-26T12:52:23.956Z\",\"2019-02-26T12:52:24.956Z\",\"2019-02-26T12:52:25.956Z\",\"2019-02-26T12:52:26.956Z\",\"2019-02-26T12:52:27.956Z\",\"2019-02-26T12:52:28.956Z\",\"2019-02-26T12:52:29.956Z\",\"2019-02-26T12:52:30.956Z\",\"2019-02-26T12:52:31.956Z\",\"2019-02-26T12:52:32.956Z\",\"2019-02-26T12:52:33.956Z\",\"2019-02-26T12:52:34.956Z\",\"2019-02-26T12:52:35.956Z\",\"2019-02-26T12:52:36.956Z\",\"2019-02-26T12:52:37.956Z\",\"2019-02-26T12:52:38.956Z\",\"2019-02-26T12:52:39.956Z\",\"2019-02-26T12:52:40.956Z\",\"2019-02-26T12:52:41.956Z\",\"2019-02-26T12:52:42.956Z\",\"2019-02-26T12:52:43.956Z\",\"2019-02-26T12:52:44.956Z\",\"2019-02-26T12:52:45.956Z\",\"2019-02-26T12:52:46.956Z\",\"2019-02-26T12:52:47.956Z\",\"2019-02-26T12:52:48.956Z\",\"2019-02-26T12:52:49.956Z\",\"2019-02-26T12:52:50.956Z\",\"2019-02-26T12:52:51.956Z\",\"2019-02-26T12:52:52.956Z\",\"2019-02-26T12:52:53.956Z\",\"2019-02-26T12:52:54.956Z\",\"2019-02-26T12:52:55.956Z\",\"2019-02-26T12:52:56.956Z\",\"2019-02-26T12:52:57.956Z\"]"
       },
       "geometry": {
         "type": "LineString",
@@ -23258,7 +22124,8 @@
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/8519421",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24760,6 +23627,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\",,\"dashArray\":\"5\"}",
         "name": "single descente Montaigut",
         "description": "https://www.strava.com/segments/17551369"
@@ -24817,6 +23687,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#008000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
         "name": "single du puy de l'orme",
         "description": "https://www.strava.com/segments/10382759"
@@ -24900,7 +23773,8 @@
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/13715356",
         "name": "Single du ravin de quinsat",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -24938,6 +23812,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#008000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\",,\"dashArray\":\"5\"}",
         "name": "Single en pouzzolane",
         "description": "https://www.strava.com/segments/17759723"
@@ -25007,15 +23884,12 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "opacity": "1",
-          "color": "OrangeRed"
-        },
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"opacity\":\"1\",\"color\":\"OrangeRed\"}",
         "name": "Single Prada",
-        "_umap_options": {
-          "opacity": "1",
-          "color": "OrangeRed"
-        },
+        "_umap_options": "{\"opacity\":\"1\",\"color\":\"OrangeRed\"}",
         "description": "https://www.strava.com/segments/9731917"
       },
       "geometry": {
@@ -25458,7 +24332,8 @@
         "stroke-opacity": 1,
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/6830631",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -26810,7 +25685,10 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\", \"dashArray\": \"10\"}" ,
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\", \"dashArray\": \"10\"}",
         "description": "https://www.strava.com/segments/15324291",
         "name": "String dentelle"
       },
@@ -26865,7 +25743,8 @@
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "name": "Tobogan du bedat",
         "description": "https://www.strava.com/segments/6778234",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -27021,7 +25900,8 @@
         "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "name": "Trace FR Gergo",
         "description": "https://www.strava.com/segments/6926286",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"      },
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -27156,6 +26036,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\",,\"dashArray\":\"5\"}",
         "description": "https://www.strava.com/segments/4545052",
         "name": "Voie ferrrée haut"
@@ -27314,94 +26197,16 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "name": "Vraie Veine CHATEAUGAY",
         "time": "2017-10-23T10:31:37Z",
-        "coordTimes": [
-          "2017-10-23T10:31:37Z",
-          "2017-10-23T10:31:38Z",
-          "2017-10-23T10:31:39Z",
-          "2017-10-23T10:31:40Z",
-          "2017-10-23T10:31:42Z",
-          "2017-10-23T10:31:46Z",
-          "2017-10-23T10:31:48Z",
-          "2017-10-23T10:31:50Z",
-          "2017-10-23T10:31:53Z",
-          "2017-10-23T10:31:55Z",
-          "2017-10-23T10:31:57Z",
-          "2017-10-23T10:32:00Z",
-          "2017-10-23T10:32:06Z",
-          "2017-10-23T10:32:09Z",
-          "2017-10-23T10:32:11Z",
-          "2017-10-23T10:32:13Z",
-          "2017-10-23T10:32:14Z",
-          "2017-10-23T10:32:15Z",
-          "2017-10-23T10:32:16Z",
-          "2017-10-23T10:32:18Z",
-          "2017-10-23T10:32:20Z",
-          "2017-10-23T10:32:21Z",
-          "2017-10-23T10:32:22Z",
-          "2017-10-23T10:32:23Z",
-          "2017-10-23T10:32:24Z",
-          "2017-10-23T10:32:25Z",
-          "2017-10-23T10:32:26Z",
-          "2017-10-23T10:32:27Z",
-          "2017-10-23T10:32:28Z",
-          "2017-10-23T10:32:29Z",
-          "2017-10-23T10:32:30Z",
-          "2017-10-23T10:32:31Z",
-          "2017-10-23T10:32:32Z",
-          "2017-10-23T10:32:34Z",
-          "2017-10-23T10:32:35Z",
-          "2017-10-23T10:32:37Z",
-          "2017-10-23T10:32:39Z",
-          "2017-10-23T10:32:42Z",
-          "2017-10-23T10:32:47Z",
-          "2017-10-23T10:32:52Z",
-          "2017-10-23T10:32:57Z",
-          "2017-10-23T10:32:59Z",
-          "2017-10-23T10:33:00Z",
-          "2017-10-23T10:33:01Z",
-          "2017-10-23T10:33:02Z",
-          "2017-10-23T10:33:04Z",
-          "2017-10-23T10:33:06Z",
-          "2017-10-23T10:33:08Z",
-          "2017-10-23T10:33:09Z",
-          "2017-10-23T10:33:10Z",
-          "2017-10-23T10:33:11Z",
-          "2017-10-23T10:33:12Z",
-          "2017-10-23T10:33:13Z",
-          "2017-10-23T10:33:14Z",
-          "2017-10-23T10:33:15Z",
-          "2017-10-23T10:33:17Z",
-          "2017-10-23T10:33:19Z",
-          "2017-10-23T10:33:29Z",
-          "2017-10-23T10:33:31Z",
-          "2017-10-23T10:33:33Z",
-          "2017-10-23T10:33:35Z",
-          "2017-10-23T10:33:36Z",
-          "2017-10-23T10:33:37Z",
-          "2017-10-23T10:33:38Z",
-          "2017-10-23T10:33:39Z",
-          "2017-10-23T10:33:42Z",
-          "2017-10-23T10:33:57Z",
-          "2017-10-23T10:34:00Z",
-          "2017-10-23T10:34:02Z",
-          "2017-10-23T10:34:04Z",
-          "2017-10-23T10:34:06Z",
-          "2017-10-23T10:34:07Z",
-          "2017-10-23T10:34:08Z",
-          "2017-10-23T10:34:09Z",
-          "2017-10-23T10:34:10Z",
-          "2017-10-23T10:34:11Z",
-          "2017-10-23T10:34:13Z",
-          "2017-10-23T10:34:15Z",
-          "2017-10-23T10:34:17Z",
-          "2017-10-23T10:34:19Z",
-          "2017-10-23T10:34:21Z"
-        ],
+        "coordTimes": "[\"2017-10-23T10:31:37Z\",\"2017-10-23T10:31:38Z\",\"2017-10-23T10:31:39Z\",\"2017-10-23T10:31:40Z\",\"2017-10-23T10:31:42Z\",\"2017-10-23T10:31:46Z\",\"2017-10-23T10:31:48Z\",\"2017-10-23T10:31:50Z\",\"2017-10-23T10:31:53Z\",\"2017-10-23T10:31:55Z\",\"2017-10-23T10:31:57Z\",\"2017-10-23T10:32:00Z\",\"2017-10-23T10:32:06Z\",\"2017-10-23T10:32:09Z\",\"2017-10-23T10:32:11Z\",\"2017-10-23T10:32:13Z\",\"2017-10-23T10:32:14Z\",\"2017-10-23T10:32:15Z\",\"2017-10-23T10:32:16Z\",\"2017-10-23T10:32:18Z\",\"2017-10-23T10:32:20Z\",\"2017-10-23T10:32:21Z\",\"2017-10-23T10:32:22Z\",\"2017-10-23T10:32:23Z\",\"2017-10-23T10:32:24Z\",\"2017-10-23T10:32:25Z\",\"2017-10-23T10:32:26Z\",\"2017-10-23T10:32:27Z\",\"2017-10-23T10:32:28Z\",\"2017-10-23T10:32:29Z\",\"2017-10-23T10:32:30Z\",\"2017-10-23T10:32:31Z\",\"2017-10-23T10:32:32Z\",\"2017-10-23T10:32:34Z\",\"2017-10-23T10:32:35Z\",\"2017-10-23T10:32:37Z\",\"2017-10-23T10:32:39Z\",\"2017-10-23T10:32:42Z\",\"2017-10-23T10:32:47Z\",\"2017-10-23T10:32:52Z\",\"2017-10-23T10:32:57Z\",\"2017-10-23T10:32:59Z\",\"2017-10-23T10:33:00Z\",\"2017-10-23T10:33:01Z\",\"2017-10-23T10:33:02Z\",\"2017-10-23T10:33:04Z\",\"2017-10-23T10:33:06Z\",\"2017-10-23T10:33:08Z\",\"2017-10-23T10:33:09Z\",\"2017-10-23T10:33:10Z\",\"2017-10-23T10:33:11Z\",\"2017-10-23T10:33:12Z\",\"2017-10-23T10:33:13Z\",\"2017-10-23T10:33:14Z\",\"2017-10-23T10:33:15Z\",\"2017-10-23T10:33:17Z\",\"2017-10-23T10:33:19Z\",\"2017-10-23T10:33:29Z\",\"2017-10-23T10:33:31Z\",\"2017-10-23T10:33:33Z\",\"2017-10-23T10:33:35Z\",\"2017-10-23T10:33:36Z\",\"2017-10-23T10:33:37Z\",\"2017-10-23T10:33:38Z\",\"2017-10-23T10:33:39Z\",\"2017-10-23T10:33:42Z\",\"2017-10-23T10:33:57Z\",\"2017-10-23T10:34:00Z\",\"2017-10-23T10:34:02Z\",\"2017-10-23T10:34:04Z\",\"2017-10-23T10:34:06Z\",\"2017-10-23T10:34:07Z\",\"2017-10-23T10:34:08Z\",\"2017-10-23T10:34:09Z\",\"2017-10-23T10:34:10Z\",\"2017-10-23T10:34:11Z\",\"2017-10-23T10:34:13Z\",\"2017-10-23T10:34:15Z\",\"2017-10-23T10:34:17Z\",\"2017-10-23T10:34:19Z\",\"2017-10-23T10:34:21Z\"]",
         "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
-        "description": "https://www.strava.com/segments/8539531?filter=overall\nrideable uniquement par temps sec (glaise + grosses ornieres), gros dénivellé",
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"      },
+        "description": "https://www.strava.com/segments/8539531?filter=overallrideable uniquement par temps sec (glaise + grosses ornieres), gros dénivellé",
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -27735,6 +26540,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/14971492/",
         "name": "Zig Zag servière"
@@ -27804,6 +26612,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ffa500",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\",,\"dashArray\":\"5\"}",
         "name": "Zip dans les bois ",
         "description": "https://www.strava.com/segments/18547798"
@@ -27853,6 +26664,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\",,\"dashArray\":\"5\"}",
         "description": "https://www.strava.com/segments/11524614",
         "name": "Carrières de Gravenoire version feuilles"
@@ -27910,6 +26724,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Red\",\"dashArray\":\"5\",\"opacity\":\"1\"}",
         "description": "https://www.strava.com/segments/14392005",
         "name": "Descente vers rue de la Pauze"
@@ -27971,6 +26788,9 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\",,\"dashArray\":\"5\"}",
         "description": "https://www.strava.com/segments/10051060",
         "name": "Descente Bois de Rochetoux",
