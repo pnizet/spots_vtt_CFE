@@ -367,14 +367,12 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Red",
-          "opacity": "1"
-        }
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "name": "Les Racines"
       },
       "geometry": {
         "type": "LineString",
