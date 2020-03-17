@@ -7,8 +7,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/12089942",
         "name": "Descente vers St Saturnin"
       },
@@ -64,8 +64,8 @@
         "stroke": "#006400",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"},
         "name": "Jardins de St-Amant",
         "description": "https://www.strava.com/segments/10841177"
       },
@@ -193,8 +193,8 @@
         "stroke": "#006400",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/10864579",
         "name": "Single plateau de la Serre"
       },
@@ -443,8 +443,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -514,8 +514,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -621,8 +621,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -732,8 +732,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
         "description": ""
       },
       "geometry": {
@@ -772,8 +772,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -883,8 +883,8 @@
         "stroke": "#006400",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -1017,8 +1017,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -1186,8 +1186,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -1347,8 +1347,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -1536,8 +1536,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -1595,8 +1595,8 @@
         "stroke": "#006400",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -1694,8 +1694,8 @@
         "stroke": "#006400",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -1753,8 +1753,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -1840,8 +1840,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -1959,8 +1959,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -2006,8 +2006,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -2081,8 +2081,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -2172,8 +2172,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -2311,8 +2311,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -2378,8 +2378,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -2425,8 +2425,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -2590,8 +2590,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -2731,8 +2731,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -2790,8 +2790,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -2928,8 +2928,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "description": "Trop large après travaux et boueux"
       },
       "geometry": {
@@ -3024,8 +3024,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -3091,8 +3091,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -3225,8 +3225,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -3260,8 +3260,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -3422,8 +3422,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -3537,8 +3537,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -3588,8 +3588,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -3635,8 +3635,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -4131,8 +4131,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -4309,8 +4309,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -4360,8 +4360,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "MultiLineString",
@@ -4397,8 +4397,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -4444,8 +4444,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -4551,8 +4551,8 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -4591,8 +4591,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -4634,8 +4634,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -4681,8 +4681,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -4752,8 +4752,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -4799,8 +4799,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -4874,8 +4874,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -5091,8 +5091,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -5158,8 +5158,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -5292,8 +5292,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -5797,8 +5797,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -5875,8 +5875,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -5914,8 +5914,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -5965,8 +5965,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -6116,8 +6116,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -6191,8 +6191,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -6246,8 +6246,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -6289,8 +6289,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -6352,8 +6352,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -6387,8 +6387,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -6422,8 +6422,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -6839,8 +6839,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -6878,8 +6878,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -6925,8 +6925,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -6972,8 +6972,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -7063,8 +7063,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -7114,8 +7114,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -7205,8 +7205,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -7292,8 +7292,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -7399,8 +7399,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -7541,8 +7541,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -7700,8 +7700,8 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -9163,8 +9163,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -9414,8 +9414,8 @@
         "stroke": "#008000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -9850,8 +9850,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -9949,8 +9949,8 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -10012,8 +10012,8 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -10462,7 +10462,7 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -10739,7 +10739,7 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -10794,7 +10794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -11330,7 +11330,7 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "name": "Bien caché",
         "description": "https://www.strava.com/segments/19609793"
       },
@@ -11609,10 +11609,10 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/11680290",
         "name": "Descente de la tour de Rognon",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -11856,10 +11856,10 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
         "name": "descente des marches",
         "description": "https://www.strava.com/segments/10279107",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -12050,10 +12050,10 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "name": "Descente du ravin de Vazilhat",
         "description": "https://www.strava.com/segments/7964276",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -12103,10 +12103,10 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "name": "Descente du single de l'escargot",
         "description": "https://www.strava.com/segments/16403982",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -12311,7 +12311,7 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/17846867",
         "name": "Descente Le Crest"
       },
@@ -12711,9 +12711,9 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/9033560",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -13648,9 +13648,9 @@
       "type": "Feature",
       "properties": {
         "name": "Dh Air soft",
-        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/16705535\n\nAttention : il y a quelques arbres à couper ",
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -13822,10 +13822,10 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "name": "DH Le mas > Ponteix",
         "description": "https://www.strava.com/segments/12709535",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -13978,9 +13978,9 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/8580874?filter=overall",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -15021,10 +15021,10 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "name": "La Souche",
         "description": "https://www.strava.com/segments/17206313",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -15120,7 +15120,7 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/17724912",
         "name": "Little Single"
       },
@@ -15177,7 +15177,7 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
         "name": "Ne tombe pas dans le fossé",
         "description": "https://www.strava.com/segments/19342537"
       },
@@ -15222,7 +15222,7 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
         "name": "Parallele au single de l'escargot",
         "description": "https://www.strava.com/segments/15503597"
       },
@@ -15400,9 +15400,9 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/10190534\nPierreux",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -15941,9 +15941,9 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/13468310",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -16345,10 +16345,10 @@
         "stroke": "#FFA500",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"},
         "name": "Piste ďentrainement",
         "description": "https://www.strava.com/segments/17124459",
-        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"OrangeRed\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -16848,7 +16848,7 @@
           "2019-02-26T12:57:31.442Z",
           "2019-02-26T12:57:32.442Z"
         ],
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -17459,7 +17459,7 @@
           "2019-02-26T12:54:35.689Z",
           "2019-02-26T12:54:36.689Z"
         ],
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -23349,9 +23349,9 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/8519421",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -24911,7 +24911,7 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}"},
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"},
         "name": "single du puy de l'orme",
         "description": "https://www.strava.com/segments/10382759"
       },
@@ -24991,10 +24991,10 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/13715356",
         "name": "Single du ravin de quinsat",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -25551,9 +25551,9 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/6830631",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -26860,9 +26860,9 @@
         "stroke": "#006400",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"},
         "name": "Single Veyre",
-        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"}"},
+        "_umap_options": "{\"color\":\"DarkGreen\",\"opacity\":\"1\"},
         "description": ""
       },
       "geometry": {
@@ -26960,10 +26960,10 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "name": "Tobogan du bedat",
         "description": "https://www.strava.com/segments/6778234",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -27117,10 +27117,10 @@
         "stroke": "#ff0000",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "name": "Trace FR Gergo",
         "description": "https://www.strava.com/segments/6926286",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -27499,9 +27499,9 @@
           "2017-10-23T10:34:19Z",
           "2017-10-23T10:34:21Z"
         ],
-        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"},
+        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/8539531?filter=overall\nrideable uniquement par temps sec (glaise + grosses ornieres), gros dénivellé",
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}"}
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}
       },
       "geometry": {
         "type": "LineString",
@@ -27836,7 +27836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}"},
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"},
         "description": "https://www.strava.com/segments/14971492/",
         "name": "Zig Zag servière"
       },
