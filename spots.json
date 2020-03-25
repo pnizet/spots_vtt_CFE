@@ -27256,6 +27256,10 @@
     {
       "type": "Feature",
       "properties": {
+        "_umap_options": {
+          "color": "yellow",
+          "opacity": "1"
+        },
         "stroke": "#fffd00",
         "stroke-width": 2,
         "stroke-opacity": 1,
