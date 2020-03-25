@@ -27263,6 +27263,7 @@
         "stroke": "#fffd00",
         "stroke-width": 2,
         "stroke-opacity": 1,
+        "description": "https://www.strava.com/segments/xxxx",
         "name": "template"
       },
       "geometry": {
