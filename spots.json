@@ -5,16 +5,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/12089942",
         "name": "Descente vers St Saturnin",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -548,14 +548,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -778,15 +778,15 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "description": "",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -824,14 +824,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -2012,14 +2012,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -2190,14 +2190,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -2639,14 +2639,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -2976,14 +2976,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -3041,14 +3041,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -3295,14 +3295,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -3516,14 +3516,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -4360,16 +4360,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -4714,14 +4714,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -4771,14 +4771,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -4814,14 +4814,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -5024,14 +5024,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -5505,16 +5505,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -5797,14 +5797,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -6127,16 +6127,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -6182,16 +6182,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -6296,16 +6296,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -6359,14 +6359,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -6451,14 +6451,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -6710,14 +6710,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -6791,14 +6791,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -7052,14 +7052,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -7117,16 +7117,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -7172,16 +7172,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -7270,16 +7270,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -7420,16 +7420,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -7568,14 +7568,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -7621,14 +7621,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -7674,14 +7674,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -7771,14 +7771,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -7925,14 +7925,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -8131,14 +8131,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -8287,14 +8287,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -8396,16 +8396,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -8763,16 +8763,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -8822,16 +8822,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -8941,18 +8941,18 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/8028336",
         "name": "Colombier - l'Ermitage DH",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -9288,16 +9288,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -9423,16 +9423,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -9526,16 +9526,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -9786,16 +9786,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -9865,16 +9865,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -9912,16 +9912,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -9991,16 +9991,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -10519,14 +10519,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "0.9"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "0.9"
         },
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -10647,16 +10647,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -10922,14 +10922,14 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -11056,16 +11056,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -11182,16 +11182,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -11233,16 +11233,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -11663,11 +11663,11 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "10",
           "opacity": "1"
         },
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -11757,11 +11757,11 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "10",
           "opacity": "1"
         },
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -12363,7 +12363,7 @@
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
@@ -12560,18 +12560,18 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/7204102",
         "name": "descente Côme",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -12809,18 +12809,18 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/7008344",
         "name": "Descente de Tournoël",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -12886,16 +12886,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/10279107",
         "name": "descente des marches",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -12933,13 +12933,13 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/4869219",
         "name": "Descente du chemin des Crêtes",
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -13223,18 +13223,18 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/6269902",
         "name": "Descente Gorges de Viallard",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -13533,13 +13533,13 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/18918317",
         "name": "Descente petite carrière",
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -15172,13 +15172,13 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/6492236",
         "name": "foie ferrée bas",
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -16030,12 +16030,12 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/19342537",
         "name": "Ne tombe pas dans le fossé",
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -16081,12 +16081,12 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/15503597",
         "name": "Parallele au single de l'escargot",
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -17012,16 +17012,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/17124459",
         "name": "Piste ďentrainement",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -17303,7 +17303,7 @@
       "type": "Feature",
       "properties": {
         "name": "Segment de vélo de 0,3 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "time": "2019-02-26T12:47:06.252Z"
@@ -24041,18 +24041,18 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/16164137",
         "name": "Single Creux de la Berté",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -24130,18 +24130,18 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/17479971",
         "name": "Single de la Ribe",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -24183,18 +24183,18 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/14200598",
         "name": "Single de Teix au pont de Chambon",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -24514,16 +24514,16 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/9731917",
         "name": "Single Prada",
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -26500,18 +26500,18 @@
       "type": "Feature",
       "properties": {
         "_storage_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/9593222",
         "name": "Voie romaine descente",
-        "stroke": "#FFA500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
@@ -27008,13 +27008,13 @@
       "type": "Feature",
       "properties": {
         "_umap_options": {
-          "color": "OrangeRed",
+          "color": "Blue",
           "dashArray": "5",
           "opacity": "1"
         },
         "description": "https://www.strava.com/segments/18547798",
         "name": "Zip dans les bois ",
-        "stroke": "#ffa500",
+        "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
