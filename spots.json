@@ -17,7 +17,8 @@
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/12089942"
+        "strava": "https://www.strava.com/segments/12089942",
+        "acces_depart": "Pour accéder au début du single, il faut prendre la D28 direction Champeix, traverser le pont au dessus de la Monne et prendre la première à gauche, ça monte raide au début avec un revêtement en béton, on passe rapidement sur un chemin. Pour info, pour les costauds, il y a un segment depuis le bas de la cote jusqu'au pied du château."
       },
       "geometry": {
         "type": "LineString",
@@ -11927,8 +11928,7 @@
         "name": " MiniSection ",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2017-10-08T14:42:39Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -13637,8 +13637,7 @@
         "name": "Descente technique à travers bois",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2018-01-23T11:42:48Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -14896,8 +14895,7 @@
         "name": "Driiift",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2017-12-08T10:49:04Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -15348,8 +15346,7 @@
         "name": "La Faucheuse",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2019-02-26T12:33:08.209Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -16168,8 +16165,7 @@
         "name": "Pierre qui roule n'amasse pas mousse",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2017-10-23T10:14:23Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -16616,8 +16612,7 @@
         "name": "pif paf sous le bois",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2017-12-08T11:20:14Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -17310,8 +17305,7 @@
         "name": "Segment de vélo de 0,3 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2019-02-26T12:47:06.252Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -17479,8 +17473,7 @@
         "name": "Segment de vélo de 0,6 km à Cournols, Auvergne, France sur Strava",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2019-02-26T12:56:38.442Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -17769,8 +17762,7 @@
         "name": "Segment de vélo de 0,6 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2019-02-26T12:45:44.691Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -17993,8 +17985,7 @@
         "name": "Segment de vélo de 0,7 km à Saint Saturnin, Puy De Dôme, Auvergne, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2019-02-26T12:53:36.689Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -18313,8 +18304,7 @@
         "name": "Segment de vélo de 0,8 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2019-02-26T12:44:46.135Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -19118,8 +19108,7 @@
         "name": "Segment de vélo de 0,9 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2019-02-26T12:47:39.446Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -20146,8 +20135,7 @@
         "name": "Segment de vélo de 1,0 km à Aydat, Auvergne, France sur Strava",
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2019-02-26T12:54:39.190Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -26601,8 +26589,7 @@
         "name": "Vraie Veine CHATEAUGAY",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": "2017-10-23T10:31:37Z"
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -27209,8 +27196,7 @@
         "name": "Descente Bois de Rochetoux",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2,
-        "time": ""
+        "stroke-width": 2
       },
       "geometry": {
         "type": "LineString",
@@ -27266,8 +27252,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "description": "https://www.strava.com/segments/xxxx",
-        "name": "template",
-        "title": "test title"
+        "name": "template"
       },
       "geometry": {
         "type": "LineString",
