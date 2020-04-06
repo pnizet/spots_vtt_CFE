@@ -12,11 +12,12 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/12089942",
+        "description": "Début de descente sur un chemin carrosable en herbe, puis apres un virage à gauche le cehmin se retrecit pour enchainer qulques virages , la fin est un pierriere qui passe assez bien. fin du single sur le pont.",
         "name": "Descente vers St Saturnin",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/12089942"
       },
       "geometry": {
         "type": "LineString",
@@ -75,11 +76,12 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/10841177",
+        "description": "",
         "name": "Jardins de St-Amant",
         "stroke": "#006400",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/10841177"
       },
       "geometry": {
         "type": "LineString",
@@ -126,11 +128,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/7964740",
+        "description": "",
         "name": "DH sentier en balcon - D213",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/7964740"
       },
       "geometry": {
         "type": "LineString",
@@ -213,11 +216,12 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/10864579",
+        "description": "",
         "name": "Single plateau de la Serre",
         "stroke": "#006400",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/10864579"
       },
       "geometry": {
         "type": "LineString",
@@ -276,11 +280,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/22785492",
+        "description": "",
         "name": "Serre de Portelas (DH Part)",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/22785492"
       },
       "geometry": {
         "type": "LineString",
