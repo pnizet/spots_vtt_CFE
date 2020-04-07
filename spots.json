@@ -5750,7 +5750,8 @@
         },
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8550,11 +8551,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/6298493",
+        "description": "",
         "name": "Descente PDD par les Chataigners",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/6298493"
       },
       "geometry": {
         "type": "LineString",
@@ -8951,11 +8953,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/8028336",
+        "description": "",
         "name": "Colombier - l'Ermitage DH",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/8028336"
       },
       "geometry": {
         "type": "LineString",
@@ -9538,7 +9541,8 @@
         },
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10220,11 +10224,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/9049947",
+        "description": "",
         "name": "descente villars",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/9049947"
       },
       "geometry": {
         "type": "LineString",
@@ -10529,7 +10534,8 @@
         },
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11363,11 +11369,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/11282920",
+        "description": "",
         "name": "ça part !",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/11282920"
       },
       "geometry": {
         "type": "LineString",
@@ -11919,11 +11926,12 @@
           "color": "Black",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/7948698?filter=overallAttention à l'arbre couché (à sauter)",
+        "description": "Attention à l'arbre couché (à sauter)",
         "name": " MiniSection ",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/7948698"
       },
       "geometry": {
         "type": "LineString",
@@ -12314,11 +12322,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/19609793",
+        "description": "",
         "name": "Bien caché",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/19609793"
       },
       "geometry": {
         "type": "LineString",
@@ -12367,11 +12376,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/13941903",
+        "description": "",
         "name": "CORENT DH route chadieu",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/13941903"
       },
       "geometry": {
         "type": "LineString",
@@ -12488,11 +12498,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/7204087",
+        "description": "",
         "name": "descente Cliersou",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/7204087"
       },
       "geometry": {
         "type": "LineString",
@@ -12569,11 +12580,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/7204102",
+        "description": "",
         "name": "descente Côme",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/7204102"
       },
       "geometry": {
         "type": "LineString",
@@ -12624,11 +12636,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/11680290",
+        "description": "",
         "name": "Descente de la tour de Rognon",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/11680290"
       },
       "geometry": {
         "type": "LineString",
@@ -12701,11 +12714,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/10572474",
+        "description": "",
         "name": "Descente de Lissac à l'Usine Ste Marguerite",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/10572474"
       },
       "geometry": {
         "type": "LineString",
@@ -12818,11 +12832,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/7008344",
+        "description": "",
         "name": "Descente de Tournoël",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/7008344"
       },
       "geometry": {
         "type": "LineString",
@@ -12893,11 +12908,12 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/10279107",
+        "description": "",
         "name": "descente des marches",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/10279107"
       },
       "geometry": {
         "type": "LineString",
@@ -12937,11 +12953,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/4869219",
+        "description": "",
         "name": "Descente du chemin des Crêtes",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/4869219"
       },
       "geometry": {
         "type": "LineString",
@@ -13100,11 +13117,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/7964276",
+        "description": "",
         "name": "Descente du ravin de Vazilhat",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/7964276"
       },
       "geometry": {
         "type": "LineString",
@@ -13159,11 +13177,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/16403982",
+        "description": "",
         "name": "Descente du single de l'escargot",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/16403982"
       },
       "geometry": {
         "type": "LineString",
@@ -13232,11 +13251,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/6269902",
+        "description": "",
         "name": "Descente Gorges de Viallard",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/6269902"
       },
       "geometry": {
         "type": "LineString",
@@ -13301,11 +13321,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/6379186",
+        "description": "",
         "name": "descente gouttes",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/6379186"
       },
       "geometry": {
         "type": "LineString",
@@ -13388,11 +13409,12 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/17846867",
+        "description": "",
         "name": "Descente Le Crest",
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/17846867"
       },
       "geometry": {
         "type": "LineString",
@@ -13437,11 +13459,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/17604167",
+        "description": "",
         "name": "Descente nord-est du puy de Jumes",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/17604167"
       },
       "geometry": {
         "type": "LineString",
@@ -13537,11 +13560,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/18918317",
+        "description": "",
         "name": "Descente petite carrière",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/18918317"
       },
       "geometry": {
         "type": "LineString",
@@ -13628,11 +13652,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/9033560",
+        "description": "",
         "name": "Descente technique à travers bois",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/9033560"
       },
       "geometry": {
         "type": "LineString",
@@ -14365,11 +14390,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/15445728",
+        "description": "",
         "name": "descente traversin bis",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/15445728"
       },
       "geometry": {
         "type": "LineString",
@@ -14422,11 +14448,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/15215627",
+        "description": "",
         "name": "DH - La Pradelle à Moignoux",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/15215627"
       },
       "geometry": {
         "type": "LineString",
@@ -14499,11 +14526,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/15879667",
+        "description": "",
         "name": "DH - Vers Le Bouchet au Barrage de Queuille",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/15879667"
       },
       "geometry": {
         "type": "LineString",
@@ -14598,11 +14626,12 @@
           "color": "Black",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/16705535Attention : il y a quelques arbres à couper ",
+        "description": "Attention : il y a quelques arbres à couper",
         "name": "Dh Air soft",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/16705535 "
       },
       "geometry": {
         "type": "LineString",
@@ -14647,11 +14676,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/11970929",
+        "description": "",
         "name": "DH Anzelle Complète",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/11970929"
       },
       "geometry": {
         "type": "LineString",
@@ -14728,11 +14758,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/15445661",
+        "description": "",
         "name": "DH D9 au Madet",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/15445661"
       },
       "geometry": {
         "type": "LineString",
@@ -14795,11 +14826,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/12709535",
+        "description": "",
         "name": "DH Le mas > Ponteix",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/12709535"
       },
       "geometry": {
         "type": "LineString",
@@ -14886,11 +14918,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/8580874?filter=overall",
+        "description": "",
         "name": "Driiift",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/8580874"
       },
       "geometry": {
         "type": "LineString",
@@ -15174,11 +15207,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/6492236",
+        "description": "",
         "name": "foie ferrée bas",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/6492236"
       },
       "geometry": {
         "type": "LineString",
@@ -15229,11 +15263,12 @@
           "color": "Black",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/19420702",
+        "description": "",
         "name": "Into The Wild",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/19420702"
       },
       "geometry": {
         "type": "LineString",
@@ -15290,11 +15325,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/15973481",
+        "description": "",
         "name": "La Faucheuse",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/15973481"
       },
       "geometry": {
         "type": "LineString",
@@ -15337,11 +15373,12 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "https://www.strava.com/segments/15973481",
+        "description": "",
         "name": "La Faucheuse",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/15973481"
       },
       "geometry": {
         "type": "LineString",
@@ -15855,11 +15892,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/17206313",
+        "description": "",
         "name": "La Souche",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/17206313"
       },
       "geometry": {
         "type": "LineString",
@@ -15924,11 +15962,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/16182288",
+        "description": "",
         "name": "Lambroise",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/16182288"
       },
       "geometry": {
         "type": "LineString",
@@ -15967,11 +16006,12 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/17724912",
+        "description": "",
         "name": "Little Single",
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/17724912"
       },
       "geometry": {
         "type": "LineString",
@@ -16030,11 +16070,12 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/19342537",
+        "description": "",
         "name": "Ne tombe pas dans le fossé",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/19342537"
       },
       "geometry": {
         "type": "LineString",
@@ -16081,11 +16122,12 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/15503597",
+        "description": "",
         "name": "Parallele au single de l'escargot",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/15503597"
       },
       "geometry": {
         "type": "LineString",
@@ -16156,11 +16198,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/10190534\nPierreux",
+        "description": "",
         "name": "Pierre qui roule n'amasse pas mousse",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/10190534Pierreux"
       },
       "geometry": {
         "type": "LineString",
@@ -16603,11 +16646,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/13468310",
+        "description": "",
         "name": "pif paf sous le bois",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/13468310"
       },
       "geometry": {
         "type": "LineString",
@@ -17014,11 +17058,12 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/17124459",
+        "description": "",
         "name": "Piste ďentrainement",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/17124459"
       },
       "geometry": {
         "type": "LineString",
@@ -17075,11 +17120,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/12911398",
+        "description": "",
         "name": "PTZC#1",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/12911398"
       },
       "geometry": {
         "type": "LineString",
@@ -17136,11 +17182,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/6394123",
+        "description": "",
         "name": "Redescente vers Nugère",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/6394123"
       },
       "geometry": {
         "type": "LineString",
@@ -17205,11 +17252,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/11022783",
+        "description": "",
         "name": "ROROsingle part 1",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/11022783"
       },
       "geometry": {
         "type": "LineString",
@@ -17258,11 +17306,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/15576313",
+        "description": "",
         "name": "Saute dans les bois",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/15576313"
       },
       "geometry": {
         "type": "LineString",
@@ -22688,11 +22737,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/8519421",
+        "description": "",
         "name": "Sentier du renard",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/8519421"
       },
       "geometry": {
         "type": "LineString",
@@ -23985,11 +24035,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/7690137",
+        "description": "",
         "name": "Single - GR441",
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/7690137"
       },
       "geometry": {
         "type": "LineString",
@@ -24038,11 +24089,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/16164137",
+        "description": "",
         "name": "Single Creux de la Berté",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/16164137"
       },
       "geometry": {
         "type": "LineString",
@@ -24127,11 +24179,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/17479971",
+        "description": "",
         "name": "Single de la Ribe",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/17479971"
       },
       "geometry": {
         "type": "LineString",
@@ -24180,11 +24233,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/14200598",
+        "description": "",
         "name": "Single de Teix au pont de Chambon",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/14200598"
       },
       "geometry": {
         "type": "LineString",
@@ -24232,11 +24286,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/17551369",
+        "description": "",
         "name": "single descente Montaigut",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/17551369"
       },
       "geometry": {
         "type": "LineString",
@@ -24295,11 +24350,12 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/10382759",
+        "description": "",
         "name": "single du puy de l'orme",
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/10382759"
       },
       "geometry": {
         "type": "LineString",
@@ -24382,11 +24438,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/13715356",
+        "description": "",
         "name": "Single du ravin de quinsat",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/13715356"
       },
       "geometry": {
         "type": "LineString",
@@ -24430,11 +24487,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/17759723",
+        "description": "",
         "name": "Single en pouzzolane",
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/17759723"
       },
       "geometry": {
         "type": "LineString",
@@ -24509,11 +24567,12 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/9731917",
+        "description": "",
         "name": "Single Prada",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/9731917"
       },
       "geometry": {
         "type": "LineString",
@@ -24606,11 +24665,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/13112972",
+        "description": "",
         "name": "single rocher des campeurs",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/13112972"
       },
       "geometry": {
         "type": "LineString",
@@ -24653,11 +24713,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/6830631",
+        "description": "",
         "name": "Single Sayat",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/6830631"
       },
       "geometry": {
         "type": "LineString",
@@ -25914,11 +25975,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/11425428",
+        "description": "",
         "name": "Single Track le Point de Vue Châtel",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/11425428"
       },
       "geometry": {
         "type": "LineString",
@@ -26029,11 +26091,12 @@
           "dashArray": "10",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/15324291",
+        "description": "",
         "name": "String dentelle",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/15324291"
       },
       "geometry": {
         "type": "LineString",
@@ -26088,11 +26151,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/6778234",
+        "description": "",
         "name": "Tobogan du bedat",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/6778234"
       },
       "geometry": {
         "type": "LineString",
@@ -26251,11 +26315,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/6926286",
+        "description": "",
         "name": "Trace FR Gergo",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/6926286"
       },
       "geometry": {
         "type": "LineString",
@@ -26312,11 +26377,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/7019655",
+        "description": "",
         "name": "Trail du Barrage",
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/7019655"
       },
       "geometry": {
         "type": "LineString",
@@ -26404,11 +26470,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/4545052",
+        "description": "",
         "name": "Voie ferrrée haut",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/4545052"
       },
       "geometry": {
         "type": "LineString",
@@ -26497,11 +26564,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/9593222",
+        "description": "",
         "name": "Voie romaine descente",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/9593222"
       },
       "geometry": {
         "type": "LineString",
@@ -26580,11 +26648,12 @@
           "color": "Black",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/8539531?filter=overallrideable uniquement par temps sec (glaise + grosses ornieres), gros dénivellé",
+        "description": "uniquement par temps sec (glaise + grosses ornieres), gros dénivellé",
         "name": "Vraie Veine CHATEAUGAY",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/8539531"
       },
       "geometry": {
         "type": "LineString",
@@ -26923,11 +26992,12 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/14971492/",
+        "description": "",
         "name": "Zig Zag servière",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/14971492/"
       },
       "geometry": {
         "type": "LineString",
@@ -26999,11 +27069,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/18547798",
+        "description": "",
         "name": "Zip dans les bois ",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/18547798"
       },
       "geometry": {
         "type": "LineString",
@@ -27055,11 +27126,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/11524614",
+        "description": "",
         "name": "Carrières de Gravenoire version feuilles",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/11524614"
       },
       "geometry": {
         "type": "LineString",
@@ -27119,11 +27191,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/14392005",
+        "description": "",
         "name": "Descente vers rue de la Pauze",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/14392005"
       },
       "geometry": {
         "type": "LineString",
@@ -27187,11 +27260,12 @@
           "dashArray": "5",
           "opacity": "1"
         },
-        "description": "https://www.strava.com/segments/10051060",
+        "description": "",
         "name": "Descente Bois de Rochetoux",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/10051060"
       },
       "geometry": {
         "type": "LineString",
@@ -27246,8 +27320,9 @@
         "stroke": "#fffd00",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "description": "https://www.strava.com/segments/xxxx",
-        "name": "template"
+        "description": "",
+        "name": "template",
+        "strava": "https://www.strava.com/segments/xxxx"
       },
       "geometry": {
         "type": "LineString",
