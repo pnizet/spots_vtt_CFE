@@ -14828,7 +14828,8 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "",
+        "description": "debut au Mas, grosses pavasses, bon deniv, presque 2km",
+        "acces_depart" : "au Mas",
         "name": "DH Le mas > Ponteix",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
