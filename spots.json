@@ -398,6 +398,8 @@
           "opacity": "1"
         },
         "name": "Les Racines",
+        "description" : "descente assez difficile avec bcp de racines et de pieres et quelques belles ornieres",
+        "acces_depart" : "L'acces se fait depuis le bas en remontant le single depuis la D28 (montée très difficile) ou depuis Olloix en prenant tout doit dans le premier virage, puis en suivant le chemin à gauche",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2
