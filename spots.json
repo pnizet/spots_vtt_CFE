@@ -4,17 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "Blue",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Blue",
-          "opacity": "1"
-        },
-        "description": "Début de descente sur un chemin carrosable en herbe, puis apres un virage à gauche le cehmin se retrecit pour enchainer qulques virages , la fin est un pierriere qui passe assez bien. fin du single sur le pont.",
+        "_storage_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
+        "description": "Début de descente sur un chemin carrossable en herbe, puis après un virage à gauche le chemin se rétrécit pour enchainer quelques virages, la fin est un pierrier qui passe assez bien. La fin du single sur le pont.",
         "name": "Descente vers St Saturnin",
-        "stroke": "#0000FF",
+        "stroke": "#0000ff",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/12089942",
