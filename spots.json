@@ -24567,7 +24567,8 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": "",
+        "description": "ca ne descend pas trop, il faut beaucoup pédaler mais l'enchainement des deux singles permet un bon entrainement cardio+technique (le single préféré des Jarrets de la Monne)",
+        "acces_depart" : "le départ de fait à Ponteix, par le chemin des Varennes, à gauche apres l'église en descendant, puis à droite sur le chemin apres le cimetiere",
         "name": "Single Prada",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
@@ -27320,7 +27321,8 @@
         "stroke": "#fffd00",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "description": "",
+        "description": "TEMPLATE : Descente de la rue des gras",
+        "acces_depart": "TEMPLATE : depuis le pied de la cathédrale",
         "name": "template",
         "strava": "https://www.strava.com/segments/xxxx"
       },
