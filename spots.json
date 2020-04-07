@@ -12,7 +12,8 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/12089942",
-        "acces_depart": "Pour accéder au début du single, il faut prendre la D28 direction Champeix, traverser le pont au dessus de la Monne et prendre la première à gauche, ça monte raide au début avec un revêtement en béton, on passe rapidement sur un chemin. Pour info, pour les costauds, il y a un segment depuis le bas de la cote jusqu'au pied du château."
+        "acces_depart": "Pour accéder au début du single, il faut prendre la D28 direction Champeix, traverser le pont au dessus de la Monne et prendre la première à gauche, ça monte raide au début avec un revêtement en béton, on passe rapidement sur un chemin. Pour info, pour les costauds, il y a un segment depuis le bas de la cote jusqu'au pied du château.",
+        "difficulty": "bleu"
       },
       "geometry": {
         "type": "LineString",
