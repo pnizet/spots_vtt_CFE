@@ -5578,17 +5578,13 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Single des Scouts",
+        "strava": "https://www.strava.com/segments/14633249"
       },
       "geometry": {
         "type": "LineString",
@@ -8466,17 +8462,13 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "Black",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Black",
-          "opacity": "1"
-        },
+        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "La Pif Paf!",
+        "strava": "https://www.strava.com/segments/14840080"
       },
       "geometry": {
         "type": "LineString",
@@ -10930,15 +10922,9 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "Blue",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Blue",
-          "opacity": "1"
-        },
-        "stroke": "#0000FF",
+        "_storage_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
+        "stroke": "#0000ff",
         "stroke-opacity": 1,
         "stroke-width": 2
       },
