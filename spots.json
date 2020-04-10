@@ -4524,17 +4524,15 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Descente VTT Gourdon",
+        "description": "en plusieurs parties, super fun",
+        "acces_depart": "depuis gourdon à gauche en descendant",
+        "strava": "https://www.strava.com/segments/8568887"
       },
       "geometry": {
         "type": "LineString",
@@ -4596,28 +4594,44 @@
             45.594897
           ],
           [
-            3.078361,
-            45.594312
+            3.078365921974182,
+            45.594281575516504
           ],
           [
             3.077717,
             45.594312
           ],
           [
+            3.0776792764663696,
+            45.59420274840906
+          ],
+          [
             3.077803,
             45.593966
+          ],
+          [
+            3.0782854557037354,
+            45.59377107419063
           ],
           [
             3.07864,
             45.593681
           ],
           [
+            3.079186677932739,
+            45.59371852231991
+          ],
+          [
             3.079433,
             45.593651
           ],
           [
-            3.079669,
-            45.593351
+            3.0796533823013306,
+            45.5935308366657
+          ],
+          [
+            3.0797338485717773,
+            45.59335816530942
           ],
           [
             3.079605,
