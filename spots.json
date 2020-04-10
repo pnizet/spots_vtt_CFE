@@ -5598,8 +5598,8 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": "{"color":"Red","opacity":"1"}",
-        "_umap_options": "{"color":"Red","opacity":"1"}",
+        "_storage_options": {\"color\":\"Red\",\"opacity\":\"1\"},
+        "_umap_options": {\"color\":\"Red\",\"opacity\":\"1\"},
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
