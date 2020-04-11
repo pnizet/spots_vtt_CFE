@@ -26,7 +26,12 @@ jobs:
     - name: Run a one-line script
       run: echo Hello, world!
 
-    # Runs a single command using the runners shell
-    - name: correction commit
-      run: cat spots.json | sed -e 's/_storage_options": "{\\"color\\":\\"\([a-zA-Z]*\)\\",\\"opacity\\":\\"\([0-9]\)\\"}/_storage_options": {\n          "color": "\1",\n          "opacity": "\2"\n        }/gi' | sed -e 's/_umap_options": "{\\"color\\":\\"\([a-zA-Z]*\)\\",\\"opacity\\":\\"\([0-9]\)\\"}/_umap_options": {\n          "color": "\1",\n          "opacity": "\2"\n        }/gi' > ./spots_sed.json
-      
+    
+    - name: Bash for GitHub Actions
+      uses: jcblw/bash@1.0.0
+
+    action "Setup" {
+      uses = "jcblw/bash@master"
+      args = ["cat spots.json | sed -e 's/_storage_options\": \"{\\\"color\\\":\\\"\([a-zA-Z]*\)\\\",\\\"opacity\\\":\\\"\([0-9]\)\\\"}/_storage_options\": {\n          \"color\": \"\1\",\n          \"opacity\": \"\2\"\n        }/gi' | sed -e 's/_umap_options\": \"{\\\"color\\\":\\\"\([a-zA-Z]*\)\\\",\\\"opacity\\\":\\\"\([0-9]\)\\\"}/_umap_options\": {\n          \"color\": \"\1\",\n          \"opacity\": \"\2\"\n        }/gi' > ./spots_sed.json
+    "]
+    }
