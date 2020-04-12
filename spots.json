@@ -4,8 +4,14 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
+        "_storage_options": {
+          "color": "Blue",
+          "opacity": "1"
+        },
+        "_umap_options": {
+          "color": "Blue",
+          "opacity": "1"
+        },
         "description": "Début de descente sur un chemin carrossable en herbe, puis après un virage à gauche le chemin se rétrécit pour enchainer quelques virages, la fin est un pierrier qui passe assez bien. La fin du single sur le pont.",
         "name": "Descente vers St Saturnin",
         "stroke": "#0000ff",
@@ -8486,8 +8492,14 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
+        "_storage_options": {
+          "color": "Black",
+          "opacity": "1"
+        },
+        "_umap_options": {
+          "color": "Black",
+          "opacity": "1"
+        },
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
@@ -10946,8 +10958,14 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
+        "_storage_options": {
+          "color": "Blue",
+          "opacity": "1"
+        },
+        "_umap_options": {
+          "color": "Blue",
+          "opacity": "1"
+        },
         "stroke": "#0000ff",
         "stroke-opacity": 1,
         "stroke-width": 2
@@ -15272,7 +15290,10 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
+        "_umap_options": {
+          "color": "Black",
+          "opacity": "1"
+        },
         "description": "Petite piste super sympa quand on la maîtrise. Départ raide et technique, rochers, racines, puis enchaînement de virage entre les arbres (C'est très étroit), petit saut.",
         "name": "Into The Wild",
         "stroke": "#000000",
@@ -27327,7 +27348,10 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"yellow\",\"opacity\":\"1\"}",
+        "_umap_options": {
+          "color": "yellow",
+          "opacity": "1"
+        },
         "stroke": "#fffd00",
         "stroke-width": 2,
         "stroke-opacity": 1,
