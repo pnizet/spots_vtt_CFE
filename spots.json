@@ -274,8 +274,14 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_storage_options": {
+          "color": "Red",
+          "opacity": "1"
+        },
+        "_umap_options": {
+          "color": "Red",
+          "opacity": "1"
+        },
         "description": "Descente difficile car c'est un terrain plutot destiné aux motocross qui l'utilise en montée, donc grosses ornieres. Attention éboulement au dessus du ruisseau...",
         "name": "Enduro - Spécial plateau de serre",
         "stroke": "#ff0000",
@@ -550,8 +556,14 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
+        "_storage_options": {
+          "color": "Blue",
+          "opacity": "1"
+        },
+        "_umap_options": {
+          "color": "Blue",
+          "opacity": "1"
+        },
         "stroke": "#0000ff",
         "stroke-opacity": 1,
         "stroke-width": 2,
@@ -2347,8 +2359,14 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_storage_options": {
+          "color": "Red",
+          "opacity": "1"
+        },
+        "_umap_options": {
+          "color": "Red",
+          "opacity": "1"
+        },
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
@@ -5573,8 +5591,14 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_storage_options": {
+          "color": "Red",
+          "opacity": "1"
+        },
+        "_umap_options": {
+          "color": "Red",
+          "opacity": "1"
+        },
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
@@ -24309,7 +24333,10 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
+        "_umap_options": {
+          "color": "Green",
+          "opacity": "1"
+        },
         "description": "Faut juste pédaler comme un bourrin, ca passe tout seul :) Attention aux promeneurs",
         "name": "single du puy de l'orme",
         "stroke": "#008000",
@@ -24666,8 +24693,14 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
-        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_storage_options": {
+          "color": "Red",
+          "opacity": "1"
+        },
+        "_umap_options": {
+          "color": "Red",
+          "opacity": "1"
+        },
         "description": "Signle très intéressant car long, exigeant très tedchnique et pentu. Un des seul signle du coup avec des vraies épingles (pour vous entrainer pour les Alples)",
         "name": "Single Sayat",
         "stroke": "#ff0000",
