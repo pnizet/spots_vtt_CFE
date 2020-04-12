@@ -274,20 +274,14 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
-        "description": "",
-        "name": "Serre de Portelas (DH Part)",
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "description": "Descente difficile car c'est un terrain plutot destiné aux motocross qui l'utilise en montée, donc grosses ornieres. Attention éboulement au dessus du ruisseau...",
+        "name": "Enduro - Spécial plateau de serre",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/22785492"
+        "strava": "https://www.strava.com/segments/11989804"
       },
       "geometry": {
         "type": "LineString",
@@ -556,44 +550,21 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "Blue",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Blue",
-          "opacity": "1"
-        },
-        "stroke": "#0000FF",
+        "_storage_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
+        "stroke": "#0000ff",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Chemin de crêtes plateau de la Serre",
+        "description": "chemin tres plaisant, belle vue, aucune difficulté",
+        "strava": "https://www.strava.com/segments/14566147"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            3.029094,
-            45.681644
-          ],
-          [
-            3.029759,
-            45.681749
-          ],
-          [
-            3.032291,
-            45.681629
-          ],
-          [
-            3.033385,
-            45.681899
-          ],
-          [
             3.03405,
-            45.681614
-          ],
-          [
-            3.03405,
-            45.680774
+            45.680774000000014
           ],
           [
             3.034759,
@@ -601,7 +572,7 @@
           ],
           [
             3.035424,
-            45.680819
+            45.680819000000014
           ],
           [
             3.038814,
@@ -609,59 +580,59 @@
           ],
           [
             3.039351,
-            45.680325
+            45.680324999999996
           ],
           [
             3.042462,
-            45.68031
+            45.68031000000001
           ],
           [
             3.04287,
-            45.680729
+            45.680729000000014
           ],
           [
             3.045208,
-            45.681179
+            45.681179000000014
           ],
           [
             3.046668,
-            45.680729
+            45.680729000000014
           ],
           [
             3.047633,
-            45.68049
+            45.68049000000001
           ],
           [
-            3.049135,
-            45.679965
+            3.0491350000000006,
+            45.679964999999996
           ],
           [
             3.050466,
-            45.680759
+            45.68075900000001
           ],
           [
             3.05141,
-            45.682019
+            45.682019000000004
           ],
           [
             3.05274,
-            45.682408
+            45.68240800000002
           ],
           [
             3.054371,
-            45.682888
+            45.682888000000005
           ],
           [
             3.054543,
-            45.683548
+            45.683547999999995
           ],
           [
             3.055272,
-            45.684057
+            45.684056999999996
           ],
           [
             3.056903,
-            45.684597
+            45.68459699999999
           ]
         ]
       }
@@ -2376,17 +2347,15 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Descente du Ruisseau",
+        "acces_depart": "Acces par la montée des Racines ou bien en descendant de Olloix (tout droit dans le premier virage)",
+        "description": "Single rapide et varié, quelques sauts pour gagner du temps... l'arrivée sur fait au niveau du pres et non en bas du ruisseau (oui on suit le cours d'eau d'un ruisseau asséché, attention en hiver c'est gras)",
+        "strava": "https://www.strava.com/segments/14633325"
       },
       "geometry": {
         "type": "LineString",
@@ -5604,17 +5573,15 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color":"Red",
-          "opacity":"1"},
-        "_umap_options": {
-          "color":"Red",
-          "opacity":"1"},
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "name": "Single des Scouts",
-        "strava": "https://www.strava.com/segments/14633249"
+        "strava": "https://www.strava.com/segments/14633249",
+        "acces_depart": "A droite en venant du \"Single de Randol\",on passe 2 barrieres, ca remonte un peu et on est dedans",
+        "description": "en balcon, belle vue, passages techniques et on arrive en bord de Monne, un régal l'été. Attention, pour rentrer il faut traverser plusieurs fois la Monne, peut etre à ne pas prendre en hiver"
       },
       "geometry": {
         "type": "LineString",
@@ -6438,41 +6405,6 @@
           [
             3.033471,
             45.675797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "_storage_options": {
-          "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
-        },
-        "stroke": "#ff0000",
-        "stroke-opacity": 1,
-        "stroke-width": 2
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            3.083489,
-            45.653288
-          ],
-          [
-            3.083961,
-            45.652988
-          ],
-          [
-            3.084219,
-            45.652763
           ]
         ]
       }
