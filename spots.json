@@ -24309,11 +24309,8 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "Green",
-          "opacity": "1"
-        },
-        "description": "",
+        "_umap_options": "{\"color\":\"Green\",\"opacity\":\"1\"}",
+        "description": "Faut juste pédaler comme un bourrin, ca passe tout seul :) Attention aux promeneurs",
         "name": "single du puy de l'orme",
         "stroke": "#008000",
         "stroke-opacity": 1,
