@@ -24669,20 +24669,14 @@
     {
       "type": "Feature",
       "properties": {
-        "_storage_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
-        "description": "",
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "description": "Signle très intéressant car long, exigeant très tedchnique et pentu. Un des seul signle du coup avec des vraies épingles (pour vous entrainer pour les Alples)",
         "name": "Single Sayat",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/6830631"
+        "strava": "https://www.strava.com/segments/10473501"
       },
       "geometry": {
         "type": "LineString",
