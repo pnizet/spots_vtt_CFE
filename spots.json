@@ -415,7 +415,8 @@
         "acces_depart": "L'acces se fait depuis le bas en remontant le single depuis la D28 (montée très difficile) ou depuis Olloix en prenant tout doit dans le premier virage, puis en suivant le chemin à gauche",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/6881971"
       },
       "geometry": {
         "type": "LineString",
@@ -1306,7 +1307,9 @@
         },
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Single Faye-Monne",
+        "strava": "https://www.strava.com/segments/11817327"
       },
       "geometry": {
         "type": "LineString",
@@ -1706,7 +1709,9 @@
         },
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Woodtrack",
+        "strava": "https://www.strava.com/segments/9742859"
       },
       "geometry": {
         "type": "LineString",
@@ -1833,7 +1838,9 @@
         "dashArray": 5,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Rollercoaster",
+        "strava": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2305,7 +2312,9 @@
         },
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Les virolos de Ponteix",
+        "strava": "https://www.strava.com/segments/14642189"
       },
       "geometry": {
         "type": "LineString",
@@ -7625,7 +7634,9 @@
         },
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Single au dessus de Saint-Sandoux",
+        "strava": "https://www.strava.com/segments/14728978"
       },
       "geometry": {
         "type": "LineString",
@@ -10204,7 +10215,9 @@
         },
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Single Randol côté Ubac",
+        "strava": "https://www.strava.com/segments/14655013"
       },
       "geometry": {
         "type": "LineString",
@@ -11463,7 +11476,10 @@
         },
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Single Puy de Marmant",
+        "strava": "https://www.strava.com/segments/18209863",
+        "description": "Très beau single bien engagé (Quelques marches bien raides)"
       },
       "geometry": {
         "type": "LineString",
@@ -11564,7 +11580,9 @@
         },
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "DH de Durtol",
+        "strava": "https://www.strava.com/segments/23011510"
       },
       "geometry": {
         "type": "LineString",
@@ -16075,7 +16093,7 @@
           "opacity": "1"
         },
         "description": "",
-        "name": "La Souche",
+        "name": "La Dalle",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
@@ -17709,10 +17727,11 @@
           "color": "Black",
           "opacity": "1"
         },
-        "name": "Segment de vélo de 0,6 km à Cournols, Auvergne, France sur Strava",
+        "name": "Single de la Monne",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/6463381"
       },
       "geometry": {
         "type": "LineString",
