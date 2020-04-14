@@ -10430,7 +10430,7 @@
         },
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2,        
+        "stroke-width": 2,
         "description": "Enchaînement de rochers,  pas évident de passer (relativement) vite sans partir à la faute. Joli défi technique pour descendeurs aguerris!",
         "name": "Pierrier de Dingue!",
         "strava": "https://www.strava.com/segments/12089942",
@@ -16413,7 +16413,7 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/10190534Pierreux"
+        "strava": "https://www.strava.com/segments/10190534"
       },
       "geometry": {
         "type": "LineString",
