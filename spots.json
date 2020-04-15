@@ -1,9 +1,15 @@
 {
   "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
   "features": [
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 1,
         "_storage_options": {
           "color": "Blue",
@@ -20,7 +26,8 @@
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/12089942",
         "acces_depart": "Pour accéder au début du single, il faut prendre la D28 direction Champeix, traverser le pont au dessus de la Monne et prendre la première à gauche, ça monte raide au début avec un revêtement en béton, on passe rapidement sur un chemin. Pour info, pour les costauds, il y a un segment depuis le bas de la cote jusqu'au pied du château.",
-        "difficulty": "bleu"
+        "difficulty": "bleu",
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -70,7 +77,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 2,
         "_storage_options": {
           "color": "DarkGreen",
@@ -80,12 +87,15 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
-        "description": "",
+        "description": "Petite liaison pour traverser St-Amant à l'écart de la circulation.",
         "name": "Jardins de St-Amant",
         "stroke": "#006400",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/10841177"
+        "strava": "https://www.strava.com/segments/10841177",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -123,7 +133,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 3,
         "_storage_options": {
           "color": "Red",
@@ -133,12 +143,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": "",
+        "description": "Belle descente en terre blanche avec des parties très rapides, pas mal de cailloux, quelques racines et ornières, deux relances dont une en montée.",
         "name": "DH sentier en balcon - D213",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/7964740"
+        "strava": "https://www.strava.com/segments/7964740",
+        "acces_depart": "Via Chadrat",
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -212,7 +225,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 4,
         "_storage_options": {
           "color": "DarkGreen",
@@ -222,12 +235,15 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
-        "description": "",
+        "description": "Single relativement long (1,3km), en pente douce, hormis un petit enchaînement de virages sympa il est en ligne droite, rapide à condition de pédaler. Possible d’enchaîner avec la DH du plateau de la Serre à droite vers la fin du  segment. ",
         "name": "Single plateau de la Serre",
         "stroke": "#006400",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/10864579"
+        "strava": "https://www.strava.com/segments/10864579",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -277,7 +293,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 5,
         "_storage_options": {
           "color": "Red",
@@ -292,7 +308,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/11989804"
+        "strava": "https://www.strava.com/segments/11989804",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -334,7 +353,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 6,
         "_storage_options": {
           "color": "Red",
@@ -344,9 +363,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -400,7 +425,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 7,
         "_storage_options": {
           "color": "Red",
@@ -410,13 +435,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "name": "Les Racines",
         "description": "descente assez difficile avec bcp de racines et de pieres et quelques belles ornieres",
-        "acces_depart": "L'acces se fait depuis le bas en remontant le single depuis la D28 (montée très difficile) ou depuis Olloix en prenant tout doit dans le premier virage, puis en suivant le chemin à gauche",
+        "name": "Les Racines",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/6881971"
+        "strava": "https://www.strava.com/segments/6881971",
+        "acces_depart": "L'acces se fait depuis le bas en remontant le single depuis la D28 (montée très difficile) ou depuis Olloix en prenant tout doit dans le premier virage, puis en suivant le chemin à gauche",
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -486,7 +513,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 8,
         "_storage_options": {
           "color": "Red",
@@ -496,9 +523,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -564,7 +597,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 9,
         "_storage_options": {
           "color": "Blue",
@@ -574,19 +607,22 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": "chemin tres plaisant, belle vue, aucune difficulté",
+        "name": "Chemin de crêtes plateau de la Serre",
         "stroke": "#0000ff",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "Chemin de crêtes plateau de la Serre",
-        "description": "chemin tres plaisant, belle vue, aucune difficulté",
-        "strava": "https://www.strava.com/segments/14566147"
+        "strava": "https://www.strava.com/segments/14566147",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
             3.03405,
-            45.680774000000014
+            45.680774
           ],
           [
             3.034759,
@@ -594,7 +630,7 @@
           ],
           [
             3.035424,
-            45.680819000000014
+            45.680819
           ],
           [
             3.038814,
@@ -602,66 +638,66 @@
           ],
           [
             3.039351,
-            45.680324999999996
+            45.680325
           ],
           [
             3.042462,
-            45.68031000000001
+            45.68031
           ],
           [
             3.04287,
-            45.680729000000014
+            45.680729
           ],
           [
             3.045208,
-            45.681179000000014
+            45.681179
           ],
           [
             3.046668,
-            45.680729000000014
+            45.680729
           ],
           [
             3.047633,
-            45.68049000000001
+            45.68049
           ],
           [
-            3.0491350000000006,
-            45.679964999999996
+            3.049135,
+            45.679965
           ],
           [
             3.050466,
-            45.68075900000001
+            45.680759
           ],
           [
             3.05141,
-            45.682019000000004
+            45.682019
           ],
           [
             3.05274,
-            45.68240800000002
+            45.682408
           ],
           [
             3.054371,
-            45.682888000000005
+            45.682888
           ],
           [
             3.054543,
-            45.683547999999995
+            45.683548
           ],
           [
             3.055272,
-            45.684056999999996
+            45.684057
           ],
           [
             3.056903,
-            45.68459699999999
+            45.684597
           ]
         ]
       }
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 10,
         "_storage_options": {
           "color": "Red",
@@ -671,9 +707,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": "Descente de Nadaillat à l'Auzon",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -779,7 +821,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 11,
         "_storage_options": {
           "color": "Blue",
@@ -789,10 +831,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": "",
+        "description": null,
+        "name": "Parent",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -826,7 +873,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 12,
         "_storage_options": {
           "color": "Blue",
@@ -836,9 +883,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -876,7 +929,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 13,
         "_storage_options": {
           "color": "DarkGreen",
@@ -886,10 +939,15 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
+        "description": null,
         "name": "le long de l'allier ?",
         "stroke": "#006400",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -951,7 +1009,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 14,
         "_storage_options": {
           "color": "DarkGreen",
@@ -961,9 +1019,15 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#006400",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1053,21 +1117,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 15,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1101,7 +1171,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 16,
         "_storage_options": {
           "color": "Red",
@@ -1111,9 +1181,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1195,21 +1271,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 17,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1239,21 +1321,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 18,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1295,7 +1383,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 19,
         "_storage_options": {
           "color": "Red",
@@ -1305,11 +1393,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": "Single Faye-Monne",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "Single Faye-Monne",
-        "strava": "https://www.strava.com/segments/11817327"
+        "strava": "https://www.strava.com/segments/11817327",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1379,21 +1471,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 20,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1427,21 +1525,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 21,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1483,7 +1587,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 22,
         "_storage_options": {
           "color": "Red",
@@ -1493,9 +1597,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1549,21 +1659,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 23,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1617,21 +1733,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 24,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1697,7 +1819,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 25,
         "_storage_options": {
           "color": "Red",
@@ -1707,11 +1829,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": "Woodtrack",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "Woodtrack",
-        "strava": "https://www.strava.com/segments/9742859"
+        "strava": "https://www.strava.com/segments/9742859",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1765,7 +1891,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 26,
         "_storage_options": {
           "color": "DarkGreen",
@@ -1775,9 +1901,15 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#006400",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1823,24 +1955,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 27,
         "_storage_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
-        "dashArray": 5,
+        "description": null,
+        "name": "Rollercoaster",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "Rollercoaster",
-        "strava": ""
+        "strava": "",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": 5
       },
       "geometry": {
         "type": "LineString",
@@ -1878,7 +2013,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 28,
         "_storage_options": {
           "color": "DarkGreen",
@@ -1888,9 +2023,15 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#006400",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -1944,7 +2085,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 29,
         "_storage_options": {
           "color": "Green",
@@ -1954,9 +2095,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2038,7 +2185,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 30,
         "_storage_options": {
           "color": "Blue",
@@ -2048,9 +2195,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2164,7 +2317,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 31,
         "_storage_options": {
           "color": "Red",
@@ -2174,9 +2327,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2218,7 +2377,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 32,
         "_storage_options": {
           "color": "Blue",
@@ -2228,9 +2387,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2300,7 +2465,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 33,
         "_storage_options": {
           "color": "Red",
@@ -2310,11 +2475,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": "Les virolos de Ponteix",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "Les virolos de Ponteix",
-        "strava": "https://www.strava.com/segments/14642189"
+        "strava": "https://www.strava.com/segments/14642189",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2400,7 +2569,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 34,
         "_storage_options": {
           "color": "Red",
@@ -2410,13 +2579,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": "Single rapide et varié, quelques sauts pour gagner du temps... l'arrivée sur fait au niveau du pres et non en bas du ruisseau (oui on suit le cours d'eau d'un ruisseau asséché, attention en hiver c'est gras)",
+        "name": "Descente du Ruisseau",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "Descente du Ruisseau",
+        "strava": "https://www.strava.com/segments/14633325",
         "acces_depart": "Acces par la montée des Racines ou bien en descendant de Olloix (tout droit dans le premier virage)",
-        "description": "Single rapide et varié, quelques sauts pour gagner du temps... l'arrivée sur fait au niveau du pres et non en bas du ruisseau (oui on suit le cours d'eau d'un ruisseau asséché, attention en hiver c'est gras)",
-        "strava": "https://www.strava.com/segments/14633325"
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2550,7 +2721,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 35,
         "_storage_options": {
           "color": "Red",
@@ -2560,9 +2731,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2624,7 +2801,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 36,
         "_storage_options": {
           "color": "Red",
@@ -2634,9 +2811,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2678,7 +2861,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 37,
         "_storage_options": {
           "color": "Blue",
@@ -2688,9 +2871,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2724,21 +2913,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 38,
         "_storage_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2812,21 +3007,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 39,
         "_storage_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2868,7 +3069,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 40,
         "_storage_options": {
           "color": "Green",
@@ -2878,9 +3079,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -2974,7 +3181,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 41,
         "_storage_options": {
           "color": "Red",
@@ -2984,9 +3191,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3020,7 +3233,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 42,
         "_storage_options": {
           "color": "Blue",
@@ -3030,9 +3243,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3086,7 +3305,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 43,
         "_storage_options": {
           "color": "Blue",
@@ -3096,9 +3315,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3156,21 +3381,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 44,
         "_storage_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3240,7 +3471,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 45,
         "_storage_options": {
           "color": "Red",
@@ -3251,9 +3482,14 @@
           "opacity": "1"
         },
         "description": "Trop large après travaux et boueux",
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3343,7 +3579,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 46,
         "_storage_options": {
           "color": "Blue",
@@ -3353,9 +3589,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3417,7 +3659,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 47,
         "_storage_options": {
           "color": "Red",
@@ -3427,9 +3669,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3475,21 +3723,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 48,
         "_storage_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3567,7 +3821,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 49,
         "_storage_options": {
           "color": "Blue",
@@ -3577,9 +3831,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3609,7 +3869,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 50,
         "_storage_options": {
           "color": "Green",
@@ -3619,9 +3879,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3703,21 +3969,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 51,
         "_storage_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3787,7 +4059,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 52,
         "_storage_options": {
           "color": "Green",
@@ -3797,9 +4069,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3909,7 +4187,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 53,
         "_storage_options": {
           "color": "Green",
@@ -3919,9 +4197,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -3967,7 +4251,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 54,
         "_storage_options": {
           "color": "Red",
@@ -3977,9 +4261,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4021,7 +4311,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 55,
         "_storage_options": {
           "color": "Red",
@@ -4031,9 +4321,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4083,21 +4379,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 56,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4147,21 +4449,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 57,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4211,21 +4519,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 58,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4267,21 +4581,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 59,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4339,21 +4659,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 60,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4423,21 +4749,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 61,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4487,21 +4819,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 62,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4587,7 +4925,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 63,
         "_storage_options": {
           "color": "Red",
@@ -4597,13 +4935,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": "en plusieurs parties, super fun",
+        "name": "Descente VTT Gourdon",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "Descente VTT Gourdon",
-        "description": "en plusieurs parties, super fun",
+        "strava": "https://www.strava.com/segments/8568887",
         "acces_depart": "depuis gourdon à gauche en descendant",
-        "strava": "https://www.strava.com/segments/8568887"
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4673,7 +5013,7 @@
             45.594312
           ],
           [
-            3.0776792764663696,
+            3.07767927646637,
             45.59420274840906
           ],
           [
@@ -4681,7 +5021,7 @@
             45.593966
           ],
           [
-            3.0782854557037354,
+            3.078285455703735,
             45.59377107419063
           ],
           [
@@ -4697,11 +5037,11 @@
             45.593651
           ],
           [
-            3.0796533823013306,
+            3.079653382301331,
             45.5935308366657
           ],
           [
-            3.0797338485717773,
+            3.079733848571777,
             45.59335816530942
           ],
           [
@@ -4713,21 +5053,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 64,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4801,7 +5147,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 65,
         "_storage_options": {
           "color": "Blue",
@@ -4811,9 +5157,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4859,7 +5211,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 66,
         "_storage_options": {
           "color": "Blue",
@@ -4869,9 +5221,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "MultiLineString",
@@ -4903,7 +5261,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 67,
         "_storage_options": {
           "color": "Blue",
@@ -4913,9 +5271,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -4957,7 +5321,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 68,
         "_storage_options": {
           "color": "Green",
@@ -4967,9 +5331,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5027,21 +5397,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 69,
         "_storage_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5083,7 +5459,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 70,
         "_storage_options": {
           "color": "Black",
@@ -5093,9 +5469,15 @@
           "color": "Black",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5117,7 +5499,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 71,
         "_storage_options": {
           "color": "Blue",
@@ -5127,9 +5509,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5167,7 +5555,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 72,
         "_storage_options": {
           "color": "Red",
@@ -5177,9 +5565,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5221,7 +5615,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 73,
         "_storage_options": {
           "color": "Green",
@@ -5231,9 +5625,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5299,7 +5699,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 74,
         "_storage_options": {
           "color": "Green",
@@ -5309,9 +5709,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5353,7 +5759,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 75,
         "_storage_options": {
           "color": "Red",
@@ -5363,9 +5769,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5435,7 +5847,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 76,
         "_storage_options": {
           "color": "Red",
@@ -5445,9 +5857,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5525,21 +5943,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 77,
         "_storage_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5605,21 +6029,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 78,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5677,7 +6107,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 79,
         "_storage_options": {
           "color": "Red",
@@ -5687,13 +6117,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": "en balcon, belle vue, passages techniques et on arrive en bord de Monne, un régal l'été. Attention, pour rentrer il faut traverser plusieurs fois la Monne, peut etre à ne pas prendre en hiver",
+        "name": "Single des Scouts",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "Single des Scouts",
         "strava": "https://www.strava.com/segments/14633249",
         "acces_depart": "A droite en venant du \"Single de Randol\",on passe 2 barrieres, ca remonte un peu et on est dedans",
-        "description": "en balcon, belle vue, passages techniques et on arrive en bord de Monne, un régal l'été. Attention, pour rentrer il faut traverser plusieurs fois la Monne, peut etre à ne pas prendre en hiver"
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5755,7 +6187,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 80,
         "_storage_options": {
           "color": "Red",
@@ -5765,9 +6197,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5845,22 +6283,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 81,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": ""
+        "strava": "",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -5906,7 +6349,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 82,
         "_storage_options": {
           "color": "Blue",
@@ -5916,9 +6359,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6032,21 +6481,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 83,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6116,21 +6571,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 84,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6196,21 +6657,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 85,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6240,21 +6707,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 86,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6296,21 +6769,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 87,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6364,21 +6843,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 88,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Black",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6412,21 +6897,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 89,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6476,7 +6967,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 90,
         "_storage_options": {
           "color": "Blue",
@@ -6486,9 +6977,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6534,7 +7031,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 91,
         "_storage_options": {
           "color": "Blue",
@@ -6544,9 +7041,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6580,7 +7083,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 92,
         "_storage_options": {
           "color": "Green",
@@ -6590,9 +7093,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6638,7 +7147,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 93,
         "_storage_options": {
           "color": "Green",
@@ -6648,9 +7157,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6796,7 +7311,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 94,
         "_storage_options": {
           "color": "Blue",
@@ -6806,9 +7321,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6878,7 +7399,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 95,
         "_storage_options": {
           "color": "Blue",
@@ -6888,9 +7409,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6940,7 +7467,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 96,
         "_storage_options": {
           "color": "Red",
@@ -6950,9 +7477,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -6990,7 +7523,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 97,
         "_storage_options": {
           "color": "Green",
@@ -7000,9 +7533,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7060,7 +7599,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 98,
         "_storage_options": {
           "color": "Green",
@@ -7070,9 +7609,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7102,7 +7647,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 99,
         "_storage_options": {
           "color": "Green",
@@ -7112,9 +7657,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7144,7 +7695,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 100,
         "_storage_options": {
           "color": "Blue",
@@ -7154,9 +7705,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7210,21 +7767,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 101,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7266,21 +7829,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 102,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7314,21 +7883,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 103,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7366,21 +7941,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 104,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7418,21 +7999,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 105,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7518,21 +8105,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 106,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7622,7 +8215,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 107,
         "_storage_options": {
           "color": "Red",
@@ -7632,11 +8225,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": "Single au dessus de Saint-Sandoux",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "Single au dessus de Saint-Sandoux",
-        "strava": "https://www.strava.com/segments/14728978"
+        "strava": "https://www.strava.com/segments/14728978",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7670,7 +8267,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 108,
         "_storage_options": {
           "color": "Blue",
@@ -7680,9 +8277,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7724,7 +8327,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 109,
         "_storage_options": {
           "color": "Blue",
@@ -7734,9 +8337,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7778,7 +8387,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 110,
         "_storage_options": {
           "color": "Blue",
@@ -7788,9 +8397,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7876,7 +8491,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 111,
         "_storage_options": {
           "color": "Blue",
@@ -7886,9 +8501,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -7934,7 +8555,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 112,
         "_storage_options": {
           "color": "Green",
@@ -7944,9 +8565,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8032,7 +8659,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 113,
         "_storage_options": {
           "color": "Blue",
@@ -8042,9 +8669,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8126,7 +8759,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 114,
         "_storage_options": {
           "color": "Green",
@@ -8136,9 +8769,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8240,7 +8879,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 115,
         "_storage_options": {
           "color": "Blue",
@@ -8250,9 +8889,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8314,21 +8959,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 116,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8398,7 +9049,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 117,
         "_storage_options": {
           "color": "Blue",
@@ -8408,9 +9059,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8508,21 +9165,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 118,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8576,7 +9239,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 119,
         "_storage_options": {
           "color": "Black",
@@ -8586,11 +9249,15 @@
           "color": "Black",
           "opacity": "1"
         },
+        "description": null,
+        "name": "La Pif Paf!",
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "La Pif Paf!",
-        "strava": "https://www.strava.com/segments/14840080"
+        "strava": "https://www.strava.com/segments/14840080",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8656,24 +9323,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 120,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Descente PDD par les Chataigners",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/6298493"
+        "strava": "https://www.strava.com/segments/6298493",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8747,21 +9417,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 121,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8827,21 +9503,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 122,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8883,21 +9565,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 123,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -8943,21 +9631,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 124,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -9063,24 +9757,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 125,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Colombier - l'Ermitage DH",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/8028336"
+        "strava": "https://www.strava.com/segments/8028336",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -9174,21 +9871,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 126,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -9298,21 +10001,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 127,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -9414,21 +10123,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 128,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -9550,21 +10265,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 129,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -9654,22 +10375,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 130,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": ""
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -9731,21 +10457,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 131,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -9783,21 +10515,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 132,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -9859,21 +10597,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 133,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -9919,21 +10663,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 134,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -9999,21 +10749,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 135,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10047,21 +10803,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 136,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10127,21 +10889,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 137,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10203,7 +10971,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 138,
         "_storage_options": {
           "color": "Red",
@@ -10213,11 +10981,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": "Single Randol côté Ubac",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "Single Randol côté Ubac",
-        "strava": "https://www.strava.com/segments/14655013"
+        "strava": "https://www.strava.com/segments/14655013",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10291,21 +11063,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 139,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10351,24 +11129,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 140,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "descente villars",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/9049947"
+        "strava": "https://www.strava.com/segments/9049947",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10418,7 +11199,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 141,
         "_storage_options": {
           "color": "Black",
@@ -10428,14 +11209,15 @@
           "color": "Black",
           "opacity": "1"
         },
+        "description": "Enchaînement de rochers,  pas évident de passer (relativement) vite sans partir à la faute. Joli défi technique pour descendeurs aguerris!",
+        "name": "Pierrier de Dingue!",
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "description": "Enchaînement de rochers,  pas évident de passer (relativement) vite sans partir à la faute. Joli défi technique pour descendeurs aguerris!",
-        "name": "Pierrier de Dingue!",
         "strava": "https://www.strava.com/segments/12089942",
         "acces_depart": "",
-        "difficulty": "noir"
+        "difficulty": "noir",
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10481,7 +11263,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 142,
         "_storage_options": {
           "color": "Green",
@@ -10491,9 +11273,15 @@
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10551,21 +11339,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 143,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10611,21 +11405,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 144,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10671,7 +11471,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 145,
         "_storage_options": {
           "color": "Blue",
@@ -10681,10 +11481,15 @@
           "color": "Blue",
           "opacity": "0.9"
         },
+        "description": null,
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": ""
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10742,21 +11547,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 146,
         "_storage_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10802,21 +11613,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 147,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10866,21 +11683,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 148,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -10974,7 +11797,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 149,
         "_storage_options": {
           "color": "Red",
@@ -10984,9 +11807,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11080,7 +11909,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 150,
         "_storage_options": {
           "color": "Blue",
@@ -11090,9 +11919,15 @@
           "color": "Blue",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000ff",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11150,7 +11985,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 151,
         "_storage_options": {
           "color": "Red",
@@ -11160,9 +11995,15 @@
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11216,21 +12057,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 152,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11280,21 +12127,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 153,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11344,21 +12197,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 154,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11396,21 +12255,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 155,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11472,19 +12337,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 156,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": "Très beau single bien engagé (Quelques marches bien raides)",
+        "name": "Single Puy de Marmant",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "Single Puy de Marmant",
         "strava": "https://www.strava.com/segments/18209863",
-        "description": "Très beau single bien engagé (Quelques marches bien raides)"
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11526,19 +12395,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 157,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "ça part !",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/11282920"
+        "strava": "https://www.strava.com/segments/11282920",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11576,18 +12449,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 158,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": "DH de Durtol",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "name": "DH de Durtol",
-        "strava": "https://www.strava.com/segments/23011510"
+        "strava": "https://www.strava.com/segments/23011510",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11641,16 +12519,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 159,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
+        "description": null,
+        "name": null,
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11684,15 +12569,22 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 160,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Black",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11838,16 +12730,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 161,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "10",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "10"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11933,16 +12832,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 162,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "10",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "10"
         },
+        "description": null,
+        "name": null,
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -11980,13 +12886,22 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 163,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Green",
           "opacity": "1"
         },
-        "stroke": ""
+        "description": null,
+        "name": null,
+        "stroke": "",
+        "stroke-opacity": null,
+        "stroke-width": null,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -12040,15 +12955,22 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 164,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Green",
           "opacity": "1"
         },
+        "description": null,
+        "name": null,
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -12090,7 +13012,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 165,
         "_storage_options": {
           "color": "Black",
@@ -12105,7 +13027,10 @@
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/7948698"
+        "strava": "https://www.strava.com/segments/7948698",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -12491,8 +13416,9 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 166,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
           "opacity": "1"
@@ -12502,7 +13428,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/19609793"
+        "strava": "https://www.strava.com/segments/19609793",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -12540,24 +13469,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 167,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "CORENT DH route chadieu",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/13941903"
+        "strava": "https://www.strava.com/segments/13941903",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -12663,24 +13595,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 168,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "descente Cliersou",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/7204087"
+        "strava": "https://www.strava.com/segments/7204087",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -12746,24 +13681,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 169,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "descente Côme",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/7204102"
+        "strava": "https://www.strava.com/segments/7204102",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -12805,7 +13743,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 170,
         "_storage_options": {
           "color": "Red",
@@ -12820,7 +13758,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/11680290"
+        "strava": "https://www.strava.com/segments/11680290",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -12882,24 +13823,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 171,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Descente de Lissac à l'Usine Ste Marguerite",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/10572474"
+        "strava": "https://www.strava.com/segments/10572474",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -13001,24 +13945,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 172,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Descente de Tournoël",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/7008344"
+        "strava": "https://www.strava.com/segments/7008344",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -13080,7 +14027,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 173,
         "_storage_options": {
           "color": "Blue",
@@ -13095,7 +14042,10 @@
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/10279107"
+        "strava": "https://www.strava.com/segments/10279107",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -13129,19 +14079,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 174,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Descente du chemin des Crêtes",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/4869219"
+        "strava": "https://www.strava.com/segments/4869219",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -13291,7 +14245,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 175,
         "_storage_options": {
           "color": "Red",
@@ -13306,7 +14260,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/7964276"
+        "strava": "https://www.strava.com/segments/7964276",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -13352,7 +14309,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 176,
         "_storage_options": {
           "color": "Red",
@@ -13367,7 +14324,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/16403982"
+        "strava": "https://www.strava.com/segments/16403982",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -13425,24 +14385,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 177,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Descente Gorges de Viallard",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/6269902"
+        "strava": "https://www.strava.com/segments/6269902",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -13496,24 +14459,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 178,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "descente gouttes",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/6379186"
+        "strava": "https://www.strava.com/segments/6379186",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -13591,8 +14557,9 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 179,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Green",
           "opacity": "1"
@@ -13602,7 +14569,10 @@
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/17846867"
+        "strava": "https://www.strava.com/segments/17846867",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -13636,24 +14606,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 180,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Descente nord-est du puy de Jumes",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/17604167"
+        "strava": "https://www.strava.com/segments/17604167",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -13743,19 +14716,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 181,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Descente petite carrière",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/18918317"
+        "strava": "https://www.strava.com/segments/18918317",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -13833,7 +14810,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 182,
         "_storage_options": {
           "color": "Red",
@@ -13848,7 +14825,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/9033560"
+        "strava": "https://www.strava.com/segments/9033560",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -14570,24 +15550,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 183,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "descente traversin bis",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/15445728"
+        "strava": "https://www.strava.com/segments/15445728",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -14629,24 +15612,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 184,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "DH - La Pradelle à Moignoux",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/15215627"
+        "strava": "https://www.strava.com/segments/15215627",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -14708,24 +15694,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 185,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "DH - Vers Le Bouchet au Barrage de Queuille",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/15879667"
+        "strava": "https://www.strava.com/segments/15879667",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -14811,7 +15800,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 186,
         "_storage_options": {
           "color": "Black",
@@ -14826,7 +15815,10 @@
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/16705535 "
+        "strava": "https://www.strava.com/segments/16705535 ",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -14860,24 +15852,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 187,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "DH Anzelle Complète",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/11970929"
+        "strava": "https://www.strava.com/segments/11970929",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -14943,24 +15938,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 188,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "DH D9 au Madet",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/15445661"
+        "strava": "https://www.strava.com/segments/15445661",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -15014,7 +16012,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 189,
         "_storage_options": {
           "color": "Red",
@@ -15025,12 +16023,14 @@
           "opacity": "1"
         },
         "description": "debut au Mas, grosses pavasses, bon deniv, presque 2km",
-        "acces_depart": "au Mas",
         "name": "DH Le mas > Ponteix",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/12709535"
+        "strava": "https://www.strava.com/segments/12709535",
+        "acces_depart": "au Mas",
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -15108,7 +16108,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 190,
         "_storage_options": {
           "color": "Red",
@@ -15123,7 +16123,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/8580874"
+        "strava": "https://www.strava.com/segments/8580874",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -15401,19 +16404,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 191,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "foie ferrée bas",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/6492236"
+        "strava": "https://www.strava.com/segments/6492236",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -15459,8 +16466,9 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 192,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Black",
           "opacity": "1"
@@ -15470,7 +16478,10 @@
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/19420702"
+        "strava": "https://www.strava.com/segments/19420702",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -15516,24 +16527,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 193,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "La Faucheuse",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/15973481"
+        "strava": "https://www.strava.com/segments/15973481",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -15575,14 +16589,19 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 194,
+        "_storage_options": null,
+        "_umap_options": null,
         "description": "",
         "name": "La Faucheuse",
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/15973481"
+        "strava": "https://www.strava.com/segments/15973481",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -16087,7 +17106,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 195,
         "_storage_options": {
           "color": "Red",
@@ -16102,7 +17121,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/17206313"
+        "strava": "https://www.strava.com/segments/17206313",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -16156,24 +17178,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 196,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Lambroise",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/16182288"
+        "strava": "https://www.strava.com/segments/16182288",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -16207,8 +17232,9 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 197,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Green",
           "opacity": "1"
@@ -16218,7 +17244,10 @@
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/17724912"
+        "strava": "https://www.strava.com/segments/17724912",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -16272,8 +17301,9 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 198,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Blue",
           "opacity": "1"
@@ -16283,7 +17313,10 @@
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/19342537"
+        "strava": "https://www.strava.com/segments/19342537",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -16325,8 +17358,9 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 199,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Blue",
           "opacity": "1"
@@ -16336,7 +17370,10 @@
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/15503597"
+        "strava": "https://www.strava.com/segments/15503597",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -16398,7 +17435,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 200,
         "_storage_options": {
           "color": "Red",
@@ -16413,7 +17450,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/10190534"
+        "strava": "https://www.strava.com/segments/10190534",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -16847,7 +17887,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 201,
         "_storage_options": {
           "color": "Red",
@@ -16862,7 +17902,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/13468310"
+        "strava": "https://www.strava.com/segments/13468310",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -17260,7 +18303,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 202,
         "_storage_options": {
           "color": "Blue",
@@ -17275,7 +18318,10 @@
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/17124459"
+        "strava": "https://www.strava.com/segments/17124459",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -17321,24 +18367,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 203,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Black",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "PTZC#1",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/12911398"
+        "strava": "https://www.strava.com/segments/12911398",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -17384,24 +18433,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 204,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Redescente vers Nugère",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/6394123"
+        "strava": "https://www.strava.com/segments/6394123",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -17455,24 +18507,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 205,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "ROROsingle part 1",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/11022783"
+        "strava": "https://www.strava.com/segments/11022783",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -17510,24 +18565,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 206,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Saute dans les bois",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/15576313"
+        "strava": "https://www.strava.com/segments/15576313",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -17561,12 +18619,19 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 207,
+        "_storage_options": null,
+        "_umap_options": null,
+        "description": null,
         "name": "Segment de vélo de 0,3 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -17726,17 +18791,22 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 208,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Black",
           "opacity": "1"
         },
+        "description": null,
         "name": "Single de la Monne",
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/6463381"
+        "strava": "https://www.strava.com/segments/6463381",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -18021,12 +19091,19 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 209,
+        "_storage_options": null,
+        "_umap_options": null,
+        "description": null,
         "name": "Segment de vélo de 0,6 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -18241,16 +19318,22 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 210,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
           "opacity": "1"
         },
+        "description": null,
         "name": "Segment de vélo de 0,7 km à Saint Saturnin, Puy De Dôme, Auvergne, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -18565,12 +19648,19 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 211,
+        "_storage_options": null,
+        "_umap_options": null,
+        "description": null,
         "name": "Segment de vélo de 0,8 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -19370,12 +20460,19 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 212,
+        "_storage_options": null,
+        "_umap_options": null,
+        "description": null,
         "name": "Segment de vélo de 0,9 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -20395,15 +21492,21 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 213,
+        "_storage_options": null,
         "_umap_options": {
           "color": "DarkGreen"
         },
+        "description": null,
         "name": "Segment de vélo de 1,0 km à Aydat, Auvergne, France sur Strava",
         "stroke": "#008000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -21603,12 +22706,19 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 214,
+        "_storage_options": null,
+        "_umap_options": null,
+        "description": null,
         "name": "Segment de vélo de 1,4 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#f400ff",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -22953,7 +24063,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 215,
         "_storage_options": {
           "color": "Red",
@@ -22968,7 +24078,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/8519421"
+        "strava": "https://www.strava.com/segments/8519421",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -24250,24 +25363,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 216,
         "_storage_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Single - GR441",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/7690137"
+        "strava": "https://www.strava.com/segments/7690137",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -24305,24 +25421,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 217,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Single Creux de la Berté",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/16164137"
+        "strava": "https://www.strava.com/segments/16164137",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -24396,24 +25515,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 218,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Single de la Ribe",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/17479971"
+        "strava": "https://www.strava.com/segments/17479971",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -24451,24 +25573,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 219,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Single de Teix au pont de Chambon",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/14200598"
+        "strava": "https://www.strava.com/segments/14200598",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -24510,19 +25635,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 220,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "single descente Montaigut",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/17551369"
+        "strava": "https://www.strava.com/segments/17551369",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -24576,8 +25705,9 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 221,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Green",
           "opacity": "1"
@@ -24587,7 +25717,10 @@
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/10382759"
+        "strava": "https://www.strava.com/segments/10382759",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -24661,7 +25794,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 222,
         "_storage_options": {
           "color": "Red",
@@ -24676,7 +25809,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/13715356"
+        "strava": "https://www.strava.com/segments/13715356",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -24714,19 +25850,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 223,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Single en pouzzolane",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/17759723"
+        "strava": "https://www.strava.com/segments/17759723",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -24792,7 +25932,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 224,
         "_storage_options": {
           "color": "Blue",
@@ -24803,12 +25943,14 @@
           "opacity": "1"
         },
         "description": "ca ne descend pas trop, il faut beaucoup pédaler mais l'enchainement des deux singles permet un bon entrainement cardio+technique (le single préféré des Jarrets de la Monne)",
-        "acces_depart": "le départ de fait à Ponteix, par le chemin des Varennes, à gauche apres l'église en descendant, puis à droite sur le chemin apres le cimetiere",
         "name": "Single Prada",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/9731917"
+        "strava": "https://www.strava.com/segments/9731917",
+        "acces_depart": "le départ de fait à Ponteix, par le chemin des Varennes, à gauche apres l'église en descendant, puis à droite sur le chemin apres le cimetiere",
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -24890,24 +26032,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 225,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "single rocher des campeurs",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/13112972"
+        "strava": "https://www.strava.com/segments/13112972",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -24941,7 +26086,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 226,
         "_storage_options": {
           "color": "Red",
@@ -24956,7 +26101,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/10473501"
+        "strava": "https://www.strava.com/segments/10473501",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -26202,24 +27350,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 227,
         "_storage_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Single Track le Point de Vue Châtel",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/11425428"
+        "strava": "https://www.strava.com/segments/11425428",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -26269,7 +27420,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 228,
         "_storage_options": {
           "color": "DarkGreen",
@@ -26283,7 +27434,11 @@
         "name": "Single Veyre",
         "stroke": "#006400",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "strava": null,
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -26325,19 +27480,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 229,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
-          "dashArray": "10",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "10"
         },
         "description": "",
         "name": "String dentelle",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/15324291"
+        "strava": "https://www.strava.com/segments/15324291",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -26383,7 +27542,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 230,
         "_storage_options": {
           "color": "Red",
@@ -26398,7 +27557,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/6778234"
+        "strava": "https://www.strava.com/segments/6778234",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -26548,7 +27710,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 231,
         "_storage_options": {
           "color": "Red",
@@ -26563,7 +27725,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/6926286"
+        "strava": "https://www.strava.com/segments/6926286",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -26609,24 +27774,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 232,
         "_storage_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Green",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Trail du Barrage",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/7019655"
+        "strava": "https://www.strava.com/segments/7019655",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -26708,19 +27876,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 233,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Voie ferrrée haut",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/4545052"
+        "strava": "https://www.strava.com/segments/4545052",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -26798,24 +27970,27 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 234,
         "_storage_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Voie romaine descente",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/9593222"
+        "strava": "https://www.strava.com/segments/9593222",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -26885,7 +28060,7 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 235,
         "_storage_options": {
           "color": "Black",
@@ -26900,7 +28075,10 @@
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/8539531"
+        "strava": "https://www.strava.com/segments/8539531",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -27234,8 +28412,9 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 236,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
           "opacity": "1"
@@ -27245,7 +28424,10 @@
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/14971492/"
+        "strava": "https://www.strava.com/segments/14971492/",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -27311,19 +28493,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 237,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Blue",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Zip dans les bois ",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/18547798"
+        "strava": "https://www.strava.com/segments/18547798",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -27369,19 +28555,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 238,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Carrières de Gravenoire version feuilles",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/11524614"
+        "strava": "https://www.strava.com/segments/11524614",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -27435,19 +28625,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 239,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Descente vers rue de la Pauze",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/14392005"
+        "strava": "https://www.strava.com/segments/14392005",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -27505,19 +28699,23 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 240,
+        "_storage_options": null,
         "_umap_options": {
           "color": "Red",
-          "dashArray": "5",
-          "opacity": "1"
+          "opacity": "1",
+          "dashArray": "5"
         },
         "description": "",
         "name": "Descente Bois de Rochetoux",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": "https://www.strava.com/segments/10051060"
+        "strava": "https://www.strava.com/segments/10051060",
+        "acces_depart": null,
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -27567,19 +28765,22 @@
     },
     {
       "type": "Feature",
-     "properties": {
+      "properties": {
         "id": 241,
+        "_storage_options": null,
         "_umap_options": {
           "color": "yellow",
           "opacity": "1"
         },
-        "stroke": "#fffd00",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "description": "TEMPLATE : Descente de la rue des gras",
-        "acces_depart": "TEMPLATE : depuis le pied de la cathédrale",
         "name": "template",
-        "strava": "https://www.strava.com/segments/xxxx"
+        "stroke": "#fffd00",
+        "stroke-opacity": 1,
+        "stroke-width": 2,
+        "strava": "https://www.strava.com/segments/xxxx",
+        "acces_depart": "TEMPLATE : depuis le pied de la cathédrale",
+        "difficulty": null,
+        "dashArray": null
       },
       "geometry": {
         "type": "LineString",
@@ -27597,7 +28798,7 @@
             45.778740542979364
           ],
           [
-            3.0828988552093506,
+            3.082898855209351,
             45.77871435379086
           ],
           [
@@ -27605,7 +28806,7 @@
             45.77868816459002
           ],
           [
-            3.0817294120788574,
+            3.081729412078857,
             45.77866945801049
           ]
         ]
