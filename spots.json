@@ -27,7 +27,7 @@
         "strava": "https://www.strava.com/segments/12089942",
         "acces_depart": "Pour accéder au début du single, il faut prendre la D28 direction Champeix, traverser le pont au dessus de la Monne et prendre la première à gauche, ça monte raide au début avec un revêtement en béton, on passe rapidement sur un chemin. Pour info, pour les costauds, il y a un segment depuis le bas de la cote jusqu'au pied du château.",
         "difficulty": "bleu",
-        "dashArray": null
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -93,9 +93,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/10841177",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -150,8 +150,8 @@
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/7964740",
         "acces_depart": "Via Chadrat",
-        "difficulty": null,
-        "dashArray": null
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -241,9 +241,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/10864579",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -309,9 +309,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/11989804",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -363,15 +363,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -442,8 +442,8 @@
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/6881971",
         "acces_depart": "L'acces se fait depuis le bas en remontant le single depuis la D28 (montée très difficile) ou depuis Olloix en prenant tout doit dans le premier virage, puis en suivant le chemin à gauche",
-        "difficulty": null,
-        "dashArray": null
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -523,15 +523,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -613,9 +613,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/14566147",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -707,15 +707,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
+        "description": "",
         "name": "Descente de Nadaillat à l'Auzon",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -831,15 +831,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
+        "description": "",
         "name": "Parent",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -883,15 +883,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -939,15 +939,15 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
-        "description": null,
+        "description": "",
         "name": "le long de l'allier ?",
         "stroke": "#006400",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1019,15 +1019,15 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#006400",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1129,15 +1129,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1181,15 +1181,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1283,15 +1283,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1333,15 +1333,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1393,15 +1393,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
+        "description": "",
         "name": "Single Faye-Monne",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/11817327",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1483,15 +1483,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1537,15 +1537,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1597,15 +1597,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1671,15 +1671,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1745,15 +1745,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1829,15 +1829,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
+        "description": "",
         "name": "Woodtrack",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/9742859",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1901,15 +1901,15 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#006400",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1967,14 +1967,14 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
+        "description": "",
         "name": "Rollercoaster",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "",
-        "acces_depart": null,
-        "difficulty": null,
+        "acces_depart": "",
+        "difficulty": "",
         "dashArray": 5
       },
       "geometry": {
@@ -2023,15 +2023,15 @@
           "color": "DarkGreen",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#006400",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2095,15 +2095,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2195,15 +2195,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2327,15 +2327,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2387,15 +2387,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2475,15 +2475,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
+        "description": "",
         "name": "Les virolos de Ponteix",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/14642189",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2586,8 +2586,8 @@
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/14633325",
         "acces_depart": "Acces par la montée des Racines ou bien en descendant de Olloix (tout droit dans le premier virage)",
-        "difficulty": null,
-        "dashArray": null
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2731,15 +2731,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2811,15 +2811,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2871,15 +2871,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -2925,15 +2925,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3019,15 +3019,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3079,15 +3079,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3191,15 +3191,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3243,15 +3243,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3315,15 +3315,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3393,15 +3393,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3482,14 +3482,14 @@
           "opacity": "1"
         },
         "description": "Trop large après travaux et boueux",
-        "name": null,
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3589,15 +3589,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3669,15 +3669,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3735,15 +3735,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3831,15 +3831,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3879,15 +3879,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -3981,15 +3981,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4069,15 +4069,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4197,15 +4197,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4261,15 +4261,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4321,15 +4321,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4391,15 +4391,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4461,15 +4461,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4531,15 +4531,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4593,15 +4593,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4671,15 +4671,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4761,15 +4761,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4831,15 +4831,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4942,8 +4942,8 @@
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/8568887",
         "acces_depart": "depuis gourdon à gauche en descendant",
-        "difficulty": null,
-        "dashArray": null
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5065,15 +5065,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5157,15 +5157,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5221,15 +5221,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "MultiLineString",
@@ -5271,15 +5271,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5331,15 +5331,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5409,15 +5409,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5469,15 +5469,15 @@
           "color": "Black",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5509,15 +5509,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5565,15 +5565,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5625,15 +5625,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5709,15 +5709,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5769,15 +5769,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5857,15 +5857,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -5955,15 +5955,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6041,15 +6041,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6124,8 +6124,8 @@
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/14633249",
         "acces_depart": "A droite en venant du \"Single de Randol\",on passe 2 barrieres, ca remonte un peu et on est dedans",
-        "difficulty": null,
-        "dashArray": null
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6197,15 +6197,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6295,15 +6295,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6359,15 +6359,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6493,15 +6493,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6583,15 +6583,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6669,15 +6669,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6719,15 +6719,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6781,15 +6781,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6855,15 +6855,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6909,15 +6909,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -6977,15 +6977,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7041,15 +7041,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7093,15 +7093,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7157,15 +7157,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7321,15 +7321,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7409,15 +7409,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7477,15 +7477,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7533,15 +7533,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7609,15 +7609,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7657,15 +7657,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7705,15 +7705,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7779,15 +7779,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7841,15 +7841,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7895,15 +7895,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -7953,15 +7953,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8011,15 +8011,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8117,15 +8117,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8225,15 +8225,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
+        "description": "",
         "name": "Single au dessus de Saint-Sandoux",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/14728978",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8277,15 +8277,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8337,15 +8337,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8397,15 +8397,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8501,15 +8501,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8565,15 +8565,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8669,15 +8669,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8769,15 +8769,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8889,15 +8889,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -8971,15 +8971,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -9059,15 +9059,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -9177,15 +9177,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -9249,15 +9249,15 @@
           "color": "Black",
           "opacity": "1"
         },
-        "description": null,
+        "description": "",
         "name": "La Pif Paf!",
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/14840080",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -9341,9 +9341,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/6298493",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -9429,15 +9429,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -9515,15 +9515,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -9577,15 +9577,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -9643,15 +9643,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -9775,9 +9775,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/8028336",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -9883,15 +9883,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10013,15 +10013,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10135,15 +10135,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10277,15 +10277,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10387,15 +10387,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
+        "description": "",
         "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10469,15 +10469,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10527,15 +10527,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10609,15 +10609,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10675,15 +10675,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10761,15 +10761,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10815,15 +10815,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10901,15 +10901,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -10981,15 +10981,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
+        "description": "",
         "name": "Single Randol côté Ubac",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/14655013",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11075,15 +11075,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11147,9 +11147,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/9049947",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11217,7 +11217,7 @@
         "strava": "https://www.strava.com/segments/12089942",
         "acces_depart": "",
         "difficulty": "noir",
-        "dashArray": null
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11273,15 +11273,15 @@
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11351,15 +11351,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11417,15 +11417,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11481,15 +11481,15 @@
           "color": "Blue",
           "opacity": "0.9"
         },
-        "description": null,
+        "description": "",
         "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11559,15 +11559,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11625,15 +11625,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11695,15 +11695,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11807,15 +11807,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11919,15 +11919,15 @@
           "color": "Blue",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000ff",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -11995,15 +11995,15 @@
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12069,15 +12069,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12139,15 +12139,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12209,15 +12209,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12267,15 +12267,15 @@
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12339,7 +12339,7 @@
       "type": "Feature",
       "properties": {
         "id": 156,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1",
@@ -12351,9 +12351,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/18209863",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12397,7 +12397,7 @@
       "type": "Feature",
       "properties": {
         "id": 157,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1",
@@ -12409,9 +12409,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/11282920",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12451,21 +12451,21 @@
       "type": "Feature",
       "properties": {
         "id": 158,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
+        "description": "",
         "name": "DH de Durtol",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/23011510",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12521,21 +12521,21 @@
       "type": "Feature",
       "properties": {
         "id": 159,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1",
           "dashArray": "5"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12571,20 +12571,20 @@
       "type": "Feature",
       "properties": {
         "id": 160,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Black",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12732,21 +12732,21 @@
       "type": "Feature",
       "properties": {
         "id": 161,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Blue",
           "opacity": "1",
           "dashArray": "10"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12834,21 +12834,21 @@
       "type": "Feature",
       "properties": {
         "id": 162,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Blue",
           "opacity": "1",
           "dashArray": "10"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12888,20 +12888,20 @@
       "type": "Feature",
       "properties": {
         "id": 163,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "",
-        "stroke-opacity": null,
-        "stroke-width": null,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "stroke-opacity": "",
+        "stroke-width": "",
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -12957,20 +12957,20 @@
       "type": "Feature",
       "properties": {
         "id": 164,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Green",
           "opacity": "1"
         },
-        "description": null,
-        "name": null,
+        "description": "",
+        "name": "",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -13028,9 +13028,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/7948698",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -13418,7 +13418,7 @@
       "type": "Feature",
       "properties": {
         "id": 166,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1"
@@ -13429,9 +13429,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/19609793",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -13487,9 +13487,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/13941903",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -13613,9 +13613,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/7204087",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -13699,9 +13699,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/7204102",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -13759,9 +13759,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/11680290",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -13841,9 +13841,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/10572474",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -13963,9 +13963,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/7008344",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -14043,9 +14043,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/10279107",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -14081,7 +14081,7 @@
       "type": "Feature",
       "properties": {
         "id": 174,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Blue",
           "opacity": "1",
@@ -14093,9 +14093,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/4869219",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -14261,9 +14261,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/7964276",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -14325,9 +14325,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/16403982",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -14403,9 +14403,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/6269902",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -14477,9 +14477,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/6379186",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -14559,7 +14559,7 @@
       "type": "Feature",
       "properties": {
         "id": 179,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Green",
           "opacity": "1"
@@ -14570,9 +14570,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/17846867",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -14624,9 +14624,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/17604167",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -14718,7 +14718,7 @@
       "type": "Feature",
       "properties": {
         "id": 181,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Blue",
           "opacity": "1",
@@ -14730,9 +14730,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/18918317",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -14826,9 +14826,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/9033560",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -15568,9 +15568,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/15445728",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -15630,9 +15630,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/15215627",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -15712,9 +15712,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/15879667",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -15816,9 +15816,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/16705535 ",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -15870,9 +15870,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/11970929",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -15956,9 +15956,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/15445661",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -16029,8 +16029,8 @@
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/12709535",
         "acces_depart": "au Mas",
-        "difficulty": null,
-        "dashArray": null
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -16124,9 +16124,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/8580874",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -16406,7 +16406,7 @@
       "type": "Feature",
       "properties": {
         "id": 191,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Blue",
           "opacity": "1",
@@ -16418,9 +16418,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/6492236",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -16468,7 +16468,7 @@
       "type": "Feature",
       "properties": {
         "id": 192,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Black",
           "opacity": "1"
@@ -16479,9 +16479,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/19420702",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -16545,9 +16545,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/15973481",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -16591,17 +16591,17 @@
       "type": "Feature",
       "properties": {
         "id": 194,
-        "_storage_options": null,
-        "_umap_options": null,
+        "_storage_options": "",
+        "_umap_options": "",
         "description": "",
         "name": "La Faucheuse",
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/15973481",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -17122,9 +17122,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/17206313",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -17196,9 +17196,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/16182288",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -17234,7 +17234,7 @@
       "type": "Feature",
       "properties": {
         "id": 197,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Green",
           "opacity": "1"
@@ -17245,9 +17245,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/17724912",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -17303,7 +17303,7 @@
       "type": "Feature",
       "properties": {
         "id": 198,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Blue",
           "opacity": "1"
@@ -17314,9 +17314,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/19342537",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -17360,7 +17360,7 @@
       "type": "Feature",
       "properties": {
         "id": 199,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Blue",
           "opacity": "1"
@@ -17371,9 +17371,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/15503597",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -17451,9 +17451,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/10190534",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -17903,9 +17903,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/13468310",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -18319,9 +18319,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/17124459",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -18385,9 +18385,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/12911398",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -18451,9 +18451,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/6394123",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -18525,9 +18525,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/11022783",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -18583,9 +18583,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/15576313",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -18621,17 +18621,17 @@
       "type": "Feature",
       "properties": {
         "id": 207,
-        "_storage_options": null,
-        "_umap_options": null,
-        "description": null,
+        "_storage_options": "",
+        "_umap_options": "",
+        "description": "",
         "name": "Segment de vélo de 0,3 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#0000FF",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -18793,20 +18793,20 @@
       "type": "Feature",
       "properties": {
         "id": 208,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Black",
           "opacity": "1"
         },
-        "description": null,
+        "description": "",
         "name": "Single de la Monne",
         "stroke": "#000000",
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/6463381",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -19093,17 +19093,17 @@
       "type": "Feature",
       "properties": {
         "id": 209,
-        "_storage_options": null,
-        "_umap_options": null,
-        "description": null,
+        "_storage_options": "",
+        "_umap_options": "",
+        "description": "",
         "name": "Segment de vélo de 0,6 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -19320,20 +19320,20 @@
       "type": "Feature",
       "properties": {
         "id": 210,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1"
         },
-        "description": null,
+        "description": "",
         "name": "Segment de vélo de 0,7 km à Saint Saturnin, Puy De Dôme, Auvergne, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -19650,17 +19650,17 @@
       "type": "Feature",
       "properties": {
         "id": 211,
-        "_storage_options": null,
-        "_umap_options": null,
-        "description": null,
+        "_storage_options": "",
+        "_umap_options": "",
+        "description": "",
         "name": "Segment de vélo de 0,8 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -20462,17 +20462,17 @@
       "type": "Feature",
       "properties": {
         "id": 212,
-        "_storage_options": null,
-        "_umap_options": null,
-        "description": null,
+        "_storage_options": "",
+        "_umap_options": "",
+        "description": "",
         "name": "Segment de vélo de 0,9 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -21494,19 +21494,19 @@
       "type": "Feature",
       "properties": {
         "id": 213,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "DarkGreen"
         },
-        "description": null,
+        "description": "",
         "name": "Segment de vélo de 1,0 km à Aydat, Auvergne, France sur Strava",
         "stroke": "#008000",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -22708,17 +22708,17 @@
       "type": "Feature",
       "properties": {
         "id": 214,
-        "_storage_options": null,
-        "_umap_options": null,
-        "description": null,
+        "_storage_options": "",
+        "_umap_options": "",
+        "description": "",
         "name": "Segment de vélo de 1,4 km à Saint-Nectaire, Auvergne-Rhône-Alpes, France sur Strava",
         "stroke": "#f400ff",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -24079,9 +24079,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/8519421",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -25381,9 +25381,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/7690137",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -25439,9 +25439,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/16164137",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -25533,9 +25533,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/17479971",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -25591,9 +25591,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/14200598",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -25637,7 +25637,7 @@
       "type": "Feature",
       "properties": {
         "id": 220,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1",
@@ -25649,9 +25649,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/17551369",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -25707,7 +25707,7 @@
       "type": "Feature",
       "properties": {
         "id": 221,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Green",
           "opacity": "1"
@@ -25718,9 +25718,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/10382759",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -25810,9 +25810,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/13715356",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -25852,7 +25852,7 @@
       "type": "Feature",
       "properties": {
         "id": 223,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Green",
           "opacity": "1",
@@ -25864,9 +25864,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/17759723",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -25949,8 +25949,8 @@
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/9731917",
         "acces_depart": "le départ de fait à Ponteix, par le chemin des Varennes, à gauche apres l'église en descendant, puis à droite sur le chemin apres le cimetiere",
-        "difficulty": null,
-        "dashArray": null
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -26050,9 +26050,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/13112972",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -26102,9 +26102,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/10473501",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -27368,9 +27368,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/11425428",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -27435,10 +27435,10 @@
         "stroke": "#006400",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "strava": null,
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "strava": "",
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -27482,7 +27482,7 @@
       "type": "Feature",
       "properties": {
         "id": 229,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1",
@@ -27494,9 +27494,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/15324291",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -27558,9 +27558,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/6778234",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -27726,9 +27726,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/6926286",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -27792,9 +27792,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/7019655",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -27878,7 +27878,7 @@
       "type": "Feature",
       "properties": {
         "id": 233,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1",
@@ -27890,9 +27890,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/4545052",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -27988,9 +27988,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/9593222",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -28076,9 +28076,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/8539531",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -28414,7 +28414,7 @@
       "type": "Feature",
       "properties": {
         "id": 236,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1"
@@ -28425,9 +28425,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/14971492/",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -28495,7 +28495,7 @@
       "type": "Feature",
       "properties": {
         "id": 237,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Blue",
           "opacity": "1",
@@ -28507,9 +28507,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/18547798",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -28557,7 +28557,7 @@
       "type": "Feature",
       "properties": {
         "id": 238,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1",
@@ -28569,9 +28569,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/11524614",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -28627,7 +28627,7 @@
       "type": "Feature",
       "properties": {
         "id": 239,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1",
@@ -28639,9 +28639,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/14392005",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -28701,7 +28701,7 @@
       "type": "Feature",
       "properties": {
         "id": 240,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "Red",
           "opacity": "1",
@@ -28713,9 +28713,9 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/10051060",
-        "acces_depart": null,
-        "difficulty": null,
-        "dashArray": null
+        "acces_depart": "",
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
@@ -28767,7 +28767,7 @@
       "type": "Feature",
       "properties": {
         "id": 241,
-        "_storage_options": null,
+        "_storage_options": "",
         "_umap_options": {
           "color": "yellow",
           "opacity": "1"
@@ -28779,8 +28779,8 @@
         "stroke-width": 2,
         "strava": "https://www.strava.com/segments/xxxx",
         "acces_depart": "TEMPLATE : depuis le pied de la cathédrale",
-        "difficulty": null,
-        "dashArray": null
+        "difficulty": "",
+        "dashArray": ""
       },
       "geometry": {
         "type": "LineString",
