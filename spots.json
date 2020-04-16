@@ -488,17 +488,13 @@
       "type": "Feature",
       "properties": {
         "id": 8,
-        "_storage_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Red",
-          "opacity": "1"
-        },
+        "_storage_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Red\",\"opacity\":\"1\"}",
         "stroke": "#ff0000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Le Mas DH",
+        "strava": "https://www.strava.com/segments/7914818"
       },
       "geometry": {
         "type": "LineString",
@@ -4861,17 +4857,13 @@
       "type": "Feature",
       "properties": {
         "id": 66,
-        "_storage_options": {
-          "color": "Blue",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Blue",
-          "opacity": "1"
-        },
-        "stroke": "#0000FF",
+        "_storage_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Blue\",\"opacity\":\"1\"}",
+        "stroke": "#0000ff",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "DH la Serre, Partie roulante",
+        "strava": "https://www.strava.com/segments/18702809"
       },
       "geometry": {
         "type": "MultiLineString",
@@ -5085,17 +5077,13 @@
       "type": "Feature",
       "properties": {
         "id": 70,
-        "_storage_options": {
-          "color": "Black",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Black",
-          "opacity": "1"
-        },
+        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Dré dans les cailloux",
+        "strava": "https://www.strava.com/segments/18818976"
       },
       "geometry": {
         "type": "LineString",
@@ -10420,17 +10408,14 @@
       "type": "Feature",
       "properties": {
         "id": 141,
-        "_storage_options": {
-          "color": "Black",
-          "opacity": "1"
-        },
-        "_umap_options": {
-          "color": "Black",
-          "opacity": "1"
-        },
+        "_storage_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
+        "_umap_options": "{\"color\":\"Black\",\"opacity\":\"1\"}",
         "stroke": "#000000",
         "stroke-opacity": 1,
-        "stroke-width": 2
+        "stroke-width": 2,
+        "name": "Pierrier de dingue!",
+        "strava": "https://www.strava.com/segments/22696246",
+        "description": ""
       },
       "geometry": {
         "type": "LineString",
@@ -27614,7 +27599,8 @@
         "stroke-opacity": 1,
         "name": "1ère partie piste d'entrainement",
         "description": "Départ= trace (de moins en moins) discrète, 2 difficultés: une marche de 80cm (passe en roulant), un passage technique étroit sur des rochers entre les arbres.",
-        "strava": "Voir la 2ème partie, le segment englobe les 2."
+        "strava": "Voir la 2ème partie, le segment englobe les 2.",
+        "id": 242
       },
       "geometry": {
         "type": "LineString",
@@ -27694,7 +27680,8 @@
         "stroke-opacity": 1,
         "name": "Brokebike Mountain",
         "description": "Piste All Mountain engagé, aussi difficile physiquement que techniquement. Mélange de descentes typées enduro et de petites relances en montée typées XC. 1,2km en tout si on part du même départ que la piste rouge).",
-        "strava": "https://www.strava.com/segments/23039386"
+        "strava": "https://www.strava.com/segments/23039386",
+        "id": 241
       },
       "geometry": {
         "type": "LineString",
