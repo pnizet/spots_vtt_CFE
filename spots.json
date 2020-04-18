@@ -283,7 +283,7 @@
                 "difficulty": "", 
                 "id": 4, 
                 "name": "Single plateau de la Serre", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10864579", 
                 "stroke": "#006400", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -343,7 +343,7 @@
                 "difficulty": "", 
                 "id": 5, 
                 "name": "Enduro - Spécial plateau de serre", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11989804", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -415,7 +415,7 @@
                 "difficulty": "", 
                 "id": 6, 
                 "name": "les ornières dh", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7167103", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -587,7 +587,7 @@
                 "difficulty": "", 
                 "id": 8, 
                 "name": "Le Mas DH", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7914818", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -687,7 +687,7 @@
                 "difficulty": "", 
                 "id": 9, 
                 "name": "Chemin de crêtes plateau de la Serre", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/14566147", 
                 "stroke": "#0000ff", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -811,7 +811,7 @@
                 "difficulty": "", 
                 "id": 10, 
                 "name": "Descente de Nadaillat à l'Auzon", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10749523", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -919,7 +919,7 @@
                 "difficulty": "", 
                 "id": 12, 
                 "name": "De Parent à l'Allier", 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ?", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1107,7 +1107,7 @@
                 "difficulty": "", 
                 "id": 14, 
                 "name": "Le long de l'allier", 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ?", 
                 "stroke": "#006400", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1161,7 +1161,7 @@
                 "difficulty": "", 
                 "id": 15, 
                 "name": "DH plauzat \"chemin de Chauzel\"", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/6948828", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1261,7 +1261,7 @@
                 "difficulty": "", 
                 "id": 16, 
                 "name": "Gergo descente single", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/9508025", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1311,7 +1311,7 @@
                 "difficulty": "", 
                 "id": 17, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1373,7 +1373,7 @@
                 "difficulty": "", 
                 "id": 18, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1461,7 +1461,7 @@
                 "difficulty": "", 
                 "id": 19, 
                 "name": "Single Faye-Monne", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11817327", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1515,7 +1515,7 @@
                 "difficulty": "", 
                 "id": 20, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1577,7 +1577,7 @@
                 "difficulty": "", 
                 "id": 21, 
                 "name": "Descente puy saint romain", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/9630071", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1723,7 +1723,7 @@
                 "difficulty": "", 
                 "id": 23, 
                 "name": "Descente des falaises", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/8401506", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1809,7 +1809,7 @@
                 "difficulty": "", 
                 "id": 24, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1881,7 +1881,7 @@
                 "difficulty": "", 
                 "id": 25, 
                 "name": "Woodtrack", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/9742859", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -1945,7 +1945,7 @@
                 "difficulty": "", 
                 "id": 26, 
                 "name": "Single Allier-Roche Noire", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/16557463", 
                 "stroke": "#006400", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -2003,7 +2003,7 @@
                 "difficulty": "", 
                 "id": 27, 
                 "name": "Rollercoaster", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17479147", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -2075,7 +2075,7 @@
                 "difficulty": "", 
                 "id": 28, 
                 "name": "Single bord d'allier", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/13295953", 
                 "stroke": "#006400", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -2175,7 +2175,7 @@
                 "difficulty": "", 
                 "id": 29, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ?", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -2307,7 +2307,7 @@
                 "difficulty": "", 
                 "id": 30, 
                 "name": "Serre de Portelas à Chapelle Saint-Anne", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/13601481", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -2367,7 +2367,7 @@
                 "difficulty": "", 
                 "id": 31, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ? (dans ce sens)", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -2455,7 +2455,7 @@
                 "difficulty": "", 
                 "id": 32, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ?", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -2559,7 +2559,7 @@
                 "difficulty": "", 
                 "id": 33, 
                 "name": "Les virolos de Ponteix", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/14642189", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -2791,7 +2791,7 @@
                 "difficulty": "", 
                 "id": 35, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -2851,7 +2851,7 @@
                 "difficulty": "", 
                 "id": 36, 
                 "name": "Single Cournols (Easy)", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/21917807", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -2903,7 +2903,7 @@
                 "difficulty": "", 
                 "id": 37, 
                 "name": "Descente Serre", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11990669", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -2997,7 +2997,7 @@
                 "difficulty": "", 
                 "id": 38, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ?", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -3059,7 +3059,7 @@
                 "difficulty": "", 
                 "id": 39, 
                 "name": "Puy Giroux", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/22925797", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -3171,7 +3171,7 @@
                 "difficulty": "", 
                 "id": 40, 
                 "name": "Entre Aydat et la Cassiere", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/9985972", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -3223,7 +3223,7 @@
                 "difficulty": "", 
                 "id": 41, 
                 "name": "DH from La Serre to Chapelle Sainte-Anne", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/13400084", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -3295,7 +3295,7 @@
                 "difficulty": "", 
                 "id": 42, 
                 "name": "Single Cimetière", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/13321032", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -3371,7 +3371,7 @@
                 "difficulty": "", 
                 "id": 43, 
                 "name": "GR30 - La Cassière DH", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10107885", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -3461,7 +3461,7 @@
                 "difficulty": "", 
                 "id": 44, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas sur Strava ?", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -3569,7 +3569,7 @@
                 "difficulty": "", 
                 "id": 45, 
                 "name": "Descente Puy Peyronnére", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/9650318", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -3649,7 +3649,7 @@
                 "difficulty": "", 
                 "id": 46, 
                 "name": "Randol Easy DH", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/22785459", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -3713,7 +3713,7 @@
                 "difficulty": "", 
                 "id": 47, 
                 "name": "Descente entre les puys de Lassolas et Mercoeur", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/13391837", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -3811,7 +3811,7 @@
                 "difficulty": "", 
                 "id": 48, 
                 "name": "Descente du single des Carthez", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7525301", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -3859,7 +3859,7 @@
                 "difficulty": "", 
                 "id": 49, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -4177,7 +4177,7 @@
                 "difficulty": "", 
                 "id": 52, 
                 "name": "la trace à mimile", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17604360", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -4241,7 +4241,7 @@
                 "difficulty": "", 
                 "id": 53, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -4369,7 +4369,7 @@
                 "difficulty": "", 
                 "id": 55, 
                 "name": "Col de Ceyssat DHCol de Ceyssat DH", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/9521422", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -4439,7 +4439,7 @@
                 "difficulty": "", 
                 "id": 56, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -4509,7 +4509,7 @@
                 "difficulty": "", 
                 "id": 57, 
                 "name": "Descente qui va bien", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/13267059", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -4571,7 +4571,7 @@
                 "difficulty": "", 
                 "id": 58, 
                 "name": "Descente du puy de la Mey", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17575868", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -4649,7 +4649,7 @@
                 "difficulty": "", 
                 "id": 59, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -4739,7 +4739,7 @@
                 "difficulty": "", 
                 "id": 60, 
                 "name": "Stage 1 Auvergne", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11020811", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -4809,7 +4809,7 @@
                 "difficulty": "", 
                 "id": 61, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava ?", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -4915,7 +4915,7 @@
                 "difficulty": "", 
                 "id": 62, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -5137,7 +5137,7 @@
                 "difficulty": "", 
                 "id": 64, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -5251,7 +5251,7 @@
                 "difficulty": "", 
                 "id": 66, 
                 "name": "DH la Serre - Partie roulante", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/18702809", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -5311,7 +5311,7 @@
                 "difficulty": "", 
                 "id": 67, 
                 "name": "roue libre de la Trulière", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/21912900", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -5387,7 +5387,7 @@
                 "difficulty": "", 
                 "id": 68, 
                 "name": "Traverse Nadaillat - La Cassière", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11688537", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -5449,7 +5449,7 @@
                 "difficulty": "", 
                 "id": 69, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -5489,7 +5489,7 @@
                 "difficulty": "", 
                 "id": 70, 
                 "name": "Dré dans les cailloux", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/18818976", 
                 "stroke": "#000000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -6471,7 +6471,7 @@
                 "difficulty": "", 
                 "id": 82, 
                 "name": "single de la tiretaine", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11076449", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -8257,7 +8257,7 @@
                 "difficulty": "", 
                 "id": 107, 
                 "name": "Single au dessus de Saint-Sandoux", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/14728978", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -9313,7 +9313,7 @@
                 "difficulty": "", 
                 "id": 119, 
                 "name": "La Pif Paf!", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/14840080", 
                 "stroke": "#000000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -9407,7 +9407,7 @@
                 "difficulty": "", 
                 "id": 120, 
                 "name": "Descente PDD par les Chataigners", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/6298493", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -9861,7 +9861,7 @@
                 "difficulty": "", 
                 "id": 125, 
                 "name": "Colombier - l'Ermitage DH", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/8028336", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -10113,7 +10113,7 @@
                 "difficulty": "", 
                 "id": 127, 
                 "name": "DH Saillant", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15084723", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -10255,7 +10255,7 @@
                 "difficulty": "", 
                 "id": 128, 
                 "name": "montée Chazous", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/12635942", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -10365,7 +10365,7 @@
                 "difficulty": "", 
                 "id": 129, 
                 "name": "Descente de la carriere", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/6967672", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -10505,7 +10505,7 @@
                 "difficulty": "", 
                 "id": 131, 
                 "name": "vers SAINT NECTAIRE", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/12509430", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -10587,7 +10587,7 @@
                 "difficulty": "", 
                 "id": 132, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -10653,7 +10653,7 @@
                 "difficulty": "", 
                 "id": 133, 
                 "name": "Flat trakxs", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15563187", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -10739,7 +10739,7 @@
                 "difficulty": "", 
                 "id": 134, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava ?", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -10793,7 +10793,7 @@
                 "difficulty": "", 
                 "id": 135, 
                 "name": "Bmxxx", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7064319", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -10879,7 +10879,7 @@
                 "difficulty": "", 
                 "id": 136, 
                 "name": "Camping Gazzz", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7064319", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -11053,7 +11053,7 @@
                 "difficulty": "", 
                 "id": 138, 
                 "name": "Single Randol côté Ubac", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/14655013", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -11119,7 +11119,7 @@
                 "difficulty": "", 
                 "id": 139, 
                 "name": "Descente Arboretum", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10213014", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -11189,7 +11189,7 @@
                 "difficulty": "", 
                 "id": 140, 
                 "name": "descente villars", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/9049947", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -11329,7 +11329,7 @@
                 "difficulty": "", 
                 "id": 142, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava ?", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -11395,7 +11395,7 @@
                 "difficulty": "", 
                 "id": 143, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -11461,7 +11461,7 @@
                 "difficulty": "", 
                 "id": 144, 
                 "name": null, 
-                "strava": null, 
+                "strava": "N'existe pas sur Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -11673,7 +11673,7 @@
                 "difficulty": "", 
                 "id": 147, 
                 "name": "descente des combes durtol", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10959346", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -11787,7 +11787,7 @@
                 "difficulty": "", 
                 "id": 148, 
                 "name": "Ancienne décharge D-", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17335021", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -11899,7 +11899,7 @@
                 "difficulty": "", 
                 "id": 149, 
                 "name": "Gergovie chemin des moutons", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/20360479", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -11975,7 +11975,7 @@
                 "difficulty": "", 
                 "id": 150, 
                 "name": " Les cailloux + Descente 01 Chanonat Face nord", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/20900485", 
                 "stroke": "#0000ff", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12047,7 +12047,7 @@
                 "difficulty": "", 
                 "id": 151, 
                 "name": "Descente Bois Gergovie", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7376967", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12117,7 +12117,7 @@
                 "difficulty": "", 
                 "id": 152, 
                 "name": "nice singletrack chanturgue", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15741067", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12187,7 +12187,7 @@
                 "difficulty": "", 
                 "id": 153, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas Strava ?", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12327,7 +12327,7 @@
                 "difficulty": "", 
                 "id": 155, 
                 "name": "a supprimer", 
-                "strava": null, 
+                "strava": "n'existe pas Strava ?", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12385,7 +12385,7 @@
                 "difficulty": "", 
                 "id": 156, 
                 "name": "Single Puy de Marmant", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/18209863", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12439,7 +12439,7 @@
                 "difficulty": "", 
                 "id": 157, 
                 "name": "ça part !", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11282920", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12509,7 +12509,7 @@
                 "difficulty": "", 
                 "id": 158, 
                 "name": "DH de Durtol", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/23011510", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12559,7 +12559,7 @@
                 "difficulty": "", 
                 "id": 159, 
                 "name": "Petit Single de la Crête", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/19833673", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12720,7 +12720,7 @@
                 "difficulty": "", 
                 "id": 160, 
                 "name": null, 
-                "strava": null, 
+                "strava": "n'existe pas Strava ?", 
                 "stroke": "#000000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12822,7 +12822,7 @@
                 "difficulty": "", 
                 "id": 161, 
                 "name": "Pif-Paf direction LRB", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/22649252", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12876,7 +12876,7 @@
                 "difficulty": "", 
                 "id": 162, 
                 "name": "Single La Roche-Blanche (Entier)", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/19337138", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -12945,7 +12945,7 @@
                 "difficulty": "", 
                 "id": 163, 
                 "name": "Descente Servières direction Pessade", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15466763", 
                 "stroke": "", 
                 "stroke-opacity": "", 
                 "stroke-width": ""
@@ -13002,7 +13002,7 @@
                 "difficulty": "", 
                 "id": 164, 
                 "name": "Pessade direction Servière", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/19093159", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -13406,7 +13406,7 @@
                 "difficulty": "", 
                 "id": 165, 
                 "name": "MiniSection", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7948698", 
                 "stroke": "#000000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -13459,7 +13459,7 @@
                 "difficulty": "", 
                 "id": 166, 
                 "name": "Bien caché", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/19609793", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -13585,7 +13585,7 @@
                 "difficulty": "", 
                 "id": 167, 
                 "name": "CORENT DH route chadieu", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/13941903", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -13671,7 +13671,7 @@
                 "difficulty": "", 
                 "id": 168, 
                 "name": "descente Cliersou", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7204087", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -13733,7 +13733,7 @@
                 "difficulty": "", 
                 "id": 169, 
                 "name": "descente Côme", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7204102", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -13813,7 +13813,7 @@
                 "difficulty": "", 
                 "id": 170, 
                 "name": "Descente de la tour de Rognon", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11680290", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -13935,7 +13935,7 @@
                 "difficulty": "", 
                 "id": 171, 
                 "name": "Descente de Lissac à l'Usine Ste Marguerite", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10572474", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -14017,7 +14017,7 @@
                 "difficulty": "", 
                 "id": 172, 
                 "name": "Descente de Tournoël", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7008344", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -14069,7 +14069,7 @@
                 "difficulty": "", 
                 "id": 173, 
                 "name": "descente des marches", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10279107", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -14235,7 +14235,7 @@
                 "difficulty": "", 
                 "id": 174, 
                 "name": "Descente du chemin des Crêtes", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/4869219", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -14299,7 +14299,7 @@
                 "difficulty": "", 
                 "id": 175, 
                 "name": "Descente du ravin de Vazilhat", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7964276", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -14375,7 +14375,7 @@
                 "difficulty": "", 
                 "id": 176, 
                 "name": "Descente du single de l'escargot", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/16403982", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -14449,7 +14449,7 @@
                 "difficulty": "", 
                 "id": 177, 
                 "name": "Descente Gorges de Viallard", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/6269902", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -14547,7 +14547,7 @@
                 "difficulty": "", 
                 "id": 178, 
                 "name": "descente gouttes", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/6379186", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -14596,7 +14596,7 @@
                 "difficulty": "", 
                 "id": 179, 
                 "name": "Descente Le Crest", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17846867", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -14706,7 +14706,7 @@
                 "difficulty": "", 
                 "id": 180, 
                 "name": "Descente nord-est du puy de Jumes", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17604167", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -14800,7 +14800,7 @@
                 "difficulty": "", 
                 "id": 181, 
                 "name": "Descente petite carrière", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/18918317", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -15540,7 +15540,7 @@
                 "difficulty": "", 
                 "id": 182, 
                 "name": "Descente technique à travers bois", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/9033560", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -15602,7 +15602,7 @@
                 "difficulty": "", 
                 "id": 183, 
                 "name": "descente traversin bis", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15445728", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -15684,7 +15684,7 @@
                 "difficulty": "", 
                 "id": 184, 
                 "name": "DH - La Pradelle à Moignoux", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15215627", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -15790,7 +15790,7 @@
                 "difficulty": "", 
                 "id": 185, 
                 "name": "DH - Vers Le Bouchet au Barrage de Queuille", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15879667", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -15842,7 +15842,7 @@
                 "difficulty": "", 
                 "id": 186, 
                 "name": "Dh Air soft", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/16705535", 
                 "stroke": "#000000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -15928,7 +15928,7 @@
                 "difficulty": "", 
                 "id": 187, 
                 "name": "DH Anzelle Complète", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11970929", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -16002,7 +16002,7 @@
                 "difficulty": "", 
                 "id": 188, 
                 "name": "DH D9 au Madet", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15445661", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -16394,7 +16394,7 @@
                 "difficulty": "", 
                 "id": 190, 
                 "name": "Driiift", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/8580874", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -16456,7 +16456,7 @@
                 "difficulty": "", 
                 "id": 191, 
                 "name": "foie ferrée bas", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/6492236", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -16517,7 +16517,7 @@
                 "difficulty": "", 
                 "id": 192, 
                 "name": "Into The Wild", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/19420702", 
                 "stroke": "#000000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -16579,7 +16579,7 @@
                 "difficulty": "", 
                 "id": 193, 
                 "name": "La Faucheuse", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15973481", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -17096,7 +17096,7 @@
                 "difficulty": "", 
                 "id": 194, 
                 "name": "La Faucheuse", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15973481", 
                 "stroke": "#000000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -17168,7 +17168,7 @@
                 "difficulty": "", 
                 "id": 195, 
                 "name": "La Dalle", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17206313", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -17222,7 +17222,7 @@
                 "difficulty": "", 
                 "id": 196, 
                 "name": "Lambroise", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/16182288", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -17291,7 +17291,7 @@
                 "difficulty": "", 
                 "id": 197, 
                 "name": "Little Single", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17724912", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -17348,7 +17348,7 @@
                 "difficulty": "", 
                 "id": 198, 
                 "name": "Ne tombe pas dans le fossé", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/19342537", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -17425,7 +17425,7 @@
                 "difficulty": "", 
                 "id": 199, 
                 "name": "Parallele au single de l'escargot", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15503597", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -17877,7 +17877,7 @@
                 "difficulty": "", 
                 "id": 200, 
                 "name": "Pierre qui roule n'amasse pas mousse", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10190534", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -18293,7 +18293,7 @@
                 "difficulty": "", 
                 "id": 201, 
                 "name": "pif paf sous le bois", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/13468310", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -18357,7 +18357,7 @@
                 "difficulty": "", 
                 "id": 202, 
                 "name": "Piste ďentrainement", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17124459", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -18423,7 +18423,7 @@
                 "difficulty": "", 
                 "id": 203, 
                 "name": "PTZC#1", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/12911398", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -18497,7 +18497,7 @@
                 "difficulty": "", 
                 "id": 204, 
                 "name": "Redescente vers Nugère", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/6394123", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -18555,7 +18555,7 @@
                 "difficulty": "", 
                 "id": 205, 
                 "name": "ROROsingle part 1", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11022783", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -18609,7 +18609,7 @@
                 "difficulty": "", 
                 "id": 206, 
                 "name": "Saute dans les bois", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15576313", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -18781,7 +18781,7 @@
                 "difficulty": "", 
                 "id": 207, 
                 "name": "Lambroise", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/16182288", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -19081,7 +19081,7 @@
                 "difficulty": "", 
                 "id": 208, 
                 "name": "Single de la Monne", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/6463381", 
                 "stroke": "#000000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -19308,7 +19308,7 @@
                 "difficulty": "", 
                 "id": 209, 
                 "name": "Scottish Peat", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/16182310", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -19638,7 +19638,7 @@
                 "difficulty": "", 
                 "id": 210, 
                 "name": "Descente du single de Randol", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7755780", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -20450,7 +20450,7 @@
                 "difficulty": "", 
                 "id": 211, 
                 "name": "Châteauneuf", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/16009264", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -21482,7 +21482,7 @@
                 "difficulty": "", 
                 "id": 212, 
                 "name": "Enduro des Granges", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/18651381", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -22696,7 +22696,7 @@
                 "difficulty": "", 
                 "id": 213, 
                 "name": "Single Le Mas", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10806266", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -24053,7 +24053,7 @@
                 "difficulty": "", 
                 "id": 214, 
                 "name": "Crête Infernale", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/19178678", 
                 "stroke": "#f400ff", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -25353,7 +25353,7 @@
                 "difficulty": "", 
                 "id": 215, 
                 "name": "Sentier du renard", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/8519421", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -25411,7 +25411,7 @@
                 "difficulty": "", 
                 "id": 216, 
                 "name": "Single - GR441", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7690137", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -25505,7 +25505,7 @@
                 "difficulty": "", 
                 "id": 217, 
                 "name": "Single Creux de la Berté", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/16164137", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -25563,7 +25563,7 @@
                 "difficulty": "", 
                 "id": 218, 
                 "name": "Single de la Ribe", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17479971", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -25625,7 +25625,7 @@
                 "difficulty": "", 
                 "id": 219, 
                 "name": "Single de Teix au pont de Chambon", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/14200598", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -25695,7 +25695,7 @@
                 "difficulty": "", 
                 "id": 220, 
                 "name": "single descente Montaigut", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17551369", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -25784,7 +25784,7 @@
                 "difficulty": "", 
                 "id": 221, 
                 "name": "single du puy de l'orme", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10382759", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -25840,7 +25840,7 @@
                 "difficulty": "", 
                 "id": 222, 
                 "name": "Single du ravin de quinsat", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/13715356", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -25922,7 +25922,7 @@
                 "difficulty": "", 
                 "id": 223, 
                 "name": "Single en pouzzolane", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/17759723", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -26076,7 +26076,7 @@
                 "difficulty": "", 
                 "id": 225, 
                 "name": "single rocher des campeurs", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/13112972", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -27340,7 +27340,7 @@
                 "difficulty": "", 
                 "id": 226, 
                 "name": "Single Sayat", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10473501", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -27410,7 +27410,7 @@
                 "difficulty": "", 
                 "id": 227, 
                 "name": "Single Track le Point de Vue Châtel", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11425428", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -27470,7 +27470,7 @@
                 "difficulty": "", 
                 "id": 228, 
                 "name": "Single le long de la veyre II", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/13014795", 
                 "stroke": "#006400", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -27532,7 +27532,7 @@
                 "difficulty": "", 
                 "id": 229, 
                 "name": "String dentelle", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/15324291", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -27700,7 +27700,7 @@
                 "difficulty": "", 
                 "id": 230, 
                 "name": "Tobogan du bedat", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/6778234", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -27764,7 +27764,7 @@
                 "difficulty": "", 
                 "id": 231, 
                 "name": "Trace FR Gergo", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/6926286", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -27866,7 +27866,7 @@
                 "difficulty": "", 
                 "id": 232, 
                 "name": "Trail du Barrage", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/7019655", 
                 "stroke": "#008000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -27960,7 +27960,7 @@
                 "difficulty": "", 
                 "id": 233, 
                 "name": "Voie ferrrée haut", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/4545052", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -28050,7 +28050,7 @@
                 "difficulty": "", 
                 "id": 234, 
                 "name": "Voie romaine descente", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/9593222", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -28402,7 +28402,7 @@
                 "difficulty": "", 
                 "id": 235, 
                 "name": "Vraie Veine CHATEAUGAY", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/8539531", 
                 "stroke": "#000000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -28483,7 +28483,7 @@
                 "difficulty": "", 
                 "id": 236, 
                 "name": "Zig Zag servière", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/14971492/", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -28545,7 +28545,7 @@
                 "difficulty": "", 
                 "id": 237, 
                 "name": "Zip dans les bois", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/18547798", 
                 "stroke": "#0000FF", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -28615,7 +28615,7 @@
                 "difficulty": "", 
                 "id": 238, 
                 "name": "Carrières de Gravenoire version feuilles", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/11524614", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -28689,7 +28689,7 @@
                 "difficulty": "", 
                 "id": 239, 
                 "name": "Descente vers rue de la Pauze", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/14392005", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
@@ -28755,7 +28755,7 @@
                 "difficulty": "", 
                 "id": 240, 
                 "name": "Descente Bois de Rochetoux", 
-                "strava": null, 
+                "strava": "https://www.strava.com/segments/10051060", 
                 "stroke": "#ff0000", 
                 "stroke-opacity": "1", 
                 "stroke-width": "2"
